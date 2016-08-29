@@ -11,7 +11,7 @@ for k in range(1, 200):
 
 
 
-    
+
     for pid in project_df.id:
         url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=974844c96bce6c2843450458d78d8abf1079c2df7a0dafb27c56876afedd69d2&page=0".format(pid)
         f = urllib.request.urlopen(url)
@@ -69,9 +69,5 @@ for k in range(1, 200):
                 #contrib.to_msgpack('contributors_for_project_with_id_{}.msg'.format(pid), encoding="utf-8")
                 msg_file_path = os.path.join(".", "contribs_msg", cfile_name + ".msg")
                 contribs_df.to_msgpack(msg_file_path, encoding="utf-8")
-                #contribs_345345_0of41.msg .xml
+                #contribs_345345_0of41.msg .xml (example)
                 print(contribs_df)
-
-
-
-
