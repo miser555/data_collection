@@ -70,4 +70,5 @@ for k in range(1, 200):
                 msg_file_path = os.path.join(".", "contribs_msg", cfile_name + ".msg")
                 contribs_df.to_msgpack(msg_file_path, encoding="utf-8")
                 #contribs_345345_0of41.msg .xml (example)
+                #print the DataFrame
                 print(contribs_df)
