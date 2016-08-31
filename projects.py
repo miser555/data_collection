@@ -46,8 +46,10 @@ for p in range(1,21):
 
 
 # now that we are done let's create a merged project file
-merged_projects_df = pd.DataFrame()
+#merged_projects_df = pd.DataFrame()
 success = True
+#new way to append (concat using lists of dfs)
+merged_projects = []
 for p in range(1,21):
     print("### merging project data from dataframe {}".format(p))
     # construct unique filename
@@ -56,15 +58,18 @@ for p in range(1,21):
     # check if msg file exist so we can merge
     if os.path.exists(msgfile_path):
         print("{}.msg exists, merging".format(msgfile_name))
-        merged_projects_df.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
+        #merged_projects_df.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
+        merged_projects.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
     else:
         print("{}.msg is missing, check the script and rerun to fetch it".format(msgfile_path))
         success = False
         break
+merged_projects = pd.concat(merged_projects, axis=0)
 
 
 # storing merged projects into project.msg
 if success:
     merged_df_file = os.path.join(MSG_FOLDER, "projects.msg")
     print("successfully merged everything into {}".format(merged_df_file))
-    merged_projects_df.to_msgpack(merged_df_file, encoding="utf-8")
+    #merged_projects_df.to_msgpack(merged_df_file, encoding="utf-8")
+    merged_projects.to_msgpack(merged_df_file, encoding="utf-8")
