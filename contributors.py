@@ -12,7 +12,7 @@ for k in range(1, 200):
     project_df = pd.read_msgpack(os.path.join(MSG_FOLDER, "project_{}.msg".format(k)))
 
     for pid in project_df.id:
-        url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=974844c96bce6c2843450458d78d8abf1079c2df7a0dafb27c56876afedd69d2&page=0".format(pid)
+        url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=17d8977094974f37dd0e9947a65c5436447140a4d8bf2d6dd4550ddfeb927223&page=0".format(pid)
         f = urllib.request.urlopen(url)
         tree = ET.parse(f)
         elem = tree.getroot()
@@ -47,7 +47,7 @@ for k in range(1, 200):
                 continue
                 f = cxml_file
             else:
-                url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=974844c96bce6c2843450458d78d8abf1079c2df7a0dafb27c56876afedd69d2&page={}".format(pid,p)
+                url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=17d8977094974f37dd0e9947a65c5436447140a4d8bf2d6dd4550ddfeb927223&page={}".format(pid,p)
                 f = urllib.request.urlopen(url)
                 fetched_data_from_url = True
                 tree = ET.parse(f)
@@ -66,7 +66,7 @@ for k in range(1, 200):
                 # no need for this
                 #contrib=contrib.append(records)
                 #contrib.to_msgpack('contributors_for_project_with_id_{}.msg'.format(pid), encoding="utf-8")
-                msg_file_path = os.path.join(XML_FOLDERky0k, cfile_name + ".msg")
+                msg_file_path = os.path.join(XML_FOLDER, cfile_name + ".msg")
                 contribs_df.to_msgpack(msg_file_path, encoding="utf-8")
                 #contribs_345345_0of41.msg .xml (example)
                 #print the DataFrame
