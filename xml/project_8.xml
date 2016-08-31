@@ -1,0 +1,490 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>70</first_item_position>
+  <result>
+<project>
+  <id>8359</id>
+  <name>CodeRepos::Share</name>
+  <url>https://www.openhub.net/p/coderepos.xml</url>
+  <html_url>https://www.openhub.net/p/coderepos</html_url>
+  <created_at>2007-09-10T10:45:26Z</created_at>
+  <updated_at>2016-08-10T01:59:55Z</updated_at>
+  <description>the CodeRepos::Share is share public repositories.</description>
+  <homepage_url>http://coderepos.org/share/</homepage_url>
+  <download_url>http://coderepos.org/share/</download_url>
+  <url_name>coderepos</url_name>
+  <vanity_url>coderepos</vanity_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>15</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29317840</analysis_id>
+  <licenses>
+  </licenses>
+  <project_activity_index>
+    <value>30</value>
+    <description>Very Low</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>9088</id>
+  <name>Apache Tika</name>
+  <url>https://www.openhub.net/p/tika.xml</url>
+  <html_url>https://www.openhub.net/p/tika</html_url>
+  <created_at>2007-10-11T13:12:42Z</created_at>
+  <updated_at>2016-08-02T02:27:32Z</updated_at>
+  <description>The Apache Tika&#8482; toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.
+
+Tika is a project of the Apache Software Foundation, and was formerly a subproject of Apache Lucene.</description>
+  <homepage_url>http://tika.apache.org/</homepage_url>
+  <download_url>http://tika.apache.org/download.html</download_url>
+  <url_name>tika</url_name>
+  <vanity_url>tika</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/8697/tikaNoText_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/8697/tikaNoText_small.png</small_logo_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29311491</analysis_id>
+  <tags>
+    <tag>metadata</tag>
+    <tag>content</tag>
+    <tag>mime</tag>
+    <tag>java</tag>
+    <tag>tika</tag>
+    <tag>parser</tag>
+    <tag>lucene</tag>
+    <tag>apache</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>60</value>
+    <description>High</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>11728</id>
+  <name>oVirt</name>
+  <url>https://www.openhub.net/p/oVirt.xml</url>
+  <html_url>https://www.openhub.net/p/oVirt</html_url>
+  <created_at>2008-02-15T02:50:45Z</created_at>
+  <updated_at>2016-08-01T21:27:34Z</updated_at>
+  <description>oVirt is a web based virtual machine management application. It builds on libvirt, Ruby, Rails, and collectd to provide a VM management application able to scale from a handful of machines to an entire data center. It integrates with FreeIPA to provide Kerberos single signon, and uses ISCSI for VM storage.</description>
+  <homepage_url>http://www.ovirt.org</homepage_url>
+  <download_url>http://www.ovirt.org/Download</download_url>
+  <url_name>oVirt</url_name>
+  <vanity_url>oVirt</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60686/oVirt-logo-64px_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60686/oVirt-logo-64px_small.png</small_logo_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29075199</analysis_id>
+  <tags>
+    <tag>java</tag>
+    <tag>ovirt</tag>
+    <tag>fedora</tag>
+    <tag>kvm</tag>
+    <tag>python</tag>
+    <tag>virtualization</tag>
+    <tag>CentOS</tag>
+    <tag>rhel</tag>
+    <tag>vdsm</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Documentation</title>
+      <url>http://www.ovirt.org/documentation/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Community links</title>
+      <url>http://www.ovirt.org/community/</url>
+      <category>Community</category>
+    </link>
+    <link>
+      <title>oVirt blog</title>
+      <url>http://www.ovirt.org/blog/</url>
+      <category>Other</category>
+    </link>
+    <link>
+      <title>oVirt issue tracker</title>
+      <url>https://bugzilla.redhat.com/enter_bug.cgi?classification=oVirt</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Mailing Lists</title>
+      <url>http://www.ovirt.org/Mailing_lists</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>oVirt wiki</title>
+      <url>http://www.ovirt.org/Home</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>25538</id>
+  <name>Ardour</name>
+  <url>https://www.openhub.net/p/ardour.xml</url>
+  <html_url>https://www.openhub.net/p/ardour</html_url>
+  <created_at>2008-10-11T06:55:05Z</created_at>
+  <updated_at>2016-07-20T13:59:00Z</updated_at>
+  <description>Ardour is a hard disk recorder and digital audio workstation application.</description>
+  <homepage_url>http://ardour.org</homepage_url>
+  <download_url />
+  <url_name>ardour</url_name>
+  <vanity_url>ardour</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/62962/ardour_icon_256px_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/62962/ardour_icon_256px_small.png</small_logo_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29304470</analysis_id>
+  <tags>
+    <tag>multimedia</tag>
+    <tag>daw</tag>
+    <tag>linux</tag>
+    <tag>jack</tag>
+    <tag>app</tag>
+    <tag>gtk2</tag>
+    <tag>music</tag>
+    <tag>audio</tag>
+    <tag>mastering</tag>
+    <tag>midi</tag>
+    <tag>mixing</tag>
+    <tag>digital_audio_workstation</tag>
+    <tag>multitrack</tag>
+    <tag>dsp</tag>
+    <tag>composition</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>308600</id>
+  <name>Wayland</name>
+  <url>https://www.openhub.net/p/wayland.xml</url>
+  <html_url>https://www.openhub.net/p/wayland</html_url>
+  <created_at>2009-01-26T14:49:45Z</created_at>
+  <updated_at>2016-08-09T16:26:09Z</updated_at>
+  <description>Wayland is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an X application, or a wayland client itself. The clients can be traditional applications, X servers (rootless or fullscreen) or other display servers.
+
+Weston is the open-source reference implementation of Wayland. Check Weston project here:
+https://www.ohloh.net/p/weston</description>
+  <homepage_url>http://wayland.freedesktop.org/</homepage_url>
+  <download_url>http://wayland.freedesktop.org/building.html</download_url>
+  <url_name>wayland</url_name>
+  <vanity_url>wayland</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/38880/wayland_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/38880/wayland_small.png</small_logo_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29317430</analysis_id>
+  <tags>
+    <tag>graphics3d</tag>
+    <tag>c</tag>
+    <tag>linux</tag>
+    <tag>drm</tag>
+    <tag>compositing</tag>
+    <tag>weston</tag>
+    <tag>modesetting</tag>
+    <tag>display-server</tag>
+    <tag>graphics</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>60</value>
+    <description>High</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>486249</id>
+  <name>FDroid Repository</name>
+  <url>https://www.openhub.net/p/fdroid.xml</url>
+  <html_url>https://www.openhub.net/p/fdroid</html_url>
+  <created_at>2010-10-30T12:44:27Z</created_at>
+  <updated_at>2016-07-29T12:28:28Z</updated_at>
+  <description>Repository (alternative market) for FOSS applications on the Android platform.</description>
+  <homepage_url>http://f-droid.org/repository</homepage_url>
+  <download_url>http://f-droid.org/repository</download_url>
+  <url_name>fdroid</url_name>
+  <vanity_url>fdroid</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/75191/ic_launcher_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/75191/ic_launcher_small.png</small_logo_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29306262</analysis_id>
+  <tags>
+    <tag>appstore</tag>
+    <tag>apps</tag>
+    <tag>directory</tag>
+    <tag>android</tag>
+    <tag>mobile</tag>
+    <tag>foss</tag>
+    <tag>f_droid</tag>
+    <tag>repository</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 or later</name>
+      <vanity_url>gpl3_or_later</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>596488</id>
+  <name>RStudio</name>
+  <url>https://www.openhub.net/p/r_studio.xml</url>
+  <html_url>https://www.openhub.net/p/r_studio</html_url>
+  <created_at>2012-03-22T15:04:34Z</created_at>
+  <updated_at>2016-08-02T17:43:50Z</updated_at>
+  <description>RStudio is an integrated development environment (IDE) for R.
+
+For more information visit http://www.rstudio.org/docs/about</description>
+  <homepage_url>http://www.rstudio.org</homepage_url>
+  <download_url>http://www.rstudio.org/download/</download_url>
+  <url_name>r_studio</url_name>
+  <vanity_url>r_studio</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/70082/rstudio_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/70082/rstudio_small.png</small_logo_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29311669</analysis_id>
+  <tags>
+    <tag>web</tag>
+    <tag>linux</tag>
+    <tag>development</tag>
+    <tag>macosx</tag>
+    <tag>editor</tag>
+    <tag>r_project</tag>
+    <tag>gwt</tag>
+    <tag>programming</tag>
+    <tag>r</tag>
+    <tag>ide</tag>
+    <tag>windows</tag>
+    <tag>syntax_highlighting</tag>
+    <tag>statistics</tag>
+  </tags>
+  <licenses>
+  </licenses>
+  <project_activity_index>
+    <value>70</value>
+    <description>Very High</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>623297</id>
+  <name>Apache Marmotta</name>
+  <url>https://www.openhub.net/p/marmotta.xml</url>
+  <html_url>https://www.openhub.net/p/marmotta</html_url>
+  <created_at>2013-01-03T13:14:30Z</created_at>
+  <updated_at>2016-08-02T02:23:57Z</updated_at>
+  <description>Apache Marmotta, a Linked Data platform for industry-strength installations.
+
+The goal of Apache Marmotta is to provide an open implementation of a Linked Data Platform that can be used, extended, and deployed easily by organizations who want to publish Linked Data or build custom applications on Linked Data.</description>
+  <homepage_url>http://marmotta.apache.org</homepage_url>
+  <download_url>http://marmotta.apache.org/download.html</download_url>
+  <url_name>marmotta</url_name>
+  <vanity_url>marmotta</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/61458/cf4a63c8028b0e9f95e1c948695cccd8_bigger_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/61458/cf4a63c8028b0e9f95e1c948695cccd8_bigger_small.png</small_logo_url>
+  <user_count>23</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29141377</analysis_id>
+  <tags>
+    <tag>sparql</tag>
+    <tag>linkeddata</tag>
+    <tag>java</tag>
+    <tag>srfg</tag>
+    <tag>redlink</tag>
+    <tag>rdf</tag>
+    <tag>apache</tag>
+    <tag>ldp</tag>
+    <tag>ldpath</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Apache Marmotta Issue Tracker</title>
+      <url>https://issues.apache.org/jira/browse/MARMOTTA</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Mailing Lists</title>
+      <url>http://marmotta.apache.org/mail-lists.html</url>
+      <category>Mailing Lists</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>559</id>
+  <name>jogl</name>
+  <url>https://www.openhub.net/p/jogl.xml</url>
+  <html_url>https://www.openhub.net/p/jogl</html_url>
+  <created_at>2006-10-10T15:51:31Z</created_at>
+  <updated_at>2016-08-08T13:42:47Z</updated_at>
+  <description>The JOGL project hosts the development version of the Java&#8482; Binding for the OpenGL&#174; API, and is designed to provide hardware-supported 3D graphics to applications written in Java. 
+
+JOGL provides full access to the APIs in the OpenGL 1.3 - 3.0, 3.1 - 3.3, &#8805; 4.0, ES 1.x and ES 2.x specification as well as nearly all vendor extensions. OpenGL Evolution &amp; JOGL (UML) gives you a brief overview of OpenGL, it's profiles and how we map them to JOGL.
+
+JOGL integrates with the AWT and Swing widget sets, as well with custom windowing toolkits using the NativeWindow API. JOGL also provides it's own native windowing toolkit, NEWT.</description>
+  <homepage_url>http://jogl.jogamp.org/</homepage_url>
+  <download_url />
+  <url_name>jogl</url_name>
+  <vanity_url>jogl</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/37582/website_final_blue_wiki_symbol_135x135pel_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/37582/website_final_blue_wiki_symbol_135x135pel_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>8</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28531060</analysis_id>
+  <tags>
+    <tag>reference</tag>
+    <tag>linux</tag>
+    <tag>gpu</tag>
+    <tag>c++</tag>
+    <tag>api</tag>
+    <tag>programming</tag>
+    <tag>visualization</tag>
+    <tag>bindings</tag>
+    <tag>opengl</tag>
+    <tag>gluegen</tag>
+    <tag>media</tag>
+    <tag>game</tag>
+    <tag>3d</tag>
+    <tag>developer</tag>
+    <tag>language</tag>
+    <tag>java3d</tag>
+    <tag>library</tag>
+    <tag>graphics</tag>
+    <tag>jogamp</tag>
+    <tag>java</tag>
+    <tag>development</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 4-clause (University of California-Specific)</name>
+      <vanity_url>bsd</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>319420</id>
+  <name>pacemaker</name>
+  <url>https://www.openhub.net/p/pacemaker.xml</url>
+  <html_url>https://www.openhub.net/p/pacemaker</html_url>
+  <created_at>2009-03-17T17:20:25Z</created_at>
+  <updated_at>2016-08-23T19:26:38Z</updated_at>
+  <description>The scalable High-Availability cluster resource manager formerly part of Heartbeat.
+
+Pacemaker makes use of your cluster infrastructure (either OpenAIS or Heartbeat) to stop, start and monitor the health of the applications you want the cluster to make highly available.</description>
+  <homepage_url>http://www.clusterlabs.org/</homepage_url>
+  <download_url>http://www.clusterlabs.org/wiki/Install</download_url>
+  <url_name>pacemaker</url_name>
+  <vanity_url>pacemaker</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/22139/Wiki-Logo-Red_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/22139/Wiki-Logo-Red_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29364346</analysis_id>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+    <license>
+      <name>GNU Lesser General Public License v2.1 or later</name>
+      <vanity_url>lgpl21_or_later</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>60</value>
+    <description>High</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Configuration Reference 1.0 [html]</title>
+      <url>http://www.clusterlabs.org/doc/en-US/Pacemaker/1.0/html/Pacemaker_Explained/index.html</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Configuration Reference 1.0 [pdf]</title>
+      <url>http://www.clusterlabs.org/doc/en-US/Pacemaker/1.0/pdf/Pacemaker_Explained/Pacemaker_Explained.pdf</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Clusters from Scratch</title>
+      <url>http://www.clusterlabs.org/mediawiki/images/9/9d/Clusters_from_Scratch_-_Apache_on_Fedora11.pdf</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+  </result>
+</response>

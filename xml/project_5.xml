@@ -1,0 +1,695 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>40</first_item_position>
+  <result>
+<project>
+  <id>481950</id>
+  <name>M2E Android Configurator</name>
+  <url>https://www.openhub.net/p/m2e-android.xml</url>
+  <html_url>https://www.openhub.net/p/m2e-android</html_url>
+  <created_at>2010-03-20T14:25:08Z</created_at>
+  <updated_at>2016-07-29T12:28:29Z</updated_at>
+  <description>The Android Configurator is an Maven Integration for Eclipse (m2e) plug-in that adds maven support for Android Developer Tools (ADT) and the Maven Android Plugin.</description>
+  <homepage_url>http://rgladwell.github.com/m2e-android/</homepage_url>
+  <download_url />
+  <url_name>m2e-android</url_name>
+  <vanity_url>m2e-android</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+  <user_count>29</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29248759</analysis_id>
+  <tags>
+    <tag>build_tools</tag>
+    <tag>m2eclipse</tag>
+    <tag>development</tag>
+    <tag>java</tag>
+    <tag>androiddevelopement</tag>
+    <tag>tools</tag>
+    <tag>plugin</tag>
+    <tag>maven2</tag>
+    <tag>maven</tag>
+    <tag>eclipse</tag>
+    <tag>android</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Eclipse Public License 1.0</name>
+      <vanity_url>eclipse</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>488700</id>
+  <name>scikit-image</name>
+  <url>https://www.openhub.net/p/scikit-image.xml</url>
+  <html_url>https://www.openhub.net/p/scikit-image</html_url>
+  <created_at>2011-03-16T19:21:59Z</created_at>
+  <updated_at>2016-07-19T03:17:47Z</updated_at>
+  <description>An image processing library for SciPy, providing I/O, filtering, morphology, transformations, measurement, annotation, color conversions, test data sets, etc.</description>
+  <homepage_url>http://scikits-image.org</homepage_url>
+  <download_url>http://github.com/scikits-image</download_url>
+  <url_name>scikit-image</url_name>
+  <vanity_url>scikit-image</vanity_url>
+  <user_count>29</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29302551</analysis_id>
+  <tags>
+    <tag>imageanalysis</tag>
+    <tag>imageprocessing</tag>
+    <tag>image_transformation</tag>
+    <tag>python</tag>
+    <tag>image</tag>
+    <tag>image_processing</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>584490</id>
+  <name>Travis CI</name>
+  <url>https://www.openhub.net/p/travisci.xml</url>
+  <html_url>https://www.openhub.net/p/travisci</html_url>
+  <created_at>2011-06-11T21:01:18Z</created_at>
+  <updated_at>2016-07-20T15:02:37Z</updated_at>
+  <description>Travis CI is an open-source hosted, distributed, continuous integration service</description>
+  <homepage_url>http://travis-ci.org</homepage_url>
+  <download_url />
+  <url_name>travisci</url_name>
+  <vanity_url>travisci</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/73499/travis-mascot-200px_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/73499/travis-mascot-200px_small.png</small_logo_url>
+  <user_count>29</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29000692</analysis_id>
+  <tags>
+    <tag>ci</tag>
+    <tag>buildautomation</tag>
+    <tag>build_tools</tag>
+    <tag>ruby</tag>
+    <tag>test</tag>
+    <tag>continuous_integration</tag>
+    <tag>build_tool</tag>
+    <tag>build_system</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>350319</id>
+  <name>Hedgewars</name>
+  <url>https://www.openhub.net/p/hedgewars.xml</url>
+  <html_url>https://www.openhub.net/p/hedgewars</html_url>
+  <created_at>2009-07-19T21:00:43Z</created_at>
+  <updated_at>2016-08-27T17:40:44Z</updated_at>
+  <description>Hedgewars, it's a Blast! This is the funniest and most addictive game you'll ever play - hilarious fun that you can enjoy anywhere, anytime. Hedgewars is a turn based strategy game but the real buzz is from watching the devastation caused by those pesky hedgehogs with those fantastic weapons - sneaky little blighters with a bad attitude!</description>
+  <homepage_url>http://hedgewars.org/</homepage_url>
+  <download_url>http://hedgewars.org/download.html</download_url>
+  <url_name>hedgewars</url_name>
+  <vanity_url>hedgewars</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/34854/hedgewars-logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/34854/hedgewars-logo_small.png</small_logo_url>
+  <user_count>28</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>20</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29305617</analysis_id>
+  <tags>
+    <tag>qt</tag>
+    <tag>linux</tag>
+    <tag>skill</tag>
+    <tag>c++</tag>
+    <tag>macos</tag>
+    <tag>strategy</tag>
+    <tag>2dgame</tag>
+    <tag>sdl</tag>
+    <tag>opengl</tag>
+    <tag>artillery</tag>
+    <tag>game</tag>
+    <tag>windows</tag>
+    <tag>turn_based</tag>
+    <tag>online</tag>
+    <tag>pascal</tag>
+    <tag>freebsd</tag>
+    <tag>multiplayer</tag>
+    <tag>cross_platform</tag>
+    <tag>2d</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>60</value>
+    <description>High</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Facebook</title>
+      <url>https://www.facebook.com/Hedgewars</url>
+      <category>Community</category>
+    </link>
+    <link>
+      <title>Project pages</title>
+      <url>https://code.google.com/p/hedgewars/</url>
+      <category>Other</category>
+    </link>
+    <link>
+      <title>Official Forums</title>
+      <url>http://hedgewars.org/forum</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Google Code Issue Tracker</title>
+      <url>http://code.google.com/p/hedgewars/issues/list</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Development Mailing List</title>
+      <url>https://mail.gna.org/listinfo/hedgewars-dev/</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Code Wiki</title>
+      <url>http://code.google.com/p/hedgewars/w/list</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Wiki manual</title>
+      <url>http://hedgewars.org/node/1107</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>381594</id>
+  <name>Kaltura Community Edition (Kaltura CE)</name>
+  <url>https://www.openhub.net/p/kaltura.xml</url>
+  <html_url>https://www.openhub.net/p/kaltura</html_url>
+  <created_at>2009-08-16T13:52:04Z</created_at>
+  <updated_at>2016-08-27T18:17:19Z</updated_at>
+  <description>Kaltura is the leading video platform; reliable, scalable, and flexible platform powering hundreds of thousands of video experiences and workflows across industries in over 100 countries worldwide. Used by thousands of global enterprises, media companies, service providers, educational institutions, start-ups, technology platforms and cloud providers to engage hundreds of millions of viewers globally.
+Kaltura CE is a free and open-source video platform, providing tools for video management, publishing, syndication, monetization, media search and discovery, editing, collaboration, and sharing, and a robust framework for managing rich-media applications, and developing a variety of online workflows for video with enterprise level administration and monitoring tools as well video analytics.</description>
+  <homepage_url>http://www.kaltura.org</homepage_url>
+  <download_url>https://github.com/kaltura/platform-install-packages</download_url>
+  <url_name>kaltura</url_name>
+  <vanity_url>kaltura</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89253/Kaltura-Sun_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89253/Kaltura-Sun_small.png</small_logo_url>
+  <user_count>28</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>8</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29304144</analysis_id>
+  <tags>
+    <tag>templates</tag>
+    <tag>mediamanagement</tag>
+    <tag>richmedia_publishing</tag>
+    <tag>mediacenter</tag>
+    <tag>xml</tag>
+    <tag>wysiwyg</tag>
+    <tag>mencoder</tag>
+    <tag>videos</tag>
+    <tag>collaborationtool</tag>
+    <tag>flash</tag>
+    <tag>videopublishing</tag>
+    <tag>javascript</tag>
+    <tag>community</tag>
+    <tag>php</tag>
+    <tag>richmedia</tag>
+    <tag>richmedia_management</tag>
+    <tag>ruby</tag>
+    <tag>enterprise20</tag>
+    <tag>ffmpeg</tag>
+    <tag>zendframework</tag>
+    <tag>media</tag>
+    <tag>windows</tag>
+    <tag>mediainfo</tag>
+    <tag>videoplayer</tag>
+    <tag>opensource</tag>
+    <tag>player</tag>
+    <tag>flex</tag>
+    <tag>content_management</tag>
+    <tag>webapps</tag>
+    <tag>mediaserver</tag>
+    <tag>enterprise</tag>
+    <tag>syndication</tag>
+    <tag>cms</tag>
+    <tag>editing</tag>
+    <tag>tikiwiki</tag>
+    <tag>editor</tag>
+    <tag>website_management</tag>
+    <tag>remixing</tag>
+    <tag>kaltura</tag>
+    <tag>site_management</tag>
+    <tag>plugin</tag>
+    <tag>publishing</tag>
+    <tag>web_services</tag>
+    <tag>media_library</tag>
+    <tag>media_player</tag>
+    <tag>content</tag>
+    <tag>document_management</tag>
+    <tag>tiki_suite</tag>
+    <tag>collaboration</tag>
+    <tag>medialibrary</tag>
+    <tag>csharp</tag>
+    <tag>apache</tag>
+    <tag>video_editor</tag>
+    <tag>mysql</tag>
+    <tag>web</tag>
+    <tag>java</tag>
+    <tag>mobile</tag>
+    <tag>vp6</tag>
+    <tag>media_platform</tag>
+    <tag>management</tag>
+    <tag>website_administration</tag>
+    <tag>net</tag>
+    <tag>framework</tag>
+    <tag>python</tag>
+    <tag>video_publishing</tag>
+    <tag>mediaplayer</tag>
+    <tag>flashvideo</tag>
+    <tag>publishingenging</tag>
+    <tag>dynamic_content</tag>
+    <tag>media_publishing</tag>
+    <tag>linux</tag>
+    <tag>mediaportal</tag>
+    <tag>youtube</tag>
+    <tag>themes</tag>
+    <tag>video</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Affero General Public License v3.0</name>
+      <vanity_url>AGPL3</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Kaltura Community Forums</title>
+      <url>http://forum.kaltura.org/</url>
+      <category>Community</category>
+    </link>
+    <link>
+      <title>Kaltura Contributor Guidelines</title>
+      <url>https://github.com/kaltura/platform-install-packages/blob/master/doc/Contributing-to-the-Kaltura-Platform.md</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>RPM and deb Packages Issue Tracker</title>
+      <url>https://github.com/kaltura/platform-install-packages/issues</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Server Issue Tracker</title>
+      <url>https://github.com/kaltura/server/issues</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Kaltura Community Forums</title>
+      <url>http://forum.kaltura.org/</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Kaltura Knowledge Center</title>
+      <url>http://knowledge.kaltura.com</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>RPM and deb Packages Docs</title>
+      <url>https://github.com/kaltura/platform-install-packages/tree/master/doc</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>482071</id>
+  <name>Ehcache Spring Annotations</name>
+  <url>https://www.openhub.net/p/ehcache-spring-annotations.xml</url>
+  <html_url>https://www.openhub.net/p/ehcache-spring-annotations</html_url>
+  <created_at>2010-03-26T13:10:12Z</created_at>
+  <updated_at>2016-07-29T12:10:46Z</updated_at>
+  <description>A successor in spirit of the annotations provided by the Spring-Modules Cache library that allows aspect based caching to be added to a Spring based application by simple annotation.</description>
+  <homepage_url>http://code.google.com/p/ehcache-spring-annotations/</homepage_url>
+  <download_url>http://code.google.com/p/ehcache-spring-annotations/downloads/list</download_url>
+  <url_name>ehcache-spring-annotations</url_name>
+  <vanity_url>ehcache-spring-annotations</vanity_url>
+  <user_count>28</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28703251</analysis_id>
+  <tags>
+    <tag>ehcache</tag>
+    <tag>caching</tag>
+    <tag>annotations</tag>
+    <tag>springframework</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Reference Manual</title>
+      <url>http://code.google.com/p/ehcache-spring-annotations/wiki/UsingCacheAnnotations</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>597081</id>
+  <name>Iceweasel</name>
+  <url>https://www.openhub.net/p/iceweasel.xml</url>
+  <html_url>https://www.openhub.net/p/iceweasel</html_url>
+  <created_at>2012-04-11T15:32:07Z</created_at>
+  <updated_at>2016-07-05T11:49:02Z</updated_at>
+  <description>Iceweasel is Firefox, rebranded. It is a powerful, extensible web browser with support for modern web application technologies. The original upstream tarball is modified by removing a set of sourceless binary, non-free, and VCS-related files.</description>
+  <homepage_url>http://packages.debian.org/sid/iceweasel</homepage_url>
+  <download_url>http://packages.debian.org/sid/iceweasel</download_url>
+  <url_name>iceweasel</url_name>
+  <vanity_url>iceweasel</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/52403/Iceweasel-icon_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/52403/Iceweasel-icon_small.png</small_logo_url>
+  <user_count>28</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29161688</analysis_id>
+  <tags>
+    <tag>javascript</tag>
+    <tag>xhtml</tag>
+    <tag>client</tag>
+    <tag>browser</tag>
+    <tag>web_browser</tag>
+    <tag>firefox</tag>
+    <tag>css</tag>
+    <tag>gtk</tag>
+    <tag>mozilla</tag>
+    <tag>tabbed</tag>
+    <tag>html</tag>
+    <tag>http</tag>
+    <tag>xul</tag>
+    <tag>css3</tag>
+    <tag>html5</tag>
+    <tag>www</tag>
+    <tag>gecko</tag>
+    <tag>web</tag>
+    <tag>chrome</tag>
+    <tag>development</tag>
+    <tag>https</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 4-clause (University of California-Specific)</name>
+      <vanity_url>bsd</vanity_url>
+    </license>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+    <license>
+      <name>GNU Lesser General Public License v2.1 only</name>
+      <vanity_url>lgpl21</vanity_url>
+    </license>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+    <license>
+      <name>Mozilla Public License 1.1</name>
+      <vanity_url>mozilla_public_1_1</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>149</id>
+  <name>XBMC for Xbox</name>
+  <url>https://www.openhub.net/p/_149.xml</url>
+  <html_url>https://www.openhub.net/p/_149</html_url>
+  <created_at>2006-10-10T15:51:31Z</created_at>
+  <updated_at>2016-07-28T07:28:21Z</updated_at>
+  <description>XBMC is a multimedia player/jukebox for the Xbox from Microsoft. It can be used to play or view most common video, audio, and picture formats such as MPEG-1/2/4, DivX, XviD, MP3, AAC, JPG, and GIF directly from a CD or DVD in the Xbox DVD-ROM drive or from the Xbox hard drive. XBMC can also stream files over a local network or from the Internet. Playlist and slideshow functions, a weather forecast, and many audio visualizations are also included.</description>
+  <homepage_url>http://www.xbmc4xbox.org.uk/</homepage_url>
+  <download_url>http://www.xbmc4xbox.org.uk/download/</download_url>
+  <url_name>_149</url_name>
+  <vanity_url>_149</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/87298/xbmc_logo_med.jpg</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/87298/xbmc_logo_small.jpg</small_logo_url>
+  <user_count>27</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>9</rating_count>
+  <review_count>2</review_count>
+  <analysis_id>21917441</analysis_id>
+  <tags>
+    <tag>vorbis</tag>
+    <tag>c++</tag>
+    <tag>htpc</tag>
+    <tag>podcast</tag>
+    <tag>display</tag>
+    <tag>cross-platform</tag>
+    <tag>audio</tag>
+    <tag>console</tag>
+    <tag>upnp</tag>
+    <tag>rtsp</tag>
+    <tag>video</tag>
+    <tag>videocast</tag>
+    <tag>dts</tag>
+    <tag>mediacenter</tag>
+    <tag>player</tag>
+    <tag>remote</tag>
+    <tag>python</tag>
+    <tag>streaming</tag>
+    <tag>dvb</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+    <license>
+      <name>GNU Library or "Lesser" GPL (LGPL)</name>
+      <vanity_url>lgpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Project Bugtracker</title>
+      <url>http://redmine.exotica.org.uk/projects/xbmc4xbox/</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>XBMC4Xbox Forum</title>
+      <url>http://www.xbmc4xbox.org.uk/forum/</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>3519</id>
+  <name>displaytag</name>
+  <url>https://www.openhub.net/p/displaytag.xml</url>
+  <html_url>https://www.openhub.net/p/displaytag</html_url>
+  <created_at>2006-11-05T09:14:58Z</created_at>
+  <updated_at>2016-07-16T10:04:33Z</updated_at>
+  <description>The display tag library is an open source suite of custom tags that provide high-level web presentation patterns which
+will work in an MVC model. The library provides a significant amount of functionality while still being easy to use.</description>
+  <homepage_url>http://displaytag.sourceforge.net/</homepage_url>
+  <download_url />
+  <url_name>displaytag</url_name>
+  <vanity_url>displaytag</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/33644/displaytag_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/33644/displaytag_small.png</small_logo_url>
+  <user_count>27</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29232534</analysis_id>
+  <tags>
+    <tag>table</tag>
+    <tag>jsp_tag_library</tag>
+    <tag>displaytag</tag>
+    <tag>taglib</tag>
+    <tag>jsp</tag>
+    <tag>tags</tag>
+  </tags>
+  <licenses>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>10422</id>
+  <name>ISPConfig</name>
+  <url>https://www.openhub.net/p/ispconfig.xml</url>
+  <html_url>https://www.openhub.net/p/ispconfig</html_url>
+  <created_at>2007-12-20T17:12:00Z</created_at>
+  <updated_at>2016-08-19T17:51:18Z</updated_at>
+  <description>ISPConfig is an open source hosting control panel for Linux.
+
+ISPconfig 3 is capable of managing multiple servers from one control panel.
+
+Managed Services and Features
+*Manage one or more Servers from one Controlpanel (Multiserver Management)
+*Different permission levels (Administrators, Resellers and Clients) + Email user level provided by a roundcube plugin for ISPConfig
+*Httpd (virtual hosts, domain and IP based)
+*FTP, SFTP, SCP
+*DNS (A, CNAME, MX, SRV and TXT Records)
+*POP3, IMAP
+*Email-Autoresponder
+*Server based mail filtering
+*Advanced email spamfilter and antivirus filter
+*MySQL client-databases
+*Webalizer statistics
+*Harddisk quota
+*Mail-Quota
+*Traffic limits and statistics
+*IP-addresses
+*SSL
+*SSI
+*PHP
+*Shell-access
+*Jailed shell access
+*Firewall
+*Server monitoring 
+*phpMyAdmin</description>
+  <homepage_url>http://www.ispconfig.org/</homepage_url>
+  <download_url>http://www.ispconfig.org/downloads.htm</download_url>
+  <url_name>ispconfig</url_name>
+  <vanity_url>ispconfig</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/38700/ispconfig_logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/38700/ispconfig_logo_small.png</small_logo_url>
+  <user_count>27</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>22949899</analysis_id>
+  <tags>
+    <tag>postfix</tag>
+    <tag>systems_administration</tag>
+    <tag>linux</tag>
+    <tag>imap</tag>
+    <tag>ssl</tag>
+    <tag>clamav</tag>
+    <tag>powerdns</tag>
+    <tag>tool</tag>
+    <tag>fail2ban</tag>
+    <tag>phpmyadmin</tag>
+    <tag>hosting</tag>
+    <tag>smtp</tag>
+    <tag>webhosting</tag>
+    <tag>antivirus</tag>
+    <tag>awstats</tag>
+    <tag>mysql</tag>
+    <tag>domain</tag>
+    <tag>antispam</tag>
+    <tag>server</tag>
+    <tag>sysadmin</tag>
+    <tag>control_panel</tag>
+    <tag>isp</tag>
+    <tag>virtual</tag>
+    <tag>roundcube</tag>
+    <tag>httpd</tag>
+    <tag>control</tag>
+    <tag>email</tag>
+    <tag>ftp</tag>
+    <tag>php</tag>
+    <tag>management</tag>
+    <tag>system_administration</tag>
+    <tag>soap</tag>
+    <tag>managed</tag>
+    <tag>admin</tag>
+    <tag>hostingcontrolpanel</tag>
+    <tag>pop</tag>
+    <tag>firewall</tag>
+    <tag>squirrelmail</tag>
+    <tag>pop3</tag>
+    <tag>mydns</tag>
+    <tag>dns</tag>
+    <tag>administration</tag>
+    <tag>configuration</tag>
+    <tag>virtual_host</tag>
+    <tag>webalizer</tag>
+    <tag>spamassassin</tag>
+    <tag>quota</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Supportforum ispconfig German</title>
+      <url>http://www.howtoforge.de/forum/</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Supportforum ispconfig2 english</title>
+      <url>http://www.howtoforge.com/forums/forumdisplay.php?f=14</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Supportforum ispconfig3 english</title>
+      <url>http://www.howtoforge.com/forums/forumdisplay.php?f=23</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+  </result>
+</response>

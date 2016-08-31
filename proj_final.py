@@ -8,12 +8,12 @@ MSG_FOLDER = os.path.join(".","msg")
 XML_FOLDER = os.path.join(".","xml")
 
 if not os.path.exists(MSG_FOLDER):
-    os.path.mkdirs(MSG_FOLDER)
+    os.makedirs(MSG_FOLDER)
 
 if not os.path.exists(XML_FOLDER):
-    os.path.mkdirs(XML_FOLDER)
+    os.makedirs(XML_FOLDER)
 
-for p in range(1,201):
+for p in range(1,21):
     print("### fetching project page {}".format(p))
 
     # construct unique filename
@@ -45,10 +45,26 @@ for p in range(1,201):
        projects_df.to_msgpack(msg_file_path, encoding="utf-8")
 
 
+# now that we are done let's create a merged project file
+merged_projects_df = pd.DataFrame()
+success = True
+for p in range(1,21):
+    print("### merging project data from dataframe {}".format(p))
+    # construct unique filename
+    msgfile_name = "project_{}.msg".format(p)
+    msgfile_path = os.path.join(MSG_FOLDER, msgfile_name)
+    # check if msg file exist so we can merge
+    if os.path.exists(msgfile_path):
+        print("{}.msg exists, merging".format(msgfile_name))
+        merged_projects_df.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
+    else:
+        print("{}.msg is missing, check the script and rerun to fetch it".format(msgfile_path))
+        success = False
+        break
 
 
-
-
-
-
-
+# storing merged projects into project.msg
+if success:
+    merged_df_file = os.path.join(MSG_FOLDER, "projects.msg")
+    print("successfully merged everything into {}".format(merged_df_file))
+    merged_projects_df.to_msgpack(merged_df_file, encoding="utf-8")

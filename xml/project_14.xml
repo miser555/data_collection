@@ -1,0 +1,492 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>130</first_item_position>
+  <result>
+<project>
+  <id>349011</id>
+  <name>flashrom</name>
+  <url>https://www.openhub.net/p/flashrom.xml</url>
+  <html_url>https://www.openhub.net/p/flashrom</html_url>
+  <created_at>2009-07-07T09:39:46Z</created_at>
+  <updated_at>2016-05-08T19:12:52Z</updated_at>
+  <description>flashrom is a utility for identifying, reading, writing, verifying and erasing flash chips. It's often used to flash BIOS/EFI/coreboot/firmware images.</description>
+  <homepage_url>http://www.flashrom.org/</homepage_url>
+  <download_url>http://www.flashrom.org/Downloads</download_url>
+  <url_name>flashrom</url_name>
+  <vanity_url>flashrom</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89937/flashrom_icon_color-128x128_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89937/flashrom_icon_color-128x128_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>9</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28798111</analysis_id>
+  <tags>
+    <tag>bios</tag>
+    <tag>rom</tag>
+    <tag>flash</tag>
+    <tag>recover</tag>
+    <tag>freesoftware</tag>
+    <tag>lpc</tag>
+    <tag>efi</tag>
+    <tag>parallel</tag>
+    <tag>flasher</tag>
+    <tag>firmware</tag>
+    <tag>spi</tag>
+    <tag>fwh</tag>
+    <tag>c</tag>
+    <tag>gpl</tag>
+    <tag>coreboot</tag>
+    <tag>commandline</tag>
+    <tag>x86</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>flashrom mailing list</title>
+      <url>http://www.flashrom.org/mailman/listinfo/flashrom</url>
+      <category>Mailing Lists</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>359661</id>
+  <name>riak</name>
+  <url>https://www.openhub.net/p/riak.xml</url>
+  <html_url>https://www.openhub.net/p/riak</html_url>
+  <created_at>2009-08-08T01:39:32Z</created_at>
+  <updated_at>2016-07-15T22:37:22Z</updated_at>
+  <description>Riak combines a decentralized key-value store, a flexible map/reduce engine, and a friendly HTTP/JSON query interface to provide a database ideally suited for Web applications.</description>
+  <homepage_url>http://riak.basho.com/</homepage_url>
+  <download_url>http://downloads.basho.com/riak/</download_url>
+  <url_name>riak</url_name>
+  <vanity_url>riak</vanity_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29219657</analysis_id>
+  <tags>
+    <tag>key-value</tag>
+    <tag>json</tag>
+    <tag>decentralized</tag>
+    <tag>consistent-hashing</tag>
+    <tag>http</tag>
+    <tag>javascript</tag>
+    <tag>erlang</tag>
+    <tag>mapreduce</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>466851</id>
+  <name>Plack.pm</name>
+  <url>https://www.openhub.net/p/Plack-perl.xml</url>
+  <html_url>https://www.openhub.net/p/Plack-perl</html_url>
+  <created_at>2009-10-24T08:56:46Z</created_at>
+  <updated_at>2016-08-05T09:56:30Z</updated_at>
+  <description>Plack is a Perl module and namespace that contains a set of reference server implementations, middleware and utility modules for PSGI, Perl Web Server Gateway Interface.</description>
+  <homepage_url>http://plackperl.org/</homepage_url>
+  <download_url>http://search.cpan.org/dist/Plack</download_url>
+  <url_name>Plack-perl</url_name>
+  <vanity_url>Plack-perl</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/6236/perl-module_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/6236/perl-module_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29313286</analysis_id>
+  <tags>
+    <tag>cgi</tag>
+    <tag>web</tag>
+    <tag>plack</tag>
+    <tag>server</tag>
+    <tag>perl</tag>
+    <tag>fastcgi</tag>
+    <tag>psgi</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Artistic License/GPL</name>
+      <vanity_url>artistic_gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>40</value>
+    <description>Low</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>598352</id>
+  <name>Ember.js</name>
+  <url>https://www.openhub.net/p/emberjs.xml</url>
+  <html_url>https://www.openhub.net/p/emberjs</html_url>
+  <created_at>2012-05-24T04:13:10Z</created_at>
+  <updated_at>2016-08-15T00:35:39Z</updated_at>
+  <description>Ember.js - A JavaScript framework for creating ambitious web applications</description>
+  <homepage_url>http://emberjs.com/</homepage_url>
+  <download_url>http://emberjs.com/builds/</download_url>
+  <url_name>emberjs</url_name>
+  <vanity_url>emberjs</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/69058/Ember.js_Logo_and_Mascot_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/69058/Ember.js_Logo_and_Mascot_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29328420</analysis_id>
+  <tags>
+    <tag>mvc</tag>
+    <tag>javascript</tag>
+    <tag>framework</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>70</value>
+    <description>Very High</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Ember.js Guides</title>
+      <url>http://emberjs.com/guides/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Ember.js Discussion Forum</title>
+      <url>http://discuss.emberjs.com</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>603104</id>
+  <name>rasdaman</name>
+  <url>https://www.openhub.net/p/rasdaman.xml</url>
+  <html_url>https://www.openhub.net/p/rasdaman</html_url>
+  <created_at>2012-07-01T11:30:11Z</created_at>
+  <updated_at>2016-08-17T18:35:19Z</updated_at>
+  <description>rasdaman is the pioneer Array Database enabling Big Data Analytics on massive multi-dimensional arrays such as sensor, image, simulation, and statistics data. Its declarative query language extends SQL with parallelized array operators. Tools supported include R, GDAL, QGIS.
+
+rasdaman has been released into OS by rasdaman GmbH and is now co-led by Jacobs U, the makers of several Big Data standards: ISO Array SQL, OGC WCS and  WCPS; rasdaman is WCS Core Reference Implementation, OSGeo incubation project and part of OSGeo Live (live.osgeo.org).</description>
+  <homepage_url>http://www.rasdaman.org</homepage_url>
+  <download_url>http://www.rasdaman.org</download_url>
+  <url_name>rasdaman</url_name>
+  <vanity_url>rasdaman</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89096/r-minipic_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89096/r-minipic_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29343839</analysis_id>
+  <tags>
+    <tag>bigdata</tag>
+    <tag>database</tag>
+    <tag>scientificdataanalysis</tag>
+    <tag>arrayquery</tag>
+    <tag>analytics</tag>
+    <tag>array_processing</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 or later</name>
+      <vanity_url>gpl3_or_later</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>50</value>
+    <description>Moderate</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>rasdaman documentation</title>
+      <url>http://rasdaman.org/wiki/Documentatio</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Earth datacube standards showcase, based on rasdaman</title>
+      <url>http://standards.rasdaman.com</url>
+      <category>Other</category>
+    </link>
+    <link>
+      <title>EarthServer: Big Earth Data Analytics</title>
+      <url>http:/www.earthserver.eu</url>
+      <category>Community</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>723663</id>
+  <name>Open PaaS</name>
+  <url>https://www.openhub.net/p/openpaas.xml</url>
+  <html_url>https://www.openhub.net/p/openpaas</html_url>
+  <created_at>2015-07-08T11:54:44Z</created_at>
+  <updated_at>2016-07-27T15:49:39Z</updated_at>
+  <description>Open PaaS Enterprise Social Network and collaboration platform providing mail, agenda and contacts management, videoconference, collaborative document edition and so much more!
+Join us: http://open-paas.org</description>
+  <homepage_url>http://open-paas.org</homepage_url>
+  <download_url>https://github.com/linagora/openpaas-es</download_url>
+  <url_name>openpaas</url_name>
+  <vanity_url>openpaas</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/88627/openpaas-logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/88627/openpaas-logo_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>15</rating_count>
+  <review_count>2</review_count>
+  <analysis_id>29306358</analysis_id>
+  <tags>
+    <tag>angularjs</tag>
+    <tag>enterprise</tag>
+    <tag>less</tag>
+    <tag>jade</tag>
+    <tag>awesome</tag>
+    <tag>socialnetwork</tag>
+    <tag>javascript</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Affero General Public License v3.0</name>
+      <vanity_url>AGPL3</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>3200</id>
+  <name>EVEMon</name>
+  <url>https://www.openhub.net/p/evemon.xml</url>
+  <html_url>https://www.openhub.net/p/evemon</html_url>
+  <created_at>2006-10-17T21:28:02Z</created_at>
+  <updated_at>2016-07-29T12:20:49Z</updated_at>
+  <description>A character monitoring and planning program for EVE Online, an MMORPG developed by CCP games.</description>
+  <homepage_url>https://evemondevteam.github.io/evemon/</homepage_url>
+  <download_url>https://evemondevteam.github.io/evemon/#downloads</download_url>
+  <url_name>evemon</url_name>
+  <vanity_url>evemon</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28666/EVEMonLogoBlue_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28666/EVEMonLogoBlue_small.png</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>9</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29129517</analysis_id>
+  <tags>
+    <tag>game</tag>
+    <tag>eve-online</tag>
+    <tag>c#</tag>
+    <tag>eve</tag>
+    <tag>evemon</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Documentation</title>
+      <url>https://evemon.readthedocs.org/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>EVE Forums Topic</title>
+      <url>https://forums.eveonline.com/default.aspx?g=posts&amp;t=6765</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>3720</id>
+  <name>Apache ODE</name>
+  <url>https://www.openhub.net/p/apache-ode.xml</url>
+  <html_url>https://www.openhub.net/p/apache-ode</html_url>
+  <created_at>2006-12-03T22:18:55Z</created_at>
+  <updated_at>2016-07-18T12:09:26Z</updated_at>
+  <description>Ode is an orchestration service that implements the WS-BPEL specification. The project includes an orchestration engine abstraction, standard externally defined interfaces/bindings. The interface implementations and/or bindings enables the orchestration service to be plugged into various service bus or component architectures.</description>
+  <homepage_url>http://ode.apache.org/</homepage_url>
+  <download_url>http://ode.apache.org/getting-ode.html</download_url>
+  <url_name>apache-ode</url_name>
+  <vanity_url>apache-ode</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/51807/top-banner_med.gif</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/51807/top-banner_small.gif</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29287703</analysis_id>
+  <tags>
+    <tag>bpm</tag>
+    <tag>enterprise</tag>
+    <tag>java</tag>
+    <tag>workflows</tag>
+    <tag>bpel</tag>
+    <tag>bpms</tag>
+    <tag>business_process_execution</tag>
+    <tag>web_services</tag>
+    <tag>orchestration</tag>
+    <tag>workflow</tag>
+    <tag>business_process</tag>
+    <tag>business_process_management</tag>
+    <tag>bpel20</tag>
+    <tag>workflow_engine</tag>
+    <tag>process_engine</tag>
+    <tag>apache</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>30</value>
+    <description>Very Low</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>3735</id>
+  <name>Terracotta</name>
+  <url>https://www.openhub.net/p/_3735.xml</url>
+  <html_url>https://www.openhub.net/p/_3735</html_url>
+  <created_at>2006-12-05T15:54:59Z</created_at>
+  <updated_at>2016-06-23T14:59:16Z</updated_at>
+  <description>Terracotta provides clustering for Java applications.  Features include:
+
+- High level replication
+- Cross JVM coordination
+- Large virtual heaps
+- Fine-grained changes
+- Runtime management and control
+- No serialization</description>
+  <homepage_url>http://www.terracotta.org/</homepage_url>
+  <download_url>http://www.terracotta.org/confluence/display/orgsite/Download</download_url>
+  <url_name>_3735</url_name>
+  <vanity_url>_3735</vanity_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>26658449</analysis_id>
+  <tags>
+    <tag>websphere</tag>
+    <tag>glassfish</tag>
+    <tag>java</tag>
+    <tag>performance</tag>
+    <tag>sessions</tag>
+    <tag>scalable</tag>
+    <tag>distributed_computing</tag>
+    <tag>liferay</tag>
+    <tag>caching</tag>
+    <tag>scalability</tag>
+    <tag>clustering</tag>
+    <tag>tomcat</tag>
+    <tag>weblogic</tag>
+    <tag>grid</tag>
+    <tag>geronimo</tag>
+    <tag>jetty</tag>
+    <tag>spring</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Mozilla-ish License</name>
+      <vanity_url>Mozillaish_License</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>4238</id>
+  <name>JORAM</name>
+  <url>https://www.openhub.net/p/joram.xml</url>
+  <html_url>https://www.openhub.net/p/joram</html_url>
+  <created_at>2007-02-01T23:43:12Z</created_at>
+  <updated_at>2016-07-20T22:33:29Z</updated_at>
+  <description>JORAM (Java Open Reliable Asynchronous Messaging) is an open source implementation of the JMS (Java Message Service) 1.1 API. It provides access to a really distributed MOM (Message Oriented Middleware), built on top of the ScalAgent D.T. agents based platform and used within many critical operational applications.
+
+Stable versions of JORAM are JMS 1.1 certified. Moreover JORAM is used by JOnAS to undergo the J2EE 1.4 certification, and has passed all tests concerning JMS 1.1 certification in this J2EE TCK.
+
+JORAM is a mature project started in 1999, it is an open source software released under the LGPL license since May 2000. Professional Support is available from Scalagent D.T.</description>
+  <homepage_url>http://joram.ow2.org/</homepage_url>
+  <download_url>http://joram.ow2.org/download/</download_url>
+  <url_name>joram</url_name>
+  <vanity_url>joram</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/19956/joram64_med.jpg</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/19956/joram64_small.jpg</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29304941</analysis_id>
+  <tags>
+    <tag>jms</tag>
+    <tag>enterprise</tag>
+    <tag>linux</tag>
+    <tag>c++</tag>
+    <tag>ow2</tag>
+    <tag>middleware</tag>
+    <tag>distributed</tag>
+    <tag>transactions</tag>
+    <tag>mom</tag>
+    <tag>integration</tag>
+    <tag>clustering</tag>
+    <tag>networking</tag>
+    <tag>j2ee</tag>
+    <tag>messaging</tag>
+    <tag>broker</tag>
+    <tag>mqtt</tag>
+    <tag>mq</tag>
+    <tag>interoperable</tag>
+    <tag>performance</tag>
+    <tag>java</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Library or "Lesser" GPL (LGPL)</name>
+      <vanity_url>lgpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+  </result>
+</response>

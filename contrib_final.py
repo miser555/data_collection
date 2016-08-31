@@ -4,13 +4,12 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import math
 
+MSG_FOLDER = os.path.join(".","msg")
+XML_FOLDER = os.path.join(".","xml")
+
 
 for k in range(1, 200):
-    project_df = pd.read_msgpack("project_{}.msg".format(k))
-
-
-
-
+    project_df = pd.read_msgpack(os.path.join(MSG_FOLDER, "project_{}.msg".format(k)))
 
     for pid in project_df.id:
         url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=974844c96bce6c2843450458d78d8abf1079c2df7a0dafb27c56876afedd69d2&page=0".format(pid)
@@ -56,7 +55,7 @@ for k in range(1, 200):
 
             # if data is from url, store xml file
             if fetched_data_from_url:
-                xml_file_path = os.path.join(".", "contribs_xml", cfile_name + ".xml")
+                xml_file_path = os.path.join(".", "xml", cfile_name + ".xml")
                 with open(xml_file_path,"w") as file:
                      file.write(ET.tostring(elem).decode("utf-8"))
 
@@ -67,7 +66,7 @@ for k in range(1, 200):
                 # no need for this
                 #contrib=contrib.append(records)
                 #contrib.to_msgpack('contributors_for_project_with_id_{}.msg'.format(pid), encoding="utf-8")
-                msg_file_path = os.path.join(".", "contribs_msg", cfile_name + ".msg")
+                msg_file_path = os.path.join(XML_FOLDERky0k, cfile_name + ".msg")
                 contribs_df.to_msgpack(msg_file_path, encoding="utf-8")
                 #contribs_345345_0of41.msg .xml (example)
                 #print the DataFrame

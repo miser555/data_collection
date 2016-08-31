@@ -1,0 +1,515 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>60</first_item_position>
+  <result>
+<project>
+  <id>4060</id>
+  <name>Mahara</name>
+  <url>https://www.openhub.net/p/mahara.xml</url>
+  <html_url>https://www.openhub.net/p/mahara</html_url>
+  <created_at>2007-01-18T23:05:36Z</created_at>
+  <updated_at>2016-08-09T18:04:04Z</updated_at>
+  <description>Mahara is a user-centric Open Source ePortfolio System based on an Artefacts, Views and Groups framework.</description>
+  <homepage_url>http://mahara.org/</homepage_url>
+  <download_url>http://launchpad.net/mahara/+download</download_url>
+  <url_name>mahara</url_name>
+  <vanity_url>mahara</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/3334/mahara-160x160_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/3334/mahara-160x160_small.png</small_logo_url>
+  <user_count>25</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29307908</analysis_id>
+  <tags>
+    <tag>elearning</tag>
+    <tag>web</tag>
+    <tag>education</tag>
+    <tag>javascript</tag>
+    <tag>e-learning</tag>
+    <tag>ajax</tag>
+    <tag>php</tag>
+    <tag>mahara</tag>
+    <tag>thought</tag>
+    <tag>learning</tag>
+    <tag>eportfolio</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 only</name>
+      <vanity_url>gpl3</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Bug tracker</title>
+      <url>https://bugs.launchpad.net/mahara/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Mahara Wiki</title>
+      <url>http://wiki.mahara.org/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Mahara Home site</title>
+      <url>http://www.mahara.org</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Forums</title>
+      <url>http://mahara.org/interaction/forum/index.php?group=1</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>User manual</title>
+      <url>http://manual.mahara.org</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>16261</id>
+  <name>Dolphin-emu</name>
+  <url>https://www.openhub.net/p/dolphin-emu.xml</url>
+  <html_url>https://www.openhub.net/p/dolphin-emu</html_url>
+  <created_at>2008-08-24T04:14:09Z</created_at>
+  <updated_at>2016-08-05T18:24:31Z</updated_at>
+  <description>Dolphin is a Gamecube and Wii emulator with built in tools for managing gamecube, wii, and wiiware games and saves. There is also support for action replay and gecko cheat code systems, and a full debugger.</description>
+  <homepage_url>https://dolphin-emu.org/</homepage_url>
+  <download_url>https://dolphin-emu.org/download/</download_url>
+  <url_name>dolphin-emu</url_name>
+  <vanity_url>dolphin-emu</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/79019/Dolphin_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/79019/Dolphin_small.png</small_logo_url>
+  <user_count>25</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>12</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29304820</analysis_id>
+  <tags>
+    <tag>wii</tag>
+    <tag>c</tag>
+    <tag>c++</tag>
+    <tag>gamecube</tag>
+    <tag>triforce</tag>
+    <tag>dolphin</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Dolphin Forums</title>
+      <url>https://forums.dolphin-emu.org</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Wiki at Googlecode</title>
+      <url>http://code.google.com/p/dolphin-emu/w/list</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>16399</id>
+  <name>GraphicsMagick</name>
+  <url>https://www.openhub.net/p/GraphicsMagick.xml</url>
+  <html_url>https://www.openhub.net/p/GraphicsMagick</html_url>
+  <created_at>2008-08-30T22:32:37Z</created_at>
+  <updated_at>2016-07-12T01:51:26Z</updated_at>
+  <description>GraphicsMagick is the swiss army knife of image processing. It provides a robust collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, SVG, and TIFF. GraphicsMagick supports huge images on systems that support large files, and has been tested with gigapixel-size images. GraphicsMagick can create new images on the fly, making it suitable for building dynamic Web applications. GraphicsMagick may be used to resize, rotate, sharpen, color reduce, or add special effects to an image and save the result in the same or differing image format.</description>
+  <homepage_url>http://www.graphicsmagick.org/</homepage_url>
+  <download_url>https://sourceforge.net/projects/graphicsmagick/files/</download_url>
+  <url_name>GraphicsMagick</url_name>
+  <vanity_url>GraphicsMagick</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/13836/graphicsmagick_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/13836/graphicsmagick_small.png</small_logo_url>
+  <user_count>25</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29175677</analysis_id>
+  <tags>
+    <tag>transparency</tag>
+    <tag>raster</tag>
+    <tag>command_line</tag>
+    <tag>rotation</tag>
+    <tag>unix</tag>
+    <tag>image</tag>
+    <tag>image_processing</tag>
+    <tag>photography</tag>
+    <tag>scripting</tag>
+    <tag>batch</tag>
+    <tag>image_format</tag>
+    <tag>raster_based</tag>
+    <tag>format_conversion</tag>
+    <tag>draw</tag>
+    <tag>drawing</tag>
+    <tag>exif</tag>
+    <tag>sharpen</tag>
+    <tag>graphics</tag>
+    <tag>large_image</tag>
+    <tag>multi_platform</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>488029</id>
+  <name>Apache Allura</name>
+  <url>https://www.openhub.net/p/allura.xml</url>
+  <html_url>https://www.openhub.net/p/allura</html_url>
+  <created_at>2011-02-09T23:50:21Z</created_at>
+  <updated_at>2016-08-02T17:44:49Z</updated_at>
+  <description>Apache Allura is an open source implementation of a software forge, a web site that manages source code repositories, bug reports, discussions, wiki pages, blogs, and more for any number of individual projects.</description>
+  <homepage_url>https://allura.apache.org/</homepage_url>
+  <download_url />
+  <url_name>allura</url_name>
+  <vanity_url>allura</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/90015/logo_black_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/90015/logo_black_small.png</small_logo_url>
+  <user_count>25</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29311670</analysis_id>
+  <tags>
+    <tag>sourcecode</tag>
+    <tag>project_management</tag>
+    <tag>forge</tag>
+    <tag>scm</tag>
+    <tag>version_control</tag>
+    <tag>hosting</tag>
+    <tag>sourceforge</tag>
+    <tag>subversion</tag>
+    <tag>software_development</tag>
+    <tag>git</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>60</value>
+    <description>High</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Tickets</title>
+      <url>https://forge-allura.apache.org/p/allura/tickets/</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Dev Mailing List</title>
+      <url>http://mail-archives.apache.org/mod_mbox/allura-dev/</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Docs</title>
+      <url>https://forge-allura.apache.org/docs/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>633837</id>
+  <name>EFL (Enlightenment Foundation Libraries)</name>
+  <url>https://www.openhub.net/p/efl.xml</url>
+  <html_url>https://www.openhub.net/p/efl</html_url>
+  <created_at>2013-03-05T03:36:54Z</created_at>
+  <updated_at>2016-07-20T19:21:11Z</updated_at>
+  <description>The EFL provide both a semi-traditional toolkit set in Elementary (other repo) as well as the object canvas (Evas) and powerful abstracted objects (Edje) that you can combine, mix and match, even layer on top of each other with alpha channels and events in-tact. They also provide an extensive set of utility functions that every C developer needs.</description>
+  <homepage_url>http://enlightenment.org</homepage_url>
+  <download_url>http://enlightenment.org/p.php?p=download&amp;l=e</download_url>
+  <url_name>efl</url_name>
+  <vanity_url>efl</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/68134/e_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/68134/e_small.png</small_logo_url>
+  <user_count>25</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29304753</analysis_id>
+  <tags>
+    <tag>multitouch</tag>
+    <tag>interface</tag>
+    <tag>linux</tag>
+    <tag>api</tag>
+    <tag>scenegraph</tag>
+    <tag>sound</tag>
+    <tag>coding</tag>
+    <tag>opengl</tag>
+    <tag>enlightenment</tag>
+    <tag>windows</tag>
+    <tag>gui</tag>
+    <tag>libraries</tag>
+    <tag>bsd</tag>
+    <tag>opengles</tag>
+    <tag>framework</tag>
+    <tag>library</tag>
+    <tag>embeddedlinux</tag>
+    <tag>toolkit</tag>
+    <tag>multimedia</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 2-clause "Simplified" License</name>
+      <vanity_url>bsd_2clause_ish</vanity_url>
+    </license>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+    <license>
+      <name>GNU Lesser General Public License v2.1 or later</name>
+      <vanity_url>lgpl21_or_later</vanity_url>
+    </license>
+    <license>
+      <name>zlib License (aka zlib/libpng)</name>
+      <vanity_url>zlib_libpng</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>3944</id>
+  <name>gpsd</name>
+  <url>https://www.openhub.net/p/gpsd.xml</url>
+  <html_url>https://www.openhub.net/p/gpsd</html_url>
+  <created_at>2007-01-08T17:26:05Z</created_at>
+  <updated_at>2016-07-24T17:54:42Z</updated_at>
+  <description>GPSD is a translator and replicator daemon for GPS devices, AIS radios, and other navigational sensors. It understands NMEA and many vendor proprietary protocols, and outputs NMEA or a simple text protocol over TCP to an arbitrary number of clients.
+
+It is designed to speak with GPS devices with zero configuration.</description>
+  <homepage_url>http://catb.org/gpsd</homepage_url>
+  <download_url>http://download.savannah.gnu.org/releases/gpsd/</download_url>
+  <url_name>gpsd</url_name>
+  <vanity_url>gpsd</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/31967/gpsd-logo-small_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/31967/gpsd-logo-small_small.png</small_logo_url>
+  <user_count>24</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29309312</analysis_id>
+  <tags>
+    <tag>gps</tag>
+    <tag>c</tag>
+    <tag>linux</tag>
+    <tag>sockets</tag>
+    <tag>bsd</tag>
+    <tag>unix</tag>
+    <tag>python</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 4-clause (University of California-Specific)</name>
+      <vanity_url>bsd</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Manual Pages</title>
+      <url>http://www.catb.org/gpsd/#documentatio</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>9775</id>
+  <name>Grok</name>
+  <url>https://www.openhub.net/p/grok.xml</url>
+  <html_url>https://www.openhub.net/p/grok</html_url>
+  <created_at>2007-11-20T14:13:53Z</created_at>
+  <updated_at>2016-08-26T15:57:56Z</updated_at>
+  <description>Grok is a web application framework for Python developers. It is aimed at both beginners and very experienced web developers. Grok has an emphasis on agile development. Grok is easy and powerful. Grok is based on Zope 3 technology.</description>
+  <homepage_url>http://grok.zope.org</homepage_url>
+  <download_url>http://pypi.python.org/pypi/grok</download_url>
+  <url_name>grok</url_name>
+  <vanity_url>grok</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+  <user_count>24</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29111376</analysis_id>
+  <tags>
+    <tag>grok</tag>
+    <tag>zope3</tag>
+    <tag>framework</tag>
+    <tag>zope</tag>
+    <tag>component</tag>
+    <tag>python</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Zope Public License 2.1</name>
+      <vanity_url>Zope_Public_License_ZPL_Version_2_1</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Grok website</title>
+      <url>http://grok.zope.org</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>10179</id>
+  <name>&#214;zg&#252;rl&#252;k &#304;&#231;in</name>
+  <url>https://www.openhub.net/p/_10179.xml</url>
+  <html_url>https://www.openhub.net/p/_10179</html_url>
+  <created_at>2007-12-10T03:38:38Z</created_at>
+  <updated_at>2014-09-18T02:06:40Z</updated_at>
+  <description>A community web site for Pardus GNU/Linux distribution. Powered by Django.</description>
+  <homepage_url>http://www.ozgurlukicin.com</homepage_url>
+  <download_url>http://svn.pardus.org.tr/oi/trunk</download_url>
+  <url_name>_10179</url_name>
+  <vanity_url>_10179</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/3073/oi_med.gif</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/3073/oi_small.gif</small_logo_url>
+  <user_count>24</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>15</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>22333001</analysis_id>
+  <tags>
+    <tag>mysql</tag>
+    <tag>forum</tag>
+    <tag>dynamic_content</tag>
+    <tag>jquery</tag>
+    <tag>web</tag>
+    <tag>site</tag>
+    <tag>linux</tag>
+    <tag>javascript</tag>
+    <tag>turkish</tag>
+    <tag>community</tag>
+    <tag>pardus</tag>
+    <tag>css</tag>
+    <tag>django</tag>
+    <tag>e-commerce</tag>
+    <tag>html</tag>
+    <tag>python</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 only</name>
+      <vanity_url>gpl3</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>481916</id>
+  <name>Bundler</name>
+  <url>https://www.openhub.net/p/gembundler.xml</url>
+  <html_url>https://www.openhub.net/p/gembundler</html_url>
+  <created_at>2010-03-19T13:09:30Z</created_at>
+  <updated_at>2016-08-09T11:34:05Z</updated_at>
+  <description>Bundler is a tool that manages gem dependencies for your ruby application. It takes a gem manifest file and is able to fetch, download, and install the gems and all child dependencies specified in this manifest. It can manage any update to the gem manifest file and update the bundle's gems accordingly. It also lets you run any ruby code in context of the bundle's gem environment.</description>
+  <homepage_url>http://gembundler.com</homepage_url>
+  <download_url>http://github.com/carlhuda/bundle</download_url>
+  <url_name>gembundler</url_name>
+  <vanity_url>gembundler</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/73559/Screen_Shot_2014-01-15_at_12.14.17_PM_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/73559/Screen_Shot_2014-01-15_at_12.14.17_PM_small.png</small_logo_url>
+  <user_count>24</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29317041</analysis_id>
+  <tags>
+    <tag>ruby</tag>
+    <tag>deployment</tag>
+    <tag>gem</tag>
+    <tag>rails</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>70</value>
+    <description>Very High</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>584943</id>
+  <name>OpenStack Horizon</name>
+  <url>https://www.openhub.net/p/openstack-horizon.xml</url>
+  <html_url>https://www.openhub.net/p/openstack-horizon</html_url>
+  <created_at>2011-07-07T18:07:52Z</created_at>
+  <updated_at>2016-08-29T18:07:47Z</updated_at>
+  <description>Horizon is the official OpenStack Dashboard. It is based on a Django module called django-openstack. Both the django-openstack module as well as a reference implementation of a fully functional Django site called openstack-dashboard are part of this project. As of the Diablo release, Horizon is now an OpenStack Core project and is a fully supported OpenStack offering. The codebase has moved to GitHub and is now available at: https://github.com/openstack/horizon</description>
+  <homepage_url>http://launchpad.net/horizo</homepage_url>
+  <download_url>http://github.com/openstack/horizo</download_url>
+  <url_name>openstack-horizon</url_name>
+  <vanity_url>openstack-horizon</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/49253/os64_med_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/49253/os64_med_small.png</small_logo_url>
+  <user_count>24</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28887929</analysis_id>
+  <tags>
+    <tag>web</tag>
+    <tag>openstack</tag>
+    <tag>python</tag>
+    <tag>django</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+  </result>
+</response>

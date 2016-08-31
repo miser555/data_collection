@@ -1,0 +1,579 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>80</first_item_position>
+  <result>
+<project>
+  <id>347801</id>
+  <name>Melody</name>
+  <url>https://www.openhub.net/p/melody.xml</url>
+  <html_url>https://www.openhub.net/p/melody</html_url>
+  <created_at>2009-06-24T23:21:14Z</created_at>
+  <updated_at>2016-08-19T17:50:47Z</updated_at>
+  <description>Melody is an open source content management and publishing system derived from the popular blogging tool Movable Type. Melody is for those who find value in belonging to, supporting and contributing to a community of helpful, passionate and devoted users, but it is also for people who want a secure, proven and high quality publishing environment for their personal web site or their business.</description>
+  <homepage_url>http://openmelody.org</homepage_url>
+  <download_url>http://openmelody.org/download-melody</download_url>
+  <url_name>melody</url_name>
+  <vanity_url>melody</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/20546/melody-logo-mark-on-white_med.jpg</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/20546/melody-logo-mark-on-white_small.jpg</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29294187</analysis_id>
+  <tags>
+    <tag>content_management</tag>
+    <tag>api</tag>
+    <tag>rss_aggregator</tag>
+    <tag>atom</tag>
+    <tag>movabletypeapi</tag>
+    <tag>php</tag>
+    <tag>movabletypeplugins</tag>
+    <tag>movabletype</tag>
+    <tag>publishing</tag>
+    <tag>blogs</tag>
+    <tag>blogsoftware</tag>
+    <tag>rss</tag>
+    <tag>atompub</tag>
+    <tag>perl</tag>
+    <tag>blogging</tag>
+    <tag>postgresql</tag>
+    <tag>blog</tag>
+    <tag>mysql</tag>
+    <tag>jquery</tag>
+    <tag>atom_publishing_protocol</tag>
+    <tag>secure</tag>
+    <tag>javascript</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>372716</id>
+  <name>Logstash</name>
+  <url>https://www.openhub.net/p/logstash.xml</url>
+  <html_url>https://www.openhub.net/p/logstash</html_url>
+  <created_at>2009-08-13T19:01:05Z</created_at>
+  <updated_at>2016-07-03T22:18:51Z</updated_at>
+  <description>logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs.
+
+It is fully free and fully open source. The license is Apache 2.0, meaning you are pretty much free to use it however you want in whatever way.</description>
+  <homepage_url>http://logstash.net/</homepage_url>
+  <download_url />
+  <url_name>logstash</url_name>
+  <vanity_url>logstash</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89850/Logstash-Logos-Color-V-sm_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89850/Logstash-Logos-Color-V-sm_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29150538</analysis_id>
+  <tags>
+    <tag>ruby</tag>
+    <tag>ferret</tag>
+    <tag>log_analysis</tag>
+    <tag>logs</tag>
+    <tag>logstash</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Documentation</title>
+      <url>http://logstash.net/docs/1.0.14/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>381329</id>
+  <name>Taskwarrior</name>
+  <url>https://www.openhub.net/p/taskwarrior.xml</url>
+  <html_url>https://www.openhub.net/p/taskwarrior</html_url>
+  <created_at>2009-08-16T13:26:35Z</created_at>
+  <updated_at>2015-06-05T08:35:15Z</updated_at>
+  <description>Task is a command-line to do list manager. It has support for GTD functionality and includes the following features: tags, colorful tabular output, reports and graphs, lots of manipulation commands, low-level API, abbreviations for all commands and options, multiuser file locking, recurring tasks.</description>
+  <homepage_url>http://taskwarrior.org</homepage_url>
+  <download_url>http://taskwarrior.org/wiki/taskwarrior/Download</download_url>
+  <url_name>taskwarrior</url_name>
+  <vanity_url>taskwarrior</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/42531/logo-m-tr_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/42531/logo-m-tr_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>23704478</analysis_id>
+  <tags>
+    <tag>plain-text</tag>
+    <tag>cygwin</tag>
+    <tag>timemanagement</tag>
+    <tag>linux</tag>
+    <tag>cli</tag>
+    <tag>time</tag>
+    <tag>osx</tag>
+    <tag>gtd</tag>
+    <tag>management</tag>
+    <tag>terminal</tag>
+    <tag>todo</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Tasktools Q&amp;A</title>
+      <url>https://answers.tasktools.org/</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Taskwarrior documentation</title>
+      <url>http://taskwarrior.org/docs/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Tasktools bug system</title>
+      <url>https://bug.tasktools.org/</url>
+      <category>Issue Trackers</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>484347</id>
+  <name>OpenStack Swift</name>
+  <url>https://www.openhub.net/p/swift.xml</url>
+  <html_url>https://www.openhub.net/p/swift</html_url>
+  <created_at>2010-07-27T09:16:18Z</created_at>
+  <updated_at>2016-08-25T18:22:27Z</updated_at>
+  <description>Swift is a highly available, distributed, eventually consistent object/blob store.</description>
+  <homepage_url>https://launchpad.net/swift</homepage_url>
+  <download_url />
+  <url_name>swift</url_name>
+  <vanity_url>swift</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/35685/os64_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/35685/os64_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29372223</analysis_id>
+  <tags>
+    <tag>cloudfiles</tag>
+    <tag>openstack</tag>
+    <tag>cloud</tag>
+    <tag>cloudstorage</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>70</value>
+    <description>Very High</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>484417</id>
+  <name>ROS</name>
+  <url>https://www.openhub.net/p/ROSorg.xml</url>
+  <html_url>https://www.openhub.net/p/ROSorg</html_url>
+  <created_at>2010-07-30T02:25:37Z</created_at>
+  <updated_at>2016-07-16T07:11:03Z</updated_at>
+  <description>ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more.
+
+This is just the core part of the ros platform, the desktop variant.</description>
+  <homepage_url>http://ros.org</homepage_url>
+  <download_url>http://www.ros.org/wiki/ROS/Installatio</download_url>
+  <url_name>ROSorg</url_name>
+  <vanity_url>ROSorg</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89198/ROS_logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/89198/ROS_logo_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29000345</analysis_id>
+  <tags>
+    <tag>network</tag>
+    <tag>robot</tag>
+    <tag>research</tag>
+    <tag>ros</tag>
+    <tag>c++</tag>
+    <tag>communication</tag>
+    <tag>framework</tag>
+    <tag>robotics</tag>
+    <tag>python</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 2-clause "Simplified" License</name>
+      <vanity_url>bsd_2clause_ish</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>FAQ's</title>
+      <url>http://answers.ros.org/questions/</url>
+      <category>Community</category>
+    </link>
+    <link>
+      <title>Wiki</title>
+      <url>http://wiki.ros.org/</url>
+      <category>Community</category>
+    </link>
+    <link>
+      <title>Generated Documentation</title>
+      <url>http://docs.ros.org/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>ros-users</title>
+      <url>http://lists.ros.org/mailman/listinfo/ros-users</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Infrastructure Status Page</title>
+      <url>http://status.ros.org/</url>
+      <category>Other</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>604442</id>
+  <name>requests</name>
+  <url>https://www.openhub.net/p/requests.xml</url>
+  <html_url>https://www.openhub.net/p/requests</html_url>
+  <created_at>2012-08-13T12:52:02Z</created_at>
+  <updated_at>2016-08-08T13:55:28Z</updated_at>
+  <description>Python HTTP Requests for Humans&#8482;.</description>
+  <homepage_url>http://docs.python-requests.org</homepage_url>
+  <download_url>http://pypi.python.org/pypi/requests/</download_url>
+  <url_name>requests</url_name>
+  <vanity_url>requests</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/55897/requests-sidebar_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/55897/requests-sidebar_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29315456</analysis_id>
+  <tags>
+    <tag>requests</tag>
+    <tag>http</tag>
+    <tag>urllib3</tag>
+    <tag>httplib</tag>
+    <tag>python</tag>
+    <tag>httprequest</tag>
+    <tag>library</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+    <license>
+      <name>ISC License</name>
+      <vanity_url>isc</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>60</value>
+    <description>High</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>604802</id>
+  <name>Apache Flex</name>
+  <url>https://www.openhub.net/p/ApacheFlex.xml</url>
+  <html_url>https://www.openhub.net/p/ApacheFlex</html_url>
+  <created_at>2012-08-28T10:53:45Z</created_at>
+  <updated_at>2016-08-08T04:36:13Z</updated_at>
+  <description>Apache Flex&#8482; is a highly productive, open source application framework for building and maintaining expressive web applications that deploy consistently on all major browsers, desktops and devices (including smartphones, tablets and tv). It provides a modern, standards-based language and programming model that supports common design patterns suitable for developers from many backgrounds. Flex applications can be deployed to the ubiquitous Adobe&#174; Flash&#174; Player in the browser, Adobe&#174; AIR&#8482; on desktop and mobile or to native Android&#8482;, IOS&#8482;, QNX&#174;, Windows&#174; or Mac&#174; application.</description>
+  <homepage_url>http://sourceforge.net/projects/flex-sdk</homepage_url>
+  <download_url>http://opensource.adobe.com/wiki/display/flexsdk/Downloads</download_url>
+  <url_name>ApacheFlex</url_name>
+  <vanity_url>ApacheFlex</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/65534/ApacheFlexLogo_fullcolor_wb_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/65534/ApacheFlexLogo_fullcolor_wb_small.png</small_logo_url>
+  <user_count>22</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>26</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28474421</analysis_id>
+  <tags>
+    <tag>flex</tag>
+    <tag>enterprise</tag>
+    <tag>adobe</tag>
+    <tag>ria</tag>
+    <tag>flash</tag>
+    <tag>mobile</tag>
+    <tag>framework</tag>
+    <tag>actionscript</tag>
+    <tag>flexunit</tag>
+    <tag>flex4</tag>
+    <tag>apache</tag>
+    <tag>mxml</tag>
+    <tag>air</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Adobe Flex SDK Open Source Site</title>
+      <url>http://opensource.adobe.com/flex</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Adobe Forums: Flex</title>
+      <url>http://forums.adobe.com/community/flex</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Installer</title>
+      <url>http://flex.apache.org/installer.html</url>
+      <category>Other</category>
+    </link>
+    <link>
+      <title>Apache Flex JIRA</title>
+      <url>https://issues.apache.org/jira/browse/FLEX</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Mailing Lists</title>
+      <url>http://flex.apache.org/community-mailinglists.html</url>
+      <category>Mailing Lists</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>4282</id>
+  <name>ERP5</name>
+  <url>https://www.openhub.net/p/erp5.xml</url>
+  <html_url>https://www.openhub.net/p/erp5</html_url>
+  <created_at>2007-02-02T22:09:32Z</created_at>
+  <updated_at>2016-07-16T14:51:02Z</updated_at>
+  <description>ERP5 is a full featured high end Open Source / Libre Software solution published under GPL license and used for mission critial ERP / CRM / MRP / SCM / PDM applications by industrial organisations and government agencies.
+
+It is distributed to linux community via packages for numerous distributions (Mandriva, Debian, Ubuntu,...) and a dedicated Live CD.</description>
+  <homepage_url>http://www.erp5.org</homepage_url>
+  <download_url>http://www.erp5.org/Download</download_url>
+  <url_name>erp5</url_name>
+  <vanity_url>erp5</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/6248/erp5_med.gif</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/6248/erp5_small.gif</small_logo_url>
+  <user_count>21</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29239014</analysis_id>
+  <tags>
+    <tag>content_management</tag>
+    <tag>scheduling</tag>
+    <tag>dynamic_content</tag>
+    <tag>enterprise</tag>
+    <tag>cms</tag>
+    <tag>accounting</tag>
+    <tag>crm</tag>
+    <tag>site_management</tag>
+    <tag>intranet</tag>
+    <tag>workflow</tag>
+    <tag>erp</tag>
+    <tag>e-commerce</tag>
+    <tag>knowledgebase</tag>
+    <tag>document_management</tag>
+    <tag>calendar</tag>
+    <tag>productivity</tag>
+    <tag>zope</tag>
+    <tag>collaboration</tag>
+    <tag>finance</tag>
+    <tag>project_management</tag>
+    <tag>business</tag>
+    <tag>erp5</tag>
+    <tag>time_tracking</tag>
+    <tag>ecm</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>ERP5 Wiki</title>
+      <url>http://www.erp5.org</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Old project website</title>
+      <url>http://cps.erp5.org</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>ERP5-dev Mailing List</title>
+      <url>http://erp5.org/mailman/listinfo/erp5-dev</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>ERP5 Users Mailing List</title>
+      <url>http://erp5.org/mailman/listinfo/erp5-users</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Gossips in blogosphere</title>
+      <url>http://technorati.com/search/erp5</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>SVN web UI</title>
+      <url>http://svn.erp5.org</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>8242</id>
+  <name>Math.NET Numerics</name>
+  <url>https://www.openhub.net/p/mathnet-numerics.xml</url>
+  <html_url>https://www.openhub.net/p/mathnet-numerics</html_url>
+  <created_at>2007-09-05T20:33:36Z</created_at>
+  <updated_at>2016-07-29T11:52:37Z</updated_at>
+  <description>A mathematical open source library written in C#/.Net, aiming to provide a self contained clean framework for symbolic algebraic and numerical / scientific computations.</description>
+  <homepage_url>http://numerics.mathdotnet.com</homepage_url>
+  <download_url />
+  <url_name>mathnet-numerics</url_name>
+  <vanity_url>mathnet-numerics</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/79427/MathNet64_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/79427/MathNet64_small.png</small_logo_url>
+  <user_count>21</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28463811</analysis_id>
+  <tags>
+    <tag>distributions</tag>
+    <tag>vector</tag>
+    <tag>fsharp</tag>
+    <tag>interpolation</tag>
+    <tag>matrix</tag>
+    <tag>random</tag>
+    <tag>fft</tag>
+    <tag>solver</tag>
+    <tag>f#</tag>
+    <tag>dotnet</tag>
+    <tag>computing</tag>
+    <tag>mathematics</tag>
+    <tag>mathdotnet</tag>
+    <tag>statistics</tag>
+    <tag>linear_algebra</tag>
+    <tag>numerical</tag>
+    <tag>c#</tag>
+    <tag>scientific</tag>
+    <tag>probability</tag>
+    <tag>complex</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>12878</id>
+  <name>Yade</name>
+  <url>https://www.openhub.net/p/yade.xml</url>
+  <html_url>https://www.openhub.net/p/yade</html_url>
+  <created_at>2008-03-19T22:21:24Z</created_at>
+  <updated_at>2016-07-12T17:34:48Z</updated_at>
+  <description>Extensible framework for explicit dynamic particle models (discrete element model, lattice model), primarily targeted at material research (civil engineering materials such as concrete, geomechanics).</description>
+  <homepage_url>https://www.yade-dem.org</homepage_url>
+  <download_url>https://code.launchpad.net/yade/+download</download_url>
+  <url_name>yade</url_name>
+  <vanity_url>yade</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/34665/ww_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/34665/ww_small.png</small_logo_url>
+  <user_count>21</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29176512</analysis_id>
+  <tags>
+    <tag>rigid_body</tag>
+    <tag>collisiondetection</tag>
+    <tag>dynamics</tag>
+    <tag>linux</tag>
+    <tag>physics</tag>
+    <tag>c++</tag>
+    <tag>visualization</tag>
+    <tag>mechanics</tag>
+    <tag>numerics</tag>
+    <tag>3d</tag>
+    <tag>collision_detection</tag>
+    <tag>simulationplatform</tag>
+    <tag>collision-detection</tag>
+    <tag>numericalmethods</tag>
+    <tag>3dengine</tag>
+    <tag>python</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+  </result>
+</response>

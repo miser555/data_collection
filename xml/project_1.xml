@@ -1,0 +1,579 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+<project>
+  <id>10097</id>
+  <name>icoformat</name>
+  <url>https://www.openhub.net/p/_10097.xml</url>
+  <html_url>https://www.openhub.net/p/_10097</html_url>
+  <created_at>2007-12-07T04:31:04Z</created_at>
+  <updated_at>2016-04-07T01:44:58Z</updated_at>
+  <description>ICO format plugin. An easy way to create your web site's favourites/shortcut/bookmark icon in Photoshop.</description>
+  <homepage_url>http://www.telegraphics.com.au/sw/#icoformat</homepage_url>
+  <download_url>http://www.telegraphics.com.au/sw/#icoformat</download_url>
+  <url_name>_10097</url_name>
+  <vanity_url>_10097</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/65142/favicon_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/65142/favicon_small.png</small_logo_url>
+  <user_count>493</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28377120</analysis_id>
+  <tags>
+    <tag>favicon</tag>
+    <tag>gpl</tag>
+    <tag>ico</tag>
+    <tag>icon</tag>
+    <tag>photoshop</tag>
+    <tag>plugin</tag>
+    <tag>graphics</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>498361</id>
+  <name>AngularJS</name>
+  <url>https://www.openhub.net/p/angularjs.xml</url>
+  <html_url>https://www.openhub.net/p/angularjs</html_url>
+  <created_at>2011-04-20T04:03:36Z</created_at>
+  <updated_at>2016-08-29T18:15:15Z</updated_at>
+  <description />
+  <homepage_url>http://angularjs.org/</homepage_url>
+  <download_url />
+  <url_name>angularjs</url_name>
+  <vanity_url>angularjs</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/56777/AngularJS-Shield-large_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/56777/AngularJS-Shield-large_small.png</small_logo_url>
+  <user_count>132</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29310892</analysis_id>
+  <tags>
+    <tag>spa</tag>
+    <tag>mvc</tag>
+    <tag>mvcframework</tag>
+    <tag>framework</tag>
+    <tag>javascript</tag>
+    <tag>library</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Google Group</title>
+      <url>http://groups.google.com/group/angular/</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Issues</title>
+      <url>https://github.com/angular/angular.js/issues</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>API</title>
+      <url>http://docs.angularjs.org/api/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Developer Guide</title>
+      <url>http://docs.angularjs.org/guide/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Tutorial</title>
+      <url>http://docs.angularjs.org/tutorial/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>350414</id>
+  <name>Redis</name>
+  <url>https://www.openhub.net/p/redis.xml</url>
+  <html_url>https://www.openhub.net/p/redis</html_url>
+  <created_at>2009-07-20T15:49:39Z</created_at>
+  <updated_at>2016-07-29T21:29:50Z</updated_at>
+  <description>A persistent key-value database with built-in net interface written in ANSI-C for Posix systems.</description>
+  <homepage_url>http://redis.io/</homepage_url>
+  <download_url>http://redis.io/download</download_url>
+  <url_name>redis</url_name>
+  <vanity_url>redis</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60962/redis2_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60962/redis2_small.png</small_logo_url>
+  <user_count>118</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>17</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29310953</analysis_id>
+  <tags>
+    <tag>storage</tag>
+    <tag>memory</tag>
+    <tag>in_memory</tag>
+    <tag>key_value</tag>
+    <tag>redis</tag>
+    <tag>cache</tag>
+    <tag>persistence</tag>
+    <tag>distributed</tag>
+    <tag>caching</tag>
+    <tag>infrastructure</tag>
+    <tag>database</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>15567</id>
+  <name>Support Incident Tracker</name>
+  <url>https://www.openhub.net/p/sitracker.xml</url>
+  <html_url>https://www.openhub.net/p/sitracker</html_url>
+  <created_at>2008-07-16T22:48:56Z</created_at>
+  <updated_at>2016-07-29T21:26:31Z</updated_at>
+  <description>Support Incident Tracker (or SiT!) is an Open Source (GPL) web based application which uses PHP and MySQL for tracking technical support calls/emails. Manage contacts, sites, technical support contracts and support incidents in one place. Send emails directly from SiT!, attach files and record every communication in the incident log. SiT is aware of Service Level Agreements and incidents are flagged if they stray outside of them.</description>
+  <homepage_url>http://sitracker.org/</homepage_url>
+  <download_url>http://sourceforge.net/project/showfiles.php?group_id=160319</download_url>
+  <url_name>sitracker</url_name>
+  <vanity_url>sitracker</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/13361/MediaWikiSidebarLogo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/13361/MediaWikiSidebarLogo_small.png</small_logo_url>
+  <user_count>117</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29310948</analysis_id>
+  <tags>
+    <tag>ticket_system</tag>
+    <tag>helpdesksystem</tag>
+    <tag>web</tag>
+    <tag>supportdesk</tag>
+    <tag>helpdesk</tag>
+    <tag>ticket</tag>
+    <tag>ticketmanager</tag>
+    <tag>php</tag>
+    <tag>tickettracking</tag>
+    <tag>support</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Forum</title>
+      <url>http://sitracker.org/forum</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>585505</id>
+  <name>Qt 5</name>
+  <url>https://www.openhub.net/p/qt5.xml</url>
+  <html_url>https://www.openhub.net/p/qt5</html_url>
+  <created_at>2011-08-05T14:28:40Z</created_at>
+  <updated_at>2016-08-29T18:25:01Z</updated_at>
+  <description>Qt is a cross-platform application and UI framework. Using Qt, you can write applications once and deploy them across many desktop and embedded operating systems without rewriting the source code.</description>
+  <homepage_url>https://qt.io/</homepage_url>
+  <download_url>https://download.qt.io/official_releases/qt/</download_url>
+  <url_name>qt5</url_name>
+  <vanity_url>qt5</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/90102/oie_XoiTtCj6tq8t_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/90102/oie_XoiTtCj6tq8t_small.png</small_logo_url>
+  <user_count>108</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>25</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29310978</analysis_id>
+  <tags>
+    <tag>qt</tag>
+    <tag>object_oriented</tag>
+    <tag>multitouch</tag>
+    <tag>linux</tag>
+    <tag>interface</tag>
+    <tag>api</tag>
+    <tag>widgets</tag>
+    <tag>cross-platform</tag>
+    <tag>coding</tag>
+    <tag>x</tag>
+    <tag>sql</tag>
+    <tag>gui_designer</tag>
+    <tag>database</tag>
+    <tag>ui</tag>
+    <tag>networking</tag>
+    <tag>mac</tag>
+    <tag>library</tag>
+    <tag>multimedia</tag>
+    <tag>openssl</tag>
+    <tag>macos</tag>
+    <tag>macintosh</tag>
+    <tag>javascript</tag>
+    <tag>unix</tag>
+    <tag>dbus</tag>
+    <tag>cross-plattform</tag>
+    <tag>scenegraph</tag>
+    <tag>qml</tag>
+    <tag>svg</tag>
+    <tag>windows</tag>
+    <tag>plugins</tag>
+    <tag>kde</tag>
+    <tag>freebsd</tag>
+    <tag>framework</tag>
+    <tag>unicode</tag>
+    <tag>toolkit</tag>
+    <tag>solaris</tag>
+    <tag>software_development</tag>
+    <tag>multi-platform</tag>
+    <tag>desktop</tag>
+    <tag>cplusplus</tag>
+    <tag>c++</tag>
+    <tag>gui_framework</tag>
+    <tag>x-windows</tag>
+    <tag>sqlite</tag>
+    <tag>programming</tag>
+    <tag>qt5</tag>
+    <tag>win32</tag>
+    <tag>model-view-controller</tag>
+    <tag>mac_os_x</tag>
+    <tag>gui</tag>
+    <tag>osx</tag>
+    <tag>bsd</tag>
+    <tag>x11</tag>
+    <tag>graphics</tag>
+    <tag>embeddedlinux</tag>
+    <tag>macosx</tag>
+    <tag>development</tag>
+    <tag>embedded</tag>
+    <tag>sound</tag>
+    <tag>opengl</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Commercial license available</name>
+      <vanity_url>Commercial</vanity_url>
+    </license>
+    <license>
+      <name>GNU Free Documentation License v1.2</name>
+      <vanity_url>GNU_Free_Documentation_License</vanity_url>
+    </license>
+    <license>
+      <name>GNU General Public License v3.0 only</name>
+      <vanity_url>gpl3</vanity_url>
+    </license>
+    <license>
+      <name>GNU Lesser General Public License v2.1 only</name>
+      <vanity_url>lgpl21</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Mailing List</title>
+      <url>http://lists.qt-project.org/mailman/listinfo</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Qt Forums</title>
+      <url>https://forum.qt.io/</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Qt JIRA</title>
+      <url>https://bugreports.qt.io/</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Qt Manual</title>
+      <url>https://doc.qt.io/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>484396</id>
+  <name>Apache CloudStack</name>
+  <url>https://www.openhub.net/p/CloudStack.xml</url>
+  <html_url>https://www.openhub.net/p/CloudStack</html_url>
+  <created_at>2010-07-28T22:55:52Z</created_at>
+  <updated_at>2016-07-29T22:55:35Z</updated_at>
+  <description>Apache CloudStack (Incubating) is an open source Cloud Computing platform used to deliver Infrastructure as a Service (IaaS). CloudStack enables users to build, manage and deploy compute cloud environments. 
+
+CloudStack forms the foundation for infrastructure clouds, data center operators can quickly and easily build cloud services within their existing infrastructure to offer on-demand, elastic cloud services. CloudStack users can take full advantage of cloud computing to deliver higher efficiency, limitless scale and faster deployment of new services and systems to the end-user. CloudStack will allow user to coordinate virtualized servers, networking and network storage to provide infrastructure-as-a-service (IaaS) just like hosting providers but on their own hardware.</description>
+  <homepage_url>http://cloud.com</homepage_url>
+  <download_url>http://cloud.com/community/downloads</download_url>
+  <url_name>CloudStack</url_name>
+  <vanity_url>CloudStack</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/57788/cloudstack_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/57788/cloudstack_small.png</small_logo_url>
+  <user_count>97</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>11</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28470771</analysis_id>
+  <tags>
+    <tag>java</tag>
+    <tag>cloud</tag>
+    <tag>virtual_server</tag>
+    <tag>virtualization</tag>
+    <tag>management</tag>
+    <tag>vmware</tag>
+    <tag>system_administration</tag>
+    <tag>distributed_computing</tag>
+    <tag>system</tag>
+    <tag>cloudcomputing</tag>
+    <tag>computing</tag>
+    <tag>citrix</tag>
+    <tag>clustering</tag>
+    <tag>kvm</tag>
+    <tag>platform</tag>
+    <tag>operating</tag>
+    <tag>hypervisor</tag>
+    <tag>xen</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>474364</id>
+  <name>Go programming language</name>
+  <url>https://www.openhub.net/p/go.xml</url>
+  <html_url>https://www.openhub.net/p/go</html_url>
+  <created_at>2009-11-11T10:53:11Z</created_at>
+  <updated_at>2016-08-19T17:59:42Z</updated_at>
+  <description>Go is an expressive, concurrent, garbage-collected systems programming language.</description>
+  <homepage_url>http://golang.org/</homepage_url>
+  <download_url />
+  <url_name>go</url_name>
+  <vanity_url>go</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28074/gophercolor-64x64_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28074/gophercolor-64x64_small.png</small_logo_url>
+  <user_count>83</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>22</rating_count>
+  <review_count>2</review_count>
+  <analysis_id>29311033</analysis_id>
+  <tags>
+    <tag>compiler</tag>
+    <tag>multi_platform</tag>
+    <tag>development</tag>
+    <tag>go</tag>
+    <tag>golang</tag>
+    <tag>concurrent</tag>
+    <tag>language</tag>
+    <tag>csp</tag>
+    <tag>programming</tag>
+    <tag>programming_language</tag>
+    <tag>concurrentprogramming</tag>
+    <tag>google</tag>
+    <tag>coding</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>481939</id>
+  <name>Vagrant</name>
+  <url>https://www.openhub.net/p/vagrantup.xml</url>
+  <html_url>https://www.openhub.net/p/vagrantup</html_url>
+  <created_at>2010-03-20T03:34:32Z</created_at>
+  <updated_at>2016-07-30T01:20:46Z</updated_at>
+  <description>Vagrant is a free and open source project. The vision of the project is to create a tool to transparently manage all the complex parts of modern development within a virtual environment without affecting the everyday workflow of the developer too much.
+
+Vagrant was started on January 21, 2010 by Mitchell Hashimoto and John Bender. Version 0.1.0 was released on March 7, 2010.
+
+Today, Vagrant is considered stable and is used by many thousands of people worldwide. The vision of Vagrant is still unchanged, and continues to move towards an ambitious goal of moving all development into virtualized environments by making it easier to do so than not to. Additionally, work is ongoing to have Vagrant run identically on every major consumer OS platform (Linux, Mac OS X, and Windows).</description>
+  <homepage_url>http://vagrantup.com/</homepage_url>
+  <download_url>http://github.com/mitchellh/vagrant</download_url>
+  <url_name>vagrantup</url_name>
+  <vanity_url>vagrantup</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/71370/logo-8b7a4912_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/71370/logo-8b7a4912_small.png</small_logo_url>
+  <user_count>77</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>10</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29311091</analysis_id>
+  <tags>
+    <tag>web</tag>
+    <tag>staging</tag>
+    <tag>development</tag>
+    <tag>vm</tag>
+    <tag>virtual</tag>
+    <tag>rubygems</tag>
+    <tag>vagrant</tag>
+    <tag>virtualbox</tag>
+    <tag>ruby</tag>
+    <tag>machine</tag>
+    <tag>virtualmachine</tag>
+    <tag>environment</tag>
+    <tag>rubygem</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>596190</id>
+  <name>Ansible</name>
+  <url>https://www.openhub.net/p/ansible-ssh.xml</url>
+  <html_url>https://www.openhub.net/p/ansible-ssh</html_url>
+  <created_at>2012-03-09T15:43:42Z</created_at>
+  <updated_at>2016-07-30T08:37:30Z</updated_at>
+  <description>Ansible is a radically simple configuration management, deployment, and ad-hoc task execution tool.
+
+It supports a wide variety of distributions, requires no software installed on managed machines, and users can get going in minutes.  Extension modules can be written in any language.</description>
+  <homepage_url>http://ansible.com</homepage_url>
+  <download_url />
+  <url_name>ansible-ssh</url_name>
+  <vanity_url>ansible-ssh</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/74895/ansible_badge_1__med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/74895/ansible_badge_1__small.png</small_logo_url>
+  <user_count>65</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>14</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29311182</analysis_id>
+  <tags>
+    <tag>deployment</tag>
+    <tag>linux</tag>
+    <tag>configuration_management</tag>
+    <tag>ssh</tag>
+    <tag>parallel</tag>
+    <tag>unix</tag>
+    <tag>system_management</tag>
+    <tag>automation</tag>
+    <tag>management</tag>
+    <tag>configuration</tag>
+    <tag>devops</tag>
+    <tag>systemsmanagement</tag>
+    <tag>administration</tag>
+    <tag>openssh</tag>
+    <tag>provisioning</tag>
+    <tag>orchestration</tag>
+    <tag>config</tag>
+    <tag>facter</tag>
+    <tag>python</tag>
+    <tag>modules</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 or later</name>
+      <vanity_url>gpl3_or_later</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>480792</id>
+  <name>scikit learn</name>
+  <url>https://www.openhub.net/p/scikit-learn.xml</url>
+  <html_url>https://www.openhub.net/p/scikit-learn</html_url>
+  <created_at>2010-01-28T08:33:21Z</created_at>
+  <updated_at>2016-07-30T09:11:01Z</updated_at>
+  <description>Python module integrating various machine learning algorithms under a common interface. It offers a wide range of methods such as Support Vector Machines, linear models (L1, L2 penalized), logistic regression, gaussian mixture models and more. The large number of algorithms aleady implemented allows for easy comparison of accuracy and performance of various algorithms.</description>
+  <homepage_url>http://scikit-learn.org</homepage_url>
+  <download_url />
+  <url_name>scikit-learn</url_name>
+  <vanity_url>scikit-learn</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/40247/scikit-learn-logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/40247/scikit-learn-logo_small.png</small_logo_url>
+  <user_count>59</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>8</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29311198</analysis_id>
+  <tags>
+    <tag>svm</tag>
+    <tag>kmeans</tag>
+    <tag>gmm</tag>
+    <tag>machine_learning</tag>
+    <tag>supervisedlearning</tag>
+    <tag>textclassification</tag>
+    <tag>artificial-intelligence</tag>
+    <tag>python</tag>
+    <tag>supportvectormachine</tag>
+    <tag>research</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 4-clause (University of California-Specific)</name>
+      <vanity_url>bsd</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Main github repo</title>
+      <url>http://github.com/scikit-learn/scikit-lea</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+  </result>
+</response>

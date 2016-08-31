@@ -1,0 +1,537 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>30</first_item_position>
+  <result>
+<project>
+  <id>488548</id>
+  <name>iTerm2</name>
+  <url>https://www.openhub.net/p/iterm2.xml</url>
+  <html_url>https://www.openhub.net/p/iterm2</html_url>
+  <created_at>2011-03-07T13:48:40Z</created_at>
+  <updated_at>2016-08-07T22:24:10Z</updated_at>
+  <description>A fork of the older iTerm project. iTerm2 is a Terminal replacement and the successor of iTerm. It focuses on speed, internationalization, and building new features to improve your life.</description>
+  <homepage_url>http://www.iterm2.com/</homepage_url>
+  <download_url>http://code.google.com/p/iterm2/downloads/list</download_url>
+  <url_name>iterm2</url_name>
+  <vanity_url>iterm2</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/51329/logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/51329/logo_small.png</small_logo_url>
+  <user_count>32</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28831934</analysis_id>
+  <tags>
+    <tag>shell</tag>
+    <tag>terminal</tag>
+    <tag>terminal_emulators</tag>
+    <tag>cli</tag>
+    <tag>osx</tag>
+    <tag>objective_c</tag>
+    <tag>python</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Forum</title>
+      <url>https://groups.google.com/forum/#!forum/iterm2-discuss</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Issues</title>
+      <url>http://code.google.com/p/iterm2/issues/list</url>
+      <category>Issue Trackers</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>616468</id>
+  <name>CryptSync</name>
+  <url>https://www.openhub.net/p/cryptsync.xml</url>
+  <html_url>https://www.openhub.net/p/cryptsync</html_url>
+  <created_at>2012-11-01T15:10:12Z</created_at>
+  <updated_at>2016-06-26T07:08:06Z</updated_at>
+  <description>Synchronizes multiple folders with each other, keeping them up-to-date. One folder of each pair is kept encrypted.
+
+Very useful when using cloud storage tools like SkyDrive, GDrive or Dropbox.</description>
+  <homepage_url>http://stefanstools.sourceforge.net/</homepage_url>
+  <download_url />
+  <url_name>cryptsync</url_name>
+  <vanity_url>cryptsync</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60418/logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60418/logo_small.png</small_logo_url>
+  <user_count>32</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29127965</analysis_id>
+  <tags>
+    <tag>gdrive</tag>
+    <tag>dropbox</tag>
+    <tag>encrypt</tag>
+    <tag>privacy</tag>
+    <tag>skydrive</tag>
+    <tag>sync</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>150688</id>
+  <name>i3Geo</name>
+  <url>https://www.openhub.net/p/i3geo.xml</url>
+  <html_url>https://www.openhub.net/p/i3geo</html_url>
+  <created_at>2009-01-13T15:59:45Z</created_at>
+  <updated_at>2016-05-24T03:22:50Z</updated_at>
+  <description>Interface Integrada para Internet de Ferramentas de Geoprocessamento.
+Software para desenvolvimento de mapas interativos para internet.</description>
+  <homepage_url>https://softwarepublico.gov.br/social/i3geo/</homepage_url>
+  <download_url>https://softwarepublico.gov.br/gitlab/groups/i3geo</download_url>
+  <url_name>i3geo</url_name>
+  <vanity_url>i3geo</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/16947/i3geo1_med.jpg</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/16947/i3geo1_small.jpg</small_logo_url>
+  <user_count>31</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>28887869</analysis_id>
+  <tags>
+    <tag>geography</tag>
+    <tag>mapping</tag>
+    <tag>geospatial</tag>
+    <tag>cartografia</tag>
+    <tag>gis</tag>
+    <tag>geoprocessamento</tag>
+    <tag>cartography</tag>
+    <tag>ogc</tag>
+    <tag>geografia</tag>
+    <tag>ide</tag>
+    <tag>map</tag>
+    <tag>maps</tag>
+    <tag>mapa</tag>
+    <tag>mapserver</tag>
+    <tag>geoprocessing</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Lista</title>
+      <url>http://lists.osgeo.org/cgi-bin/mailman/listinfo/i3geo</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Curso</title>
+      <url>http://moodle.gvsig-training.com/course/view.php?id=11</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Twitter</title>
+      <url>http://twitter.com/i3geo</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>588149</id>
+  <name>D3.js</name>
+  <url>https://www.openhub.net/p/d3js.xml</url>
+  <html_url>https://www.openhub.net/p/d3js</html_url>
+  <created_at>2012-01-06T21:17:19Z</created_at>
+  <updated_at>2016-07-20T04:20:59Z</updated_at>
+  <description>D3 is a small, free JavaScript library for manipulating HTML documents based on data. D3 can help you quickly visualize your data as HTML or SVG, handle interactivity, and incorporate smooth transitions and staged animations into your pages. You can use D3 as a visualization framework (like Protovis), or you can use it to build dynamic pages (like jQuery).</description>
+  <homepage_url>http://d3js.org/</homepage_url>
+  <download_url>https://github.com/mbostock/d3/releases</download_url>
+  <url_name>d3js</url_name>
+  <vanity_url>d3js</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/71714/logo64_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/71714/logo64_small.png</small_logo_url>
+  <user_count>31</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29304114</analysis_id>
+  <tags>
+    <tag>svg</tag>
+    <tag>data</tag>
+    <tag>javascript</tag>
+    <tag>protovis</tag>
+    <tag>visualization</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>22820</id>
+  <name>pywebkitgtk</name>
+  <url>https://www.openhub.net/p/pywebkitgtk.xml</url>
+  <html_url>https://www.openhub.net/p/pywebkitgtk</html_url>
+  <created_at>2008-10-07T15:06:30Z</created_at>
+  <updated_at>2016-07-29T12:28:10Z</updated_at>
+  <description>Project DescriptionPyWebKitGtk provides an API for developers to program WebKit/Gtk using Python. 
+
+The project share the same goals with WebKit. The purpose of this binding is to bring an alternative web engine to Python/GTK+ application developers who might need a web browser engine for their next application or developers wishing to have a better browser engine that they can access to using the Python programming language. 
+
+ 
+
+Build$ ./autogen.sh --prefix=/pywebkitgtk/install/path
+$ make
+$ make installDemoThere is a sample web browser using Python and WebKit/Gtk. To run: 
+
+$ python demos/webbrowser.pyIf you have installed pywebkitgtk in a non-standard location (i.e. not in /usr or /usr/local), you might want to use the following: 
+
+$ PYTHONPATH=/pywebkitgtk/install/path python demos we</description>
+  <homepage_url>http://code.google.com/p/pywebkitgtk</homepage_url>
+  <download_url>http://code.google.com/p/pywebkitgtk/downloads/list</download_url>
+  <url_name>pywebkitgtk</url_name>
+  <vanity_url>pywebkitgtk</vanity_url>
+  <user_count>30</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28436300</analysis_id>
+  <tags>
+    <tag>gtk</tag>
+    <tag>webkit</tag>
+    <tag>webengine</tag>
+    <tag>gnome</tag>
+    <tag>browser</tag>
+    <tag>python</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Library or "Lesser" GPL (LGPL)</name>
+      <vanity_url>lgpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Mailing List</title>
+      <url>http://groups.google.com/group/pywebkitgtk</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>344650</id>
+  <name>usbloader-gui</name>
+  <url>https://www.openhub.net/p/usbloader-gui.xml</url>
+  <html_url>https://www.openhub.net/p/usbloader-gui</html_url>
+  <created_at>2009-05-31T01:29:25Z</created_at>
+  <updated_at>2016-07-29T11:55:29Z</updated_at>
+  <description>=USB Loader Gui= by dimok, nIxx, cyrex, hungip, giantpune, Neorame, ardi and DrayX7. 
+Based on Waninkokos USB Loader and made with LibWiiGui by Tantric. 
+
+
+
+Official IRC Chat Channel is on irc.Abjects.net in #gui-usbloader-chat. 
+
+
+To enter it type this in mIRC chat window: /server irc.abjects.net -j #gui-usbloader-chat 
+
+This is a program to be loaded on a Wii console.  This main purpose of this program is to load Wii games from a USB hard drive, but it includes much more than that. 
+
+3 main views:
+
+
+
+
+
+Filter the list by name:
+
+
+
+We even have prompt windows
+
+
+
+
+
+Game Info and covers powered by WiiTDB.com
+
+
+
+
+
+
+Load (most) Homebrew
+
+
+
+Load channels installed on the Wii and access the Wii settings</description>
+  <homepage_url>http://code.google.com/p/usbloader-gui</homepage_url>
+  <download_url />
+  <url_name>usbloader-gui</url_name>
+  <vanity_url>usbloader-gui</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28400/gx_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28400/gx_small.png</small_logo_url>
+  <user_count>30</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28532971</analysis_id>
+  <tags>
+    <tag>wii</tag>
+    <tag>game</tag>
+    <tag>loader</tag>
+    <tag>usb</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 or later</name>
+      <vanity_url>gpl3_or_later</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>481125</id>
+  <name>MangosWeb Enhanced</name>
+  <url>https://www.openhub.net/p/mwenhanced.xml</url>
+  <html_url>https://www.openhub.net/p/mwenhanced</html_url>
+  <created_at>2010-02-14T16:40:24Z</created_at>
+  <updated_at>2016-04-28T00:29:26Z</updated_at>
+  <description>MangosWeb? Enhanced is a content managment system (CMS) front-end website for Mangos. This is a continued version of Mangosweb (http://tools.assembla.com/mangosweb/) by Jimmy06. MangosWeb? Enhanced currently supports patch 3.3, the armory portion supports 3.2.2a. Originally this project was posted on Sourceforge.net (http://sourceforge.net/projects/mw-enhanced/), and was moved to googlecode.</description>
+  <homepage_url>http://code.google.com/p/mwenhanced/</homepage_url>
+  <download_url>http://mwenhanced.googlecode.com/svn/trunk/</download_url>
+  <url_name>mwenhanced</url_name>
+  <vanity_url>mwenhanced</vanity_url>
+  <user_count>30</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28490846</analysis_id>
+  <tags>
+    <tag>mysql</tag>
+    <tag>web</tag>
+    <tag>mangos</tag>
+    <tag>php</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>10496</id>
+  <name>bytestring</name>
+  <url>https://www.openhub.net/p/_10496.xml</url>
+  <html_url>https://www.openhub.net/p/_10496</html_url>
+  <created_at>2007-12-23T09:55:55Z</created_at>
+  <updated_at>2015-04-05T16:24:50Z</updated_at>
+  <description>A time and space-efficient implementation of byte vectors using packed Word8 arrays, suitable for high performance use, both in terms of large data quantities, or high speed requirements. Byte vectors are encoded as strict Word8 arrays of bytes, held in a ForeignPtr, and can be passed between C and Haskell with little effort.</description>
+  <homepage_url>http://www.cse.unsw.edu.au/~dons/fps.html</homepage_url>
+  <download_url>http://hackage.haskell.org/cgi-bin/hackage-scripts/package/bytestring</download_url>
+  <url_name>_10496</url_name>
+  <vanity_url>_10496</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/412/bytestring64_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/412/bytestring64_small.png</small_logo_url>
+  <user_count>29</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>22331937</analysis_id>
+  <tags>
+    <tag>functional</tag>
+    <tag>performance</tag>
+    <tag>haskell98</tag>
+    <tag>strings</tag>
+    <tag>haskell</tag>
+    <tag>programming</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>API documentation</title>
+      <url>http://hackage.haskell.org/packages/archive/bytestring/0.9.0.4/doc/html/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>15957</id>
+  <name>Apache HBase</name>
+  <url>https://www.openhub.net/p/hbase.xml</url>
+  <html_url>https://www.openhub.net/p/hbase</html_url>
+  <created_at>2008-08-08T03:41:29Z</created_at>
+  <updated_at>2016-08-02T02:54:49Z</updated_at>
+  <description>HBase is the Hadoop database. Its an open-source, distributed, column-oriented store modeled after the Google paper, Bigtable: A Distributed Storeage System for Structured Data by Chang et al. Just as Bigtable leverages the distributed data storage provided by the Google File System, HBase provides Bigtable-like capabilities on top of Hadoop.
+
+HBase's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardward. Try it if your plans for a data store run to big.</description>
+  <homepage_url>http://hbase.apache.org/</homepage_url>
+  <download_url>http://www.apache.org/dyn/closer.cgi/hbase/</download_url>
+  <url_name>hbase</url_name>
+  <vanity_url>hbase</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/46411/HBase_Logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/46411/HBase_Logo_small.png</small_logo_url>
+  <user_count>29</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29311493</analysis_id>
+  <tags>
+    <tag>database</tag>
+    <tag>hadoop</tag>
+    <tag>hbase</tag>
+    <tag>bigtable</tag>
+    <tag>columnstore</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>70</value>
+    <description>Very High</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Mailing Lists</title>
+      <url>http://hbase.apache.org/mail-lists.html</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>JIRA</title>
+      <url>https://issues.apache.org/jira/browse/hbase</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>HBase Reference Guide</title>
+      <url>http://hbase.apache.org/book.html</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>HBase Wiki</title>
+      <url>http://wiki.apache.org/hadoop/Hbase</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>342092</id>
+  <name>NServiceBus</name>
+  <url>https://www.openhub.net/p/NServiceBus.xml</url>
+  <html_url>https://www.openhub.net/p/NServiceBus</html_url>
+  <created_at>2009-05-22T07:18:08Z</created_at>
+  <updated_at>2016-07-29T11:02:34Z</updated_at>
+  <description>NServiceBus is a powerful, yet lightweight, open source messaging framework for designing distributed .NET enterprise systems. 
+Entirely pluggable yet simple to use, NServiceBus gives programmers a head-start on developing robust, scalable,
+and maintainable service-layers and long-running business processes.</description>
+  <homepage_url>http://www.NServiceBus.com</homepage_url>
+  <download_url>http://www.nservicebus.com/Downloads.aspx</download_url>
+  <url_name>NServiceBus</url_name>
+  <vanity_url>NServiceBus</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/19254/NSB_Icon_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/19254/NSB_Icon_small.png</small_logo_url>
+  <user_count>29</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>10</rating_count>
+  <review_count>6</review_count>
+  <analysis_id>29102445</analysis_id>
+  <tags>
+    <tag>esb</tag>
+    <tag>soa</tag>
+    <tag>framework</tag>
+    <tag>messaging</tag>
+    <tag>messagebus</tag>
+    <tag>software_development</tag>
+    <tag>grid</tag>
+    <tag>distributed</tag>
+    <tag>distributed_computing</tag>
+    <tag>transactions</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Getting the source &amp; Building</title>
+      <url>http://artofbabel.com/specials/72-nservicebusbuildingthesolution.html</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Video presentation on nServiceBus</title>
+      <url>http://gojko.net/2008/12/02/asynchronous-net-applications-with-nservicebus/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Ayende's review of the distributor</title>
+      <url>http://ayende.com/Blog/archive/2008/03/24/NServiceBus-Distributor-Review.aspx</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Ayende's general review</title>
+      <url>http://ayende.com/Blog/archive/2008/03/24/NServiceBus-Review.aspx</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+  </result>
+</response>

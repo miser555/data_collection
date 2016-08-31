@@ -1,0 +1,523 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>120</first_item_position>
+  <result>
+<project>
+  <id>7069</id>
+  <name>JPA</name>
+  <url>https://www.openhub.net/p/_7069.xml</url>
+  <html_url>https://www.openhub.net/p/_7069</html_url>
+  <created_at>2007-08-02T09:25:36Z</created_at>
+  <updated_at>2015-04-02T15:15:28Z</updated_at>
+  <description>JPA is the weblog publishing assistant</description>
+  <homepage_url>http://jpa.berlios.de/</homepage_url>
+  <download_url>http://jpa.berlios.de/download.html</download_url>
+  <url_name>_7069</url_name>
+  <vanity_url>_7069</vanity_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>2</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>2615752</analysis_id>
+  <tags>
+    <tag>web</tag>
+    <tag>blogware</tag>
+    <tag>blogtools</tag>
+    <tag>blogsoftware</tag>
+    <tag>blogsoft</tag>
+    <tag>pygtk</tag>
+    <tag>tools</tag>
+    <tag>python</tag>
+    <tag>publishing</tag>
+    <tag>blog</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>11721</id>
+  <name>rsnapshot</name>
+  <url>https://www.openhub.net/p/rsnapshot.xml</url>
+  <html_url>https://www.openhub.net/p/rsnapshot</html_url>
+  <created_at>2008-02-14T15:16:11Z</created_at>
+  <updated_at>2016-07-09T01:37:53Z</updated_at>
+  <description>rsnapshot is a filesystem snapshot utility for making backups of local and remote systems.
+
+Using rsync and hard links, it is possible to keep multiple, full backups instantly available. The disk space required is just a little more than the space of one full backup, plus incrementals.
+
+Depending on your configuration, it is quite possible to set up in just a few minutes. Files can be restored by the users who own them, without the root user getting involved.
+
+There are no tapes to change, so once it's set up, you may never need to think about it again.
+
+rsnapshot is written entirely in Perl. It should work on any reasonably modern UNIX compatible OS, including: Debian, Redhat, Fedora, SuSE, Gentoo, Slackware, FreeBSD, OpenBSD, NetBSD, Solaris, Mac OS X, and even IRIX.</description>
+  <homepage_url>http://www.rsnapshot.org/</homepage_url>
+  <download_url>http://www.rsnapshot.org/downloads.html</download_url>
+  <url_name>rsnapshot</url_name>
+  <vanity_url>rsnapshot</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/50011/favicon_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/50011/favicon_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29173379</analysis_id>
+  <tags>
+    <tag>backup_tool</tag>
+    <tag>snapshot</tag>
+    <tag>perl</tag>
+    <tag>sysadmin</tag>
+    <tag>shell_script</tag>
+    <tag>rsync</tag>
+    <tag>backup_utility</tag>
+    <tag>backup_software</tag>
+    <tag>backup</tag>
+    <tag>archive</tag>
+    <tag>shell</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Man Page</title>
+      <url>http://www.rsnapshot.org/rsnapshot.html</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>HowTo</title>
+      <url>http://www.rsnapshot.org/howto/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>13308</id>
+  <name>DataNucleus</name>
+  <url>https://www.openhub.net/p/datanucleus.xml</url>
+  <html_url>https://www.openhub.net/p/datanucleus</html_url>
+  <created_at>2008-04-12T10:49:07Z</created_at>
+  <updated_at>2016-08-29T18:17:45Z</updated_at>
+  <description>The DataNucleus project provides products for the management of application data in a Java environment. Our aim is to provide good quality open source products to handle data in all of its forms, wherever it is stored. This goes from persistence of data into heterogeneous datastores, to providing methods of retrieval using a range of query languages, and eventually on to the analysis of data and tools for managing data quality. 
+
+DataNucleus Access Platform is the baseline product providing persistence of Java objects to a range of datastores using JDO and JPA APIs and permitting various query languages.</description>
+  <homepage_url>http://www.datanucleus.org</homepage_url>
+  <download_url>http://www.datanucleus.org/download.html</download_url>
+  <url_name>datanucleus</url_name>
+  <vanity_url>datanucleus</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/2606/logo_med.jpg</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/2606/logo_small.jpg</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29301843</analysis_id>
+  <tags>
+    <tag>development</tag>
+    <tag>java</tag>
+    <tag>jpa</tag>
+    <tag>jdo</tag>
+    <tag>jpox</tag>
+    <tag>access</tag>
+    <tag>datastore</tag>
+    <tag>javaee</tag>
+    <tag>persistence</tag>
+    <tag>orm</tag>
+    <tag>database</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Forum</title>
+      <url>http://forum.datanucleus.org</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>DataNucleus Access Platform</title>
+      <url>http://www.datanucleus.org/products/accessplatform/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>13409</id>
+  <name>Log::Log4perl</name>
+  <url>https://www.openhub.net/p/log4perl.xml</url>
+  <html_url>https://www.openhub.net/p/log4perl</html_url>
+  <created_at>2008-04-17T10:03:33Z</created_at>
+  <updated_at>2016-06-26T15:54:13Z</updated_at>
+  <description>Log::Log4perl lets you remote-control and fine-tune the logging behaviour of your system from the outside. It implements the widely popular (Java-based) Log4j logging package in pure Perl.
+
+ It allows you to control the number of logging messages generated at three different levels:
+ * At a central location in your system (either in a configuration file or in the startup code) you specify which components (classes, functions) of your system should generate logs.
+ * You specify how detailed the logging of these components should be by specifying logging levels.
+ * You also specify which so-called appenders you want to feed your log messages to and which format they should be in.</description>
+  <homepage_url>http://log4perl.sourceforge.net/</homepage_url>
+  <download_url>http://search.cpan.org/~mschilli/Log-Log4perl-1.15/</download_url>
+  <url_name>log4perl</url_name>
+  <vanity_url>log4perl</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/6236/perl-module_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/6236/perl-module_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29131287</analysis_id>
+  <tags>
+    <tag>perl</tag>
+    <tag>logging</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Artistic License 2.0</name>
+      <vanity_url>Artistic_License_2_0</vanity_url>
+    </license>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>13886</id>
+  <name>Poky</name>
+  <url>https://www.openhub.net/p/poky.xml</url>
+  <html_url>https://www.openhub.net/p/poky</html_url>
+  <created_at>2008-05-09T14:39:22Z</created_at>
+  <updated_at>2016-08-23T18:53:34Z</updated_at>
+  <description>Poky is a reference distribution for the Yocto Project. It includes much of the software developed for the Yocto Project, including the OpenEmbedded build system as well as a full set of metadata that can be used as a starting point for the creation of Linux devices.</description>
+  <homepage_url>http://pokylinux.org</homepage_url>
+  <download_url>http://pokylinux.org/getit/</download_url>
+  <url_name>poky</url_name>
+  <vanity_url>poky</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/5050/poky-beaver_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/5050/poky-beaver_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29360847</analysis_id>
+  <tags>
+    <tag>ppc</tag>
+    <tag>linux</tag>
+    <tag>embedded</tag>
+    <tag>bitbake</tag>
+    <tag>x86</tag>
+    <tag>toolchain</tag>
+    <tag>python</tag>
+    <tag>mips</tag>
+    <tag>openembedded</tag>
+    <tag>embeddedlinux</tag>
+    <tag>buildsystems</tag>
+    <tag>arm</tag>
+    <tag>buildsystem</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+    <license>
+      <name>MIT License</name>
+      <vanity_url>mit</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>70</value>
+    <description>Very High</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>16543</id>
+  <name>BackTrack</name>
+  <url>https://www.openhub.net/p/backtrack.xml</url>
+  <html_url>https://www.openhub.net/p/backtrack</html_url>
+  <created_at>2008-09-07T08:48:10Z</created_at>
+  <updated_at>2013-12-19T06:39:23Z</updated_at>
+  <description>BackTrack is the most Top rated linux live distribution focused on penetration testing. With no installation whatsoever, the analysis platform is started directly from the CD-Rom and is fully accessible within minutes. Currently BackTrack consists of more than 300 different up-to-date tools which are logically structured according to the work flow of security professionals. This structure allows even newcomers to find the related tools to a certain task to be accomplished. New technologies and testing techniques are merged into BackTrack as soon as possible to keep it up-to-date.</description>
+  <homepage_url>http://www.backtrack-linux.org/</homepage_url>
+  <download_url />
+  <url_name>backtrack</url_name>
+  <vanity_url>backtrack</vanity_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id />
+  <tags>
+    <tag>livecd</tag>
+    <tag>operating_system</tag>
+    <tag>livedistro</tag>
+    <tag>linux</tag>
+    <tag>security</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License 1.0</name>
+      <vanity_url>GNU_General_Public_License_1_0</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>308958</id>
+  <name>XZ Utils</name>
+  <url>https://www.openhub.net/p/xz-utils.xml</url>
+  <html_url>https://www.openhub.net/p/xz-utils</html_url>
+  <created_at>2009-01-30T21:52:03Z</created_at>
+  <updated_at>2016-07-04T19:39:43Z</updated_at>
+  <description>XZ Utils is free general-purpose data compression software with high compression ratio. XZ Utils were written for POSIX-like systems, but also work on some not-so-POSIX systems. XZ Utils are the successor to LZMA Utils.</description>
+  <homepage_url>http://tukaani.org/xz/</homepage_url>
+  <download_url />
+  <url_name>xz-utils</url_name>
+  <vanity_url>xz-utils</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60586/tukaani_64x64_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/60586/tukaani_64x64_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29156082</analysis_id>
+  <tags>
+    <tag>compression</tag>
+    <tag>tools</tag>
+    <tag>archiver</tag>
+    <tag>lzma</tag>
+    <tag>library</tag>
+    <tag>xz</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+    <license>
+      <name>GNU Library or "Lesser" GPL (LGPL)</name>
+      <vanity_url>lgpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Mailing Lists Index</title>
+      <url>http://tukaani.org/xz/lists.html</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Forum</title>
+      <url>http://sourceforge.net/p/lzmautils/discussion/708858</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>320222</id>
+  <name>Open Power Template</name>
+  <url>https://www.openhub.net/p/open-power-template.xml</url>
+  <html_url>https://www.openhub.net/p/open-power-template</html_url>
+  <created_at>2009-03-18T09:23:25Z</created_at>
+  <updated_at>2016-07-29T11:31:54Z</updated_at>
+  <description>OPTv2 is a template engine for PHP5 based on XML language. It focuses on portability and declarative programming, where you specify what you want to achieve, not - how it is supposed to work. Together with powerful syntax, it provides a modern, objective API designed especially for use with popular frameworks.
+
+Currently, OPTv3 is being under development. The new version brings new design and architecture, offering an universal template compiler suitable for different types of template languages.</description>
+  <homepage_url>http://www.invenzzia.org/en/projects/open-power-libraries/open-power-template</homepage_url>
+  <download_url>http://www.invenzzia.org/en/download/open-power-template/2-0</download_url>
+  <url_name>open-power-template</url_name>
+  <vanity_url>open-power-template</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/15941/logo-opt-64x64_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/15941/logo-opt-64x64_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29296597</analysis_id>
+  <tags>
+    <tag>opl</tag>
+    <tag>template</tag>
+    <tag>templates</tag>
+    <tag>template_engine</tag>
+    <tag>templating</tag>
+    <tag>php5</tag>
+    <tag>php</tag>
+    <tag>declarativeprogramming</tag>
+    <tag>programming</tag>
+    <tag>templateengine</tag>
+    <tag>code_generators</tag>
+    <tag>language</tag>
+    <tag>template-engine</tag>
+    <tag>xml</tag>
+    <tag>library</tag>
+    <tag>declarative</tag>
+    <tag>design</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Open Power Template presentation</title>
+      <url>http://www.slideshare.net/zyxist/open-power-template-2-presentatio</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Open Power Template 2 User Manual</title>
+      <url>http://static.invenzzia.org/docs/opt/2_0/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Invenzzia Wiki</title>
+      <url>http://wiki.invenzzia.org/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Official Invenzzia Forums</title>
+      <url>http://forums.invenzzia.org/</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>333998</id>
+  <name>MyWebSQL</name>
+  <url>https://www.openhub.net/p/mywebsql.xml</url>
+  <html_url>https://www.openhub.net/p/mywebsql</html_url>
+  <created_at>2009-04-29T05:58:42Z</created_at>
+  <updated_at>2016-08-08T11:37:06Z</updated_at>
+  <description>MyWebSQL is a database frontend (client) for MySQL, SQLite and PostgreSQL databases. Uses modern browser technologies to create a fast, intuitive interface to databases, providing multitasking and speedy management of databaes over the web. Designed for database developers and Administrators.</description>
+  <homepage_url>http://mywebsql.net/</homepage_url>
+  <download_url>http://sourceforge.net/projects/mywebsql/files/</download_url>
+  <url_name>mywebsql</url_name>
+  <vanity_url>mywebsql</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/41756/Logo_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/41756/Logo_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29079588</analysis_id>
+  <tags>
+    <tag>administrator</tag>
+    <tag>mysql</tag>
+    <tag>web</tag>
+    <tag>database</tag>
+    <tag>front-end</tag>
+    <tag>end</tag>
+    <tag>php</tag>
+    <tag>wysiwyg</tag>
+    <tag>front</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 or later</name>
+      <vanity_url>gpl3_or_later</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Support</title>
+      <url>http://mywebsql.net/support</url>
+      <category>Other</category>
+    </link>
+    <link>
+      <title>Documentation</title>
+      <url>http://mywebsql.net/docs</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Live Demo Website</title>
+      <url>http://demo.mywebsql.net</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>345317</id>
+  <name>oofem</name>
+  <url>https://www.openhub.net/p/oofem.xml</url>
+  <html_url>https://www.openhub.net/p/oofem</html_url>
+  <created_at>2009-06-01T08:23:29Z</created_at>
+  <updated_at>2016-07-29T12:29:06Z</updated_at>
+  <description>OOFEM is an open source multi-physics parallel finite element code with object oriented architecture. The aim of this project is to provide efficient and robust tool for FEM computations as well as to offer highly modular and extensible environment for development.</description>
+  <homepage_url>http://www.oofem.org</homepage_url>
+  <download_url>http://www.oofem.org/en/download/download.html</download_url>
+  <url_name>oofem</url_name>
+  <vanity_url>oofem</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/58491/oofem-logo-ohloh_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/58491/oofem-logo-ohloh_small.png</small_logo_url>
+  <user_count>18</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>8</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29219705</analysis_id>
+  <tags>
+    <tag>physical_systems_modeling</tag>
+    <tag>engineering</tag>
+    <tag>physics</tag>
+    <tag>mathematics</tag>
+    <tag>numerical</tag>
+    <tag>fea</tag>
+    <tag>scientific</tag>
+    <tag>fem</tag>
+    <tag>high_performance_computing</tag>
+    <tag>simulation</tag>
+    <tag>differential_equations</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License v2.1 or later</name>
+      <vanity_url>lgpl21_or_later</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+  </result>
+</response>

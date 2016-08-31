@@ -1,0 +1,523 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>150</first_item_position>
+  <result>
+<project>
+  <id>494927</id>
+  <name>css</name>
+  <url>https://www.openhub.net/p/css.xml</url>
+  <html_url>https://www.openhub.net/p/css</html_url>
+  <created_at>2011-04-19T16:59:50Z</created_at>
+  <updated_at>2016-07-15T05:44:51Z</updated_at>
+  <description>A Sass-based CSS framework with tools and fixes.</description>
+  <homepage_url>http://github.com/jazen/css</homepage_url>
+  <download_url />
+  <url_name>css</url_name>
+  <vanity_url>css</vanity_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29197804</analysis_id>
+  <licenses>
+  </licenses>
+  <project_activity_index>
+    <value>20</value>
+    <description>Inactive</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>623212</id>
+  <name>Odoo Community Association (OCA)</name>
+  <url>https://www.openhub.net/p/oca.xml</url>
+  <html_url>https://www.openhub.net/p/oca</html_url>
+  <created_at>2012-12-30T12:32:18Z</created_at>
+  <updated_at>2016-08-02T00:35:12Z</updated_at>
+  <description>The Odoo Community Association, or OCA, is a nonprofit organization whose mission is to support the collaborative development of Odoo features and promote its widespread use.
+
+The following project regroups all modules developped and maintained by the OCA.</description>
+  <homepage_url>http://odoo-community.org/</homepage_url>
+  <download_url>https://github.com/OCA</download_url>
+  <url_name>oca</url_name>
+  <vanity_url>oca</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/79271/logo_oca_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/79271/logo_oca_small.png</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29001100</analysis_id>
+  <tags>
+    <tag>connector</tag>
+    <tag>manufacturing</tag>
+    <tag>billing</tag>
+    <tag>accounting</tag>
+    <tag>verticalization</tag>
+    <tag>logistics</tag>
+    <tag>sales</tag>
+    <tag>community</tag>
+    <tag>invoicing</tag>
+    <tag>purchase</tag>
+    <tag>erp</tag>
+    <tag>workflow</tag>
+    <tag>product</tag>
+    <tag>reporting</tag>
+    <tag>python</tag>
+    <tag>finance</tag>
+    <tag>web</tag>
+    <tag>inventory</tag>
+    <tag>odoo</tag>
+    <tag>business</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Affero General Public License v3.0</name>
+      <vanity_url>AGPL3</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Issues tracked on github</title>
+      <url>https://github.com/OCA</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>OpenERP Community Reviewers</title>
+      <url>http://openerp-community-reviewer@lists.launchpad.net</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>OpenERP Community</title>
+      <url>http://openerp-community.lists.launchpad.net</url>
+      <category>Mailing Lists</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>710320</id>
+  <name>geogson</name>
+  <url>https://www.openhub.net/p/geogson.xml</url>
+  <html_url>https://www.openhub.net/p/geogson</html_url>
+  <created_at>2013-10-19T14:41:56Z</created_at>
+  <updated_at>2016-07-16T03:31:20Z</updated_at>
+  <description>GeoJSON support for Google gson library</description>
+  <homepage_url>https://github.com/filosganga/geogson</homepage_url>
+  <download_url />
+  <url_name>geogson</url_name>
+  <vanity_url>geogson</vanity_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29225745</analysis_id>
+  <tags>
+    <tag>geospatial</tag>
+    <tag>jts</tag>
+    <tag>json</tag>
+    <tag>java</tag>
+    <tag>gson</tag>
+    <tag>geolocation</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Wiki</title>
+      <url>https://github.com/filosganga/geogson/wiki</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>GitHub</title>
+      <url>https://github.com/filosganga/geogson/issues</url>
+      <category>Issue Trackers</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>3472</id>
+  <name>Axis2/C</name>
+  <url>https://www.openhub.net/p/_3472.xml</url>
+  <html_url>https://www.openhub.net/p/_3472</html_url>
+  <created_at>2006-10-28T23:00:53Z</created_at>
+  <updated_at>2016-03-28T12:33:46Z</updated_at>
+  <description>Apache Axis2/C is an effort to implement Axis2/java architecture in C. Apache Axis2/C can be used to provide and consume Web Services.
+
+This implementation provides the C language option in consuming and providing Web Services. Apache Axis2/C is looking at broadening its horizon by its ability to plug in and embed into other software systems.</description>
+  <homepage_url>http://ws.apache.org/axis2/c/</homepage_url>
+  <download_url>http://ws.apache.org/axis2/c/download.cgi</download_url>
+  <url_name>_3472</url_name>
+  <vanity_url>_3472</vanity_url>
+  <user_count>16</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28101824</analysis_id>
+  <tags>
+    <tag>axis2</tag>
+    <tag>soap</tag>
+    <tag>c</tag>
+    <tag>axiom</tag>
+    <tag>axis</tag>
+    <tag>web_services</tag>
+    <tag>apache</tag>
+  </tags>
+  <licenses>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Web Services with Axis2/C</title>
+      <url>http://wsaxc.blogspot.com</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Implementing libcurl based HTTP Transport in Apache Axis2/C</title>
+      <url>http://wso2.org/library/1686</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Extensions for HTTP Authentication in Apache Axis2/C</title>
+      <url>http://wso2.org/library/3291</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Web Services endpoints with Apache Axis2/C</title>
+      <url>http://wso2.org/library/2663</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Adding your own headers to out going SOAP message</title>
+      <url>http://wsaxc.blogspot.com/2007/10/adding-your-own-headers-to-out-going.html</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Axis2/C, XMPP Transport</title>
+      <url>http://wso2.org/library/2645</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Axis2/C Users and Developer Resources</title>
+      <url>http://nethu.org/2008/01/08/axis2c-and-wsfc-user-and-developer-resources/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Article on Apache Axis2/C Web Services Engine</title>
+      <url>http://wso2.org/library/2406</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Axis2/C with cbthread</title>
+      <url>http://nethu.org/2009/03/01/axis2c-with-cbthread/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>4907</id>
+  <name>Apache Pluto</name>
+  <url>https://www.openhub.net/p/_4907.xml</url>
+  <html_url>https://www.openhub.net/p/_4907</html_url>
+  <created_at>2007-04-16T20:29:52Z</created_at>
+  <updated_at>2016-04-04T14:17:24Z</updated_at>
+  <description>Apache Pluto is the reference implementation of JSR-168 and JSR-286 (Java Portlet API 1.0 and 2.0).
+
+Pluto is part of the Apache Portals project (http://www.apache.org/portals).</description>
+  <homepage_url>http://portals.apache.org/pluto</homepage_url>
+  <download_url>http://www.apache.org/dyn/closer.cgi/portals/pluto/</download_url>
+  <url_name>_4907</url_name>
+  <vanity_url>_4907</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/10540/banner_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/10540/banner_small.png</small_logo_url>
+  <user_count>16</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28282837</analysis_id>
+  <tags>
+    <tag>portlets</tag>
+    <tag>container</tag>
+    <tag>portlet</tag>
+    <tag>jsr-286</tag>
+    <tag>jsr168</tag>
+    <tag>portal</tag>
+    <tag>portletcontainer</tag>
+    <tag>apache</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Pluto Developer List</title>
+      <url>http://www.nabble.com/Pluto---Dev-f14379.html</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Pluto User List</title>
+      <url>http://www.nabble.com/Pluto---User-f200.html</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>5801</id>
+  <name>Factor</name>
+  <url>https://www.openhub.net/p/factor.xml</url>
+  <html_url>https://www.openhub.net/p/factor</html_url>
+  <created_at>2007-06-05T06:01:33Z</created_at>
+  <updated_at>2016-07-28T19:53:44Z</updated_at>
+  <description>Factor is a general purpose, dynamically typed, stack-based programming language.
+
+Factor has an optimizing native compiler, automatic memory management with a generational garbage collector, a powerful collections library, and various advanced language features such as higher-order programming, continuations, and extensible syntax.</description>
+  <homepage_url>http://factorcode.org/</homepage_url>
+  <download_url />
+  <url_name>factor</url_name>
+  <vanity_url>factor</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/31252/factor_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/31252/factor_small.png</small_logo_url>
+  <user_count>16</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>10</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29310746</analysis_id>
+  <tags>
+    <tag>stack</tag>
+    <tag>compiler</tag>
+    <tag>factor</tag>
+    <tag>language</tag>
+    <tag>concatenative</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>6018</id>
+  <name>Debian GNOME Packaging</name>
+  <url>https://www.openhub.net/p/_6018.xml</url>
+  <html_url>https://www.openhub.net/p/_6018</html_url>
+  <created_at>2007-06-15T04:49:30Z</created_at>
+  <updated_at>2016-08-18T14:30:55Z</updated_at>
+  <description>This project's goal is to ease the collaborative maintenance of GNOME in Debian.</description>
+  <homepage_url>http://pkg-gnome.alioth.debian.org/</homepage_url>
+  <download_url />
+  <url_name>_6018</url_name>
+  <vanity_url>_6018</vanity_url>
+  <user_count>16</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28465419</analysis_id>
+  <licenses>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>6056</id>
+  <name>AROS</name>
+  <url>https://www.openhub.net/p/aros.xml</url>
+  <html_url>https://www.openhub.net/p/aros</html_url>
+  <created_at>2007-06-16T06:24:15Z</created_at>
+  <updated_at>2016-08-07T17:22:12Z</updated_at>
+  <description>The AROS Research Operating System is a lightweight, efficient and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS 3.1 at the API level (like Wine, unlike UAE), while improving on it in many areas.
+
+The source code is available under an open source license, which allows anyone to freely improve upon it.</description>
+  <homepage_url>http://www.aros.org/</homepage_url>
+  <download_url>http://aros.sourceforge.net/download.php</download_url>
+  <url_name>aros</url_name>
+  <vanity_url>aros</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/40557/toplogomenu_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/40557/toplogomenu_small.png</small_logo_url>
+  <user_count>16</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>13</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29306407</analysis_id>
+  <tags>
+    <tag>aros</tag>
+    <tag>distro</tag>
+    <tag>kernel</tag>
+    <tag>m68k</tag>
+    <tag>system</tag>
+    <tag>operating_system_kernels</tag>
+    <tag>amiga</tag>
+    <tag>smp</tag>
+    <tag>research</tag>
+    <tag>sam440</tag>
+    <tag>powerpc</tag>
+    <tag>os</tag>
+    <tag>amd64</tag>
+    <tag>desktop_environment</tag>
+    <tag>x86_64</tag>
+    <tag>x86</tag>
+    <tag>desktop</tag>
+    <tag>operating</tag>
+    <tag>amigaos</tag>
+    <tag>operating_system</tag>
+    <tag>ppc</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>AROS Public License version 1.1</name>
+      <vanity_url>AROS_Public_License_version_1_1</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>aros.org</title>
+      <url>http://aros.org</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>The AROS Show</title>
+      <url>http://arosshow.blogspot.com</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Developer Documentation (Wiki)</title>
+      <url>http://en.wikibooks.org/wiki/Aros/Developer/Docs</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>User Documentation (Wiki)</title>
+      <url>http://en.wikibooks.org/wiki/Aros/User/Docs</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Planet AROS</title>
+      <url>http://planet-aros.heimstetten.net/</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Power2People</title>
+      <url>http://www.power2people.org/</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>AROS-Exec</title>
+      <url>http://aros-exec.org/</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>10478</id>
+  <name>GUPnP</name>
+  <url>https://www.openhub.net/p/gupnp.xml</url>
+  <html_url>https://www.openhub.net/p/gupnp</html_url>
+  <created_at>2007-12-22T14:05:44Z</created_at>
+  <updated_at>2016-07-27T03:12:24Z</updated_at>
+  <description>GUPnP is an object-oriented open source framework for creating UPnP devices and control points, written in C using GObject and libsoup. The GUPnP API is intended to be easy to use, efficient and flexible.
+
+The GUPnP framework was born out of frustration with libupnp and its mess of threads. GUPnP is entirely single-threaded (though asynchronous), integrates with the GLib main loop, and provides the same set of features as libupnp while hiding most of the UPnP internals through an elegant object-oriented design.</description>
+  <homepage_url>http://www.gupnp.org/</homepage_url>
+  <download_url>http://www.gupnp.org</download_url>
+  <url_name>gupnp</url_name>
+  <vanity_url>gupnp</vanity_url>
+  <user_count>16</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29309940</analysis_id>
+  <tags>
+    <tag>dlna</tag>
+    <tag>glib</tag>
+    <tag>library</tag>
+    <tag>upnp</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Library or "Lesser" GPL (LGPL)</name>
+      <vanity_url>lgpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>GUPnP Mailinglist</title>
+      <url>https://mail.gnome.org/mailman/listinfo/gupnp-list</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>GUPnP Bugzilla</title>
+      <url>https://bugzilla.gnome.org/enter_bug.cgi?product=GUPnP</url>
+      <category>Issue Trackers</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>15116</id>
+  <name>CPANTS - CPAN Testing Service</name>
+  <url>https://www.openhub.net/p/cpants.xml</url>
+  <html_url>https://www.openhub.net/p/cpants</html_url>
+  <created_at>2008-06-24T09:29:01Z</created_at>
+  <updated_at>2016-07-29T16:44:49Z</updated_at>
+  <description />
+  <homepage_url>http://cpants.perl.org/</homepage_url>
+  <download_url />
+  <url_name>cpants</url_name>
+  <vanity_url>cpants</vanity_url>
+  <user_count>16</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28820836</analysis_id>
+  <tags>
+    <tag>testing</tag>
+    <tag>perl</tag>
+    <tag>cpan</tag>
+  </tags>
+  <licenses>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+  </result>
+</response>

@@ -1,0 +1,585 @@
+<response>
+  <status>success</status>
+  <items_returned>10</items_returned>
+  <items_available>674373</items_available>
+  <first_item_position>140</first_item_position>
+  <result>
+<project>
+  <id>4980</id>
+  <name>Cayenne</name>
+  <url>https://www.openhub.net/p/cayenne.xml</url>
+  <html_url>https://www.openhub.net/p/cayenne</html_url>
+  <created_at>2007-04-23T10:13:43Z</created_at>
+  <updated_at>2016-08-12T07:07:20Z</updated_at>
+  <description>Apache Cayenne is an open source persistence framework licensed under the Apache License, providing object-relational mapping (ORM) and remoting services. With a wealth of unique and powerful features, Cayenne can address a wide range of persistence needs. Cayenne seamlessly binds one or more database schemas directly to Java objects, managing atomic commit and rollbacks, SQL generation, joins, sequences, and more. With Cayenne's Remote Object Persistence, those Java objects can even be persisted out to clients via Web Services. Or, with native XML serialization, objects can be even further persisted to non-Java clients - such as an Ajax-capable browser.</description>
+  <homepage_url>http://cayenne.apache.org</homepage_url>
+  <download_url>http://cayenne.apache.org/download.html</download_url>
+  <url_name>cayenne</url_name>
+  <vanity_url>cayenne</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/7882/cayenne_logo_med.jpg</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/7882/cayenne_logo_small.jpg</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>5</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29322103</analysis_id>
+  <tags>
+    <tag>tools</tag>
+    <tag>devtool</tag>
+    <tag>automation</tag>
+    <tag>programming</tag>
+    <tag>orm</tag>
+    <tag>modeling</tag>
+    <tag>modelling</tag>
+    <tag>sql</tag>
+    <tag>mssql</tag>
+    <tag>hsqldb</tag>
+    <tag>database</tag>
+    <tag>postgresql</tag>
+    <tag>ormapper</tag>
+    <tag>model</tag>
+    <tag>oracle</tag>
+    <tag>framework</tag>
+    <tag>persistence</tag>
+    <tag>mysql</tag>
+    <tag>jpa</tag>
+    <tag>java</tag>
+    <tag>development</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>50</value>
+    <description>Moderate</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Documentation</title>
+      <url>http://cayenne.apache.org/doc/documentation.html</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>9671</id>
+  <name>ADOdb</name>
+  <url>https://www.openhub.net/p/adodb.xml</url>
+  <html_url>https://www.openhub.net/p/adodb</html_url>
+  <created_at>2007-11-13T06:48:12Z</created_at>
+  <updated_at>2016-08-05T11:06:00Z</updated_at>
+  <description>ADOdb is a database abstraction library for PHP. 
+
+The PHP version currently supports an amazing number of databases, thanks to the wonderful ADOdb community: MySQL, PostgreSQL, Interbase, Firebird, Informix, Oracle, MS SQL, Foxpro, Access, ADO, Sybase, FrontBase, DB2, SAP DB, SQLite, Netezza, LDAP, and generic ODBC, ODBTP. The Sybase, Informix, FrontBase and PostgreSQL, Netezza, LDAP, ODBTP drivers are community contributions.</description>
+  <homepage_url>http://adodb.sourceforge.net/</homepage_url>
+  <download_url>http://sourceforge.net/projects/adodb/files/adodb-php5-only/</download_url>
+  <url_name>adodb</url_name>
+  <vanity_url>adodb</vanity_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29313371</analysis_id>
+  <tags>
+    <tag>mysql</tag>
+    <tag>database_abstraction</tag>
+    <tag>database_schema</tag>
+    <tag>postgresql</tag>
+    <tag>oracle</tag>
+    <tag>php</tag>
+    <tag>library</tag>
+    <tag>persistence</tag>
+    <tag>programming</tag>
+    <tag>orm</tag>
+    <tag>mssql</tag>
+    <tag>database</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+    <license>
+      <name>GNU Library or "Lesser" GPL (LGPL)</name>
+      <vanity_url>lgpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>50</value>
+    <description>Moderate</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Github</title>
+      <url>https://github.com/ADOdb/ADOdb/issues</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Forums</title>
+      <url>http://phplens.com/lens/lensforum/topics.php?id=4</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>318153</id>
+  <name>viewgit</name>
+  <url>https://www.openhub.net/p/viewgit.xml</url>
+  <html_url>https://www.openhub.net/p/viewgit</html_url>
+  <created_at>2009-03-02T20:49:06Z</created_at>
+  <updated_at>2016-07-15T23:27:13Z</updated_at>
+  <description>a git web repository viewer that aims to be easy to set up and upgrade, light on dependencies, and comfortable to use.</description>
+  <homepage_url>http://viewgit.fealdia.org/</homepage_url>
+  <download_url>http://viewgit.fealdia.org/download</download_url>
+  <url_name>viewgit</url_name>
+  <vanity_url>viewgit</vanity_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>4</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29220662</analysis_id>
+  <tags>
+    <tag>git</tag>
+    <tag>browser</tag>
+    <tag>php</tag>
+    <tag>repository</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Affero General Public License v3.0</name>
+      <vanity_url>AGPL3</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>338809</id>
+  <name>Apache jclouds</name>
+  <url>https://www.openhub.net/p/jclouds.xml</url>
+  <html_url>https://www.openhub.net/p/jclouds</html_url>
+  <created_at>2009-05-03T21:09:40Z</created_at>
+  <updated_at>2016-07-21T23:33:24Z</updated_at>
+  <description>Apache jclouds is an open-source framework that helps you get started in the cloud and reuse your Java development skills. Our API allows you to freedom to use portable abstractions or cloud-specific features.  We support many clouds including Amazon, Azure, Rackspace, and VMWare.</description>
+  <homepage_url>http://jclouds.apache.org/</homepage_url>
+  <download_url />
+  <url_name>jclouds</url_name>
+  <vanity_url>jclouds</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/57797/jclouds_med.jpg</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/57797/jclouds_small.jpg</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29306277</analysis_id>
+  <tags>
+    <tag>openstack</tag>
+    <tag>java</tag>
+    <tag>nova</tag>
+    <tag>cloud</tag>
+    <tag>rackspace</tag>
+    <tag>ec2</tag>
+    <tag>atmos</tag>
+    <tag>aws</tag>
+    <tag>blobstore</tag>
+    <tag>amazon</tag>
+    <tag>gcs</tag>
+    <tag>swift</tag>
+    <tag>azure</tag>
+    <tag>s3</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <vanity_url>apache_2</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>GitHub</title>
+      <url>https://github.com/jclouds/jclouds</url>
+      <category>Other</category>
+    </link>
+    <link>
+      <title>JIRA</title>
+      <url>https://issues.apache.org/jira/browse/JCLOUDS</url>
+      <category>Issue Trackers</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>350039</id>
+  <name>0 A.D.</name>
+  <url>https://www.openhub.net/p/game_0ad.xml</url>
+  <html_url>https://www.openhub.net/p/game_0ad</html_url>
+  <created_at>2009-07-15T12:16:37Z</created_at>
+  <updated_at>2016-07-29T13:06:03Z</updated_at>
+  <description>Historically based Real Time Strategy game focusing on the years 500 B.C. to 500 A.D.
+
+In short, it is a war/economy strategy game allowing you to recreate or rewrite the ancient history of western civilisations.</description>
+  <homepage_url>http://wildfiregames.com/0ad/</homepage_url>
+  <download_url>http://trac.wildfiregames.com/wiki/LatestRelease</download_url>
+  <url_name>game_0ad</url_name>
+  <vanity_url>game_0ad</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/23841/icon_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/23841/icon_small.png</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>10</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>28886738</analysis_id>
+  <tags>
+    <tag>linux</tag>
+    <tag>games</tag>
+    <tag>cross-platform</tag>
+    <tag>strategy</tag>
+    <tag>gpl2</tag>
+    <tag>historical</tag>
+    <tag>free</tag>
+    <tag>entertainment</tag>
+    <tag>sdl</tag>
+    <tag>fun</tag>
+    <tag>3d</tag>
+    <tag>3d_rendering</tag>
+    <tag>rome</tag>
+    <tag>win32</tag>
+    <tag>osx</tag>
+    <tag>online</tag>
+    <tag>multiplayer</tag>
+    <tag>mac</tag>
+    <tag>gamedev</tag>
+    <tag>strategy_game</tag>
+    <tag>3dgameengine</tag>
+    <tag>free_software</tag>
+    <tag>development</tag>
+    <tag>gaming</tag>
+    <tag>gplv2</tag>
+    <tag>open-source</tag>
+    <tag>gpl</tag>
+    <tag>c</tag>
+    <tag>game</tag>
+    <tag>windows</tag>
+    <tag>opensource</tag>
+    <tag>3dengine</tag>
+    <tag>3dgame</tag>
+    <tag>rts</tag>
+    <tag>3d_modeling</tag>
+    <tag>c++</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Creative Commons Attribution Share Alike 3.0</name>
+      <vanity_url>ccbysa3-0</vanity_url>
+    </license>
+    <license>
+      <name>GNU General Public License v2.0 or later</name>
+      <vanity_url>gpl</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Homepage</title>
+      <url>http://play0ad.com/</url>
+      <category>Other</category>
+    </link>
+    <link>
+      <title>Trac issue tracker</title>
+      <url>http://trac.wildfiregames.com/report</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Source Code Mirror</title>
+      <url>https://github.com/0ad/0ad</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Trac</title>
+      <url>http://trac.wildfiregames.com/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>Forum</title>
+      <url>http://www.wildfiregames.com/forum/</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Homepage</title>
+      <url>http://wildfiregames.com/0ad/</url>
+      <category>Forums</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>457087</id>
+  <name>Aion-Unique</name>
+  <url>https://www.openhub.net/p/aion-unique.xml</url>
+  <html_url>https://www.openhub.net/p/aion-unique</html_url>
+  <created_at>2009-09-30T15:30:59Z</created_at>
+  <updated_at>2015-01-15T21:00:46Z</updated_at>
+  <description />
+  <homepage_url>http://www.aion-unique.org</homepage_url>
+  <download_url />
+  <url_name>aion-unique</url_name>
+  <vanity_url>aion-unique</vanity_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>22341988</analysis_id>
+  <tags>
+    <tag>java</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0 only</name>
+      <vanity_url>gpl3</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>469133</id>
+  <name>JaCoCo Java Code Coverage Library</name>
+  <url>https://www.openhub.net/p/jacoco.xml</url>
+  <html_url>https://www.openhub.net/p/jacoco</html_url>
+  <created_at>2009-10-30T15:57:13Z</created_at>
+  <updated_at>2016-07-05T21:46:40Z</updated_at>
+  <description>JaCoCo is a free code coverage library for Java, which is currently developed by the EclEmma team based on the lessons learned from using and integration existing libraries over the last three years.</description>
+  <homepage_url>http://www.eclemma.org/jacoco/</homepage_url>
+  <download_url>http://www.eclemma.org/jacoco/</download_url>
+  <url_name>jacoco</url_name>
+  <vanity_url>jacoco</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>3</rating_count>
+  <review_count>1</review_count>
+  <analysis_id>29165303</analysis_id>
+  <tags>
+    <tag>coverage</tag>
+    <tag>quality</tag>
+    <tag>metrics</tag>
+    <tag>codecoverage</tag>
+    <tag>java</tag>
+    <tag>testing</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>Eclipse Public License 1.0</name>
+      <vanity_url>eclipse</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Issues</title>
+      <url>https://github.com/jacoco/jacoco/issues</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>Google Group</title>
+      <url>https://groups.google.com/d/forum/jacoco</url>
+      <category>Forums</category>
+    </link>
+    <link>
+      <title>Latest Documentation</title>
+      <url>http://www.eclemma.org/jacoco/trunk/doc/</url>
+      <category>Documentation</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>480166</id>
+  <name>PHPMD - PHP Mess Detector</name>
+  <url>https://www.openhub.net/p/phpmd.xml</url>
+  <html_url>https://www.openhub.net/p/phpmd</html_url>
+  <created_at>2009-12-31T18:24:00Z</created_at>
+  <updated_at>2016-08-12T05:43:47Z</updated_at>
+  <description>This is the project site of PHPMD. It is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
+
+What PHPMD does is, it takes a given source code and analyzes it for several potential problems. These problems can be suboptimal code, over complicated expressions or dead code, like unused parameters, methods and properties.</description>
+  <homepage_url>http://phpmd.org</homepage_url>
+  <download_url>http://phpmd.org/download.html</download_url>
+  <url_name>phpmd</url_name>
+  <vanity_url>phpmd</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28384/ohloh_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/28384/ohloh_small.png</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>1</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29321951</analysis_id>
+  <tags>
+    <tag>staticanalysis</tag>
+    <tag>quality</tag>
+    <tag>metrics</tag>
+    <tag>quality_assurance</tag>
+    <tag>static</tag>
+    <tag>code_analysis</tag>
+    <tag>softwaremetrics</tag>
+    <tag>php</tag>
+    <tag>staticcontent</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 3-clause "New" or "Revised" License</name>
+      <vanity_url>BSD-3-Clause</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>50</value>
+    <description>Moderate</description>
+  </project_activity_index>
+</project>
+<project>
+  <id>481812</id>
+  <name>GROMACS</name>
+  <url>https://www.openhub.net/p/gromacs.xml</url>
+  <html_url>https://www.openhub.net/p/gromacs</html_url>
+  <created_at>2010-03-14T12:28:46Z</created_at>
+  <updated_at>2016-07-20T18:55:42Z</updated_at>
+  <description>GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.
+
+It is primarily designed for biochemical molecules like proteins, lipids and nucleic acids that have a lot of complicated bonded interactions, but but thanks to its speed, many groups also use it for research on non-biological systems, e.g. polymers.
+
+Speed is one of the key features that makes GROMACS particularly attractive. Thanks to the strong emphasis on bottom-up performance tuning: hand-tuned CPU SIMD kernels are available for most CPU architectures,  CUDA-based GPU acceleration together with efficient multi-threading and neutral-territory domain-decomposition with MPI SPMD parallelization is supported.</description>
+  <homepage_url>http://www.gromacs.org/</homepage_url>
+  <download_url>http://www.gromacs.org/index.php?title=Download_%26_Installatio</download_url>
+  <url_name>gromacs</url_name>
+  <vanity_url>gromacs</vanity_url>
+  <medium_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/38416/gromacs_med.png</medium_logo_url>
+  <small_logo_url>https://s3.amazonaws.com/cloud.ohloh.net/attachments/38416/gromacs_small.png</small_logo_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>6</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29304724</analysis_id>
+  <tags>
+    <tag>simd</tag>
+    <tag>ansi_c</tag>
+    <tag>sse</tag>
+    <tag>gpu</tag>
+    <tag>cuda</tag>
+    <tag>hpc</tag>
+    <tag>avx</tag>
+    <tag>high_performance_computing</tag>
+    <tag>molecular_simulation</tag>
+    <tag>parallelcomputing</tag>
+    <tag>molecularsimulation</tag>
+    <tag>bgq</tag>
+    <tag>scientific_computing</tag>
+    <tag>molecular_dynamics</tag>
+    <tag>sse2</tag>
+    <tag>moleculardynamics</tag>
+    <tag>mpi</tag>
+    <tag>gromacs</tag>
+    <tag>avx2</tag>
+    <tag>science</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License v2.1 only</name>
+      <vanity_url>lgpl21</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>0</value>
+    <description>Not Available</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>Remine</title>
+      <url>http://redmine.gromacs.org/</url>
+      <category>Issue Trackers</category>
+    </link>
+    <link>
+      <title>GROMACS on Facebook</title>
+      <url>https://www.facebook.com/pages/GROMACS/257453660934850</url>
+      <category>Community</category>
+    </link>
+  </links>
+</project>
+<project>
+  <id>485176</id>
+  <name>PETSc</name>
+  <url>https://www.openhub.net/p/petsc.xml</url>
+  <html_url>https://www.openhub.net/p/petsc</html_url>
+  <created_at>2010-09-04T18:43:18Z</created_at>
+  <updated_at>2016-08-14T17:48:54Z</updated_at>
+  <description>PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations.  It employs the MPI standard for parallelism.</description>
+  <homepage_url>http://mcs.anl.gov/petsc</homepage_url>
+  <download_url>http://www.mcs.anl.gov/petsc/download/</download_url>
+  <url_name>petsc</url_name>
+  <vanity_url>petsc</vanity_url>
+  <user_count>17</user_count>
+  <average_rating>5.0</average_rating>
+  <rating_count>7</rating_count>
+  <review_count>0</review_count>
+  <analysis_id>29327231</analysis_id>
+  <tags>
+    <tag>pdes</tag>
+    <tag>scientific_computing</tag>
+    <tag>mathematics</tag>
+    <tag>solvers</tag>
+    <tag>hpc</tag>
+    <tag>mpi</tag>
+    <tag>parallel</tag>
+    <tag>simulation</tag>
+    <tag>odes</tag>
+    <tag>parallelcomputing</tag>
+  </tags>
+  <licenses>
+    <license>
+      <name>BSD 2-clause "Simplified" License</name>
+      <vanity_url>bsd_2clause_ish</vanity_url>
+    </license>
+  </licenses>
+  <project_activity_index>
+    <value>70</value>
+    <description>Very High</description>
+  </project_activity_index>
+  <links>
+    <link>
+      <title>petsc-dev</title>
+      <url>http://lists.mcs.anl.gov/pipermail/petsc-dev/</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Documentation</title>
+      <url>http://www.mcs.anl.gov/petsc/documentation/</url>
+      <category>Documentation</category>
+    </link>
+    <link>
+      <title>petsc-users</title>
+      <url>http://lists.mcs.anl.gov/pipermail/petsc-users/</url>
+      <category>Mailing Lists</category>
+    </link>
+    <link>
+      <title>Issue tracker, or email petsc-maint at mcs.anl.gov</title>
+      <url>https://bitbucket.org/petsc/petsc-dev/issues?status=new&amp;status=ope</url>
+      <category>Issue Trackers</category>
+    </link>
+  </links>
+</project>
+  </result>
+</response>
