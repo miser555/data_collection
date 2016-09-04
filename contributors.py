@@ -3,6 +3,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import pandas as pd
 import math
+import fnmatch
 
 MSG_FOLDER = os.path.join(".","msg")
 XML_FOLDER = os.path.join(".","xml")
@@ -16,7 +17,7 @@ for k in range(1, 21):
             #print("There is no info. regarding this project.")
             #break
     #else:
-        url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=c41860f05d55b59896afacf341dfc5853c8fa6344cae24d064c611e060452a37&page=0".format(pid)
+        url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=45f9e6ab501adaade3fc276d98cfd2f528af71bdb90a1524af2b1c3e9d57e18e&page=0".format(pid)
         f = urllib.request.urlopen(url)
         tree = ET.parse(f)
         elem = tree.getroot()
@@ -47,6 +48,7 @@ for k in range(1, 21):
                 if os.path.exists(msgfile_path):
                     print("{}.msg exists, skipping".format(cfile_name))
                     continue
+
                 #check if xml exists
                 cxml_file = os.path.join("xml", cfile_name + ".xml")
                 #check_xml = os.path.join(".", "contribs_xml", cxml_file + ".xml")
@@ -56,7 +58,7 @@ for k in range(1, 21):
                    continue
                    f = cxml_file
                 else:
-                     url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=c41860f05d55b59896afacf341dfc5853c8fa6344cae24d064c611e060452a37&page={}".format(pid,p)
+                     url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=45f9e6ab501adaade3fc276d98cfd2f528af71bdb90a1524af2b1c3e9d57e18e&page={}".format(pid,p)
                      f = urllib.request.urlopen(url)
                      fetched_data_from_url = True
                      tree = ET.parse(f)
@@ -77,25 +79,29 @@ for k in range(1, 21):
                    #contribs_345345_0of41.msg .xml (example)
                    #print the DataFrame
                    print(contribs_df)
-
         else:
             print("There's no information regarding this project")
             continue
+
 
 
 #create a merged contributors file
 success = True
 #new way to append (concat using lists of dfs)
 merged_contribs = []
-for p in range(1,21):
+for k in range(1, 21):
+    project_df = pd.read_msgpack(os.path.join(MSG_FOLDER, "project_{}.msg".format(k)))
     print("### merging contribs data from dataframe {}".format(p))
-    msgfile_name = "contribs_{}_{}of{}.msg".format(pid, p, number_of_pages)
-    msgfile_path = os.path.join(MSG_FOLDER, msgfile_name)
+    for pid in project_df.id:
+        for p in range(1,number_of_pages+1):
+            msgfile_name = "contribs_{}_{}of{}.msg".format(pid, p, number_of_pages)
+            msgfile_path = os.path.join(MSG_FOLDER, msgfile_name)
+            print(msgfile_name)
     # check if msg file exist so we can merge
     if os.path.exists(msgfile_path):
-       print("{} exists, merging".format(msgfile_name))
-       #merged_projects_df.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
-       merged_contribs.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
+        print("{} exists, merging".format(msgfile_name))
+        #merged_projects_df.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
+        merged_contribs.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
     else:
         print("{} is missing, check the script and rerun to fetch it".format(msgfile_path))
         success = False
