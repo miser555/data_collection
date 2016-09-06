@@ -1,0 +1,256 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>826</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2069912243744946</contributor_id>
+      <account_id>78002</account_id>
+      <account_name>Mitchell Hashimoto</account_name>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Mitchell Hashimoto</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.127523258315537</comment_ratio>
+      <first_commit_time>2010-01-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-10T00:00:00Z</last_commit_time>
+      <man_months>70</man_months>
+      <commits>5975</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391619354</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Seth Vargo</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.093008434864105</comment_ratio>
+      <first_commit_time>2013-06-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-07-27T00:00:00Z</last_commit_time>
+      <man_months>22</man_months>
+      <commits>1102</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069912243781368</contributor_id>
+      <account_id>114424</account_id>
+      <account_name>gildegoma</account_name>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Gilles Cornu</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0896326216580112</comment_ratio>
+      <first_commit_time>2013-05-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-17T00:00:00Z</last_commit_time>
+      <man_months>24</man_months>
+      <commits>156</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391336357</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Fabio Rehm</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0454978561219628</comment_ratio>
+      <first_commit_time>2013-02-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-09-15T00:00:00Z</last_commit_time>
+      <man_months>13</man_months>
+      <commits>116</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391434792</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>John Bender</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0479082321187584</comment_ratio>
+      <first_commit_time>2010-01-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-02-10T00:00:00Z</last_commit_time>
+      <man_months>8</man_months>
+      <commits>85</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391533627</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Shawn Neal</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0956668542487338</comment_ratio>
+      <first_commit_time>2014-03-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-01-27T00:00:00Z</last_commit_time>
+      <man_months>14</man_months>
+      <commits>78</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391464389</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Teemu Matilainen</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.035964035964036</comment_ratio>
+      <first_commit_time>2013-10-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-13T00:00:00Z</last_commit_time>
+      <man_months>7</man_months>
+      <commits>68</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391705463</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Max Lincoln</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0848722986247544</comment_ratio>
+      <first_commit_time>2013-10-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-16T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>30</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391613965</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Matt Wrock</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0304568527918782</comment_ratio>
+      <first_commit_time>2014-07-17T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-03-05T00:00:00Z</last_commit_time>
+      <man_months>8</man_months>
+      <commits>24</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391246471</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Paul Hinze</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.109010712035287</comment_ratio>
+      <first_commit_time>2013-09-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-07T00:00:00Z</last_commit_time>
+      <man_months>9</man_months>
+      <commits>23</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391722640</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Jack Pearkes</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-02-17T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-03-08T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>23</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391617370</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Ben Hines</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.106301834251468</comment_ratio>
+      <first_commit_time>2014-06-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-07-28T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>22</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069912243805775</contributor_id>
+      <account_id>138831</account_id>
+      <account_name>Adam Spiers</account_name>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Adam Spiers</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-04-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-25T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>18</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914392014071</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>captainill</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0822656776803776</comment_ratio>
+      <first_commit_time>2015-11-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-12-20T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>15</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391804063</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Jon Topper</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.0170454545454545</comment_ratio>
+      <first_commit_time>2014-02-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-13T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>13</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391472889</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Michael Bearne</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.134281200631912</comment_ratio>
+      <first_commit_time>2010-12-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-01-20T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>13</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069912243809609</contributor_id>
+      <account_id>142665</account_id>
+      <account_name>Christian Berendt</account_name>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Christian Berendt</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-03-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-05-13T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>13</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914392037974</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Pat O'Shea</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-07-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-09T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>12</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391921561</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Marno van der Molen</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-05-17T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-05-28T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>12</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391855288</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Mikhail Zholobov</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.125</comment_ratio>
+      <first_commit_time>2014-10-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-09T00:00:00Z</last_commit_time>
+      <man_months>7</man_months>
+      <commits>11</commits>
+    </contributor_fact>
+  </result>
+</response>

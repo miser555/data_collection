@@ -1,0 +1,60 @@
+<response>
+  <status>success</status>
+  <items_returned>4</items_returned>
+  <items_available>4</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>3050801169730971</contributor_id>
+      <account_id>36251</account_id>
+      <account_name>Filippo De Luca</account_name>
+      <analysis_id>29225745</analysis_id>
+      <contributor_name>Filippo De Luca</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.124822021831989</comment_ratio>
+      <first_commit_time>2013-10-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-03T00:00:00Z</last_commit_time>
+      <man_months>9</man_months>
+      <commits>83</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>3050801170393600</contributor_id>
+      <account_id>698880</account_id>
+      <account_name>bkiselka</account_name>
+      <analysis_id>29225745</analysis_id>
+      <contributor_name>Bernhard Kiselka</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.215346534653465</comment_ratio>
+      <first_commit_time>2014-10-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-11-04T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>15</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>3050803318095976</contributor_id>
+      <analysis_id>29225745</analysis_id>
+      <contributor_name>Juho Makinen</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0486486486486487</comment_ratio>
+      <first_commit_time>2015-11-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-12T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>4</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>3050803317890486</contributor_id>
+      <analysis_id>29225745</analysis_id>
+      <contributor_name>Csaba Palfi</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-10-19T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-19T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>
