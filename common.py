@@ -29,7 +29,7 @@ def get_number_of_contrib_pages(pid):
         f = first_xml_file[0]
     else:
         url = get_url("contributors", pid=pid)
-        print("openning: {}".format(url))
+        print("openning (get_number_of_contrib_pages): {}".format(url))
         f = urllib.request.urlopen(url)
 
     tree = ET.parse(f)
@@ -103,7 +103,7 @@ def fetch_xml(target, page=1, pid=None):
     # otherwise fetch xml from url and store file
     else:
         url = get_url(target, pid=pid, page=page)
-        print("openning: {}".format(url))
+        print("openning (fetch_xml): {}".format(url))
         f = urllib.request.urlopen(url)
         store_xml_file = True
     tree = ET.parse(f)
