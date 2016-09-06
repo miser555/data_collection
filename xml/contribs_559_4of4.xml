@@ -1,0 +1,44 @@
+<response>
+  <status>success</status>
+  <items_returned>3</items_returned>
+  <items_available>63</items_available>
+  <first_item_position>60</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2403034755760</contributor_id>
+      <analysis_id>28531060</analysis_id>
+      <contributor_name>jthedering</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-11-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-11-09T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2403034804500</contributor_id>
+      <analysis_id>28531060</analysis_id>
+      <contributor_name>Eric Brayet</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-28T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2403034380379</contributor_id>
+      <analysis_id>28531060</analysis_id>
+      <contributor_name>Andy Brown</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-02-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-02-14T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+  </result>
+</response>

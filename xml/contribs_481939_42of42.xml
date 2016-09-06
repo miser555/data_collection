@@ -1,0 +1,80 @@
+<response>
+  <status>success</status>
+  <items_returned>6</items_returned>
+  <items_available>826</items_available>
+  <first_item_position>820</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2069914391516635</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Alper Kanat</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-05-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-05-23T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914392046090</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Daniel Schreiber</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-01-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-01-13T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391655155</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Josh Mahowald</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-05-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-05-08T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391441840</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>William Roe</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2011-10-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-10-01T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391863824</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Heikichi Umehara</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-10-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-20T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069914391856718</contributor_id>
+      <analysis_id>29311091</analysis_id>
+      <contributor_name>Seth Miller</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-11-19T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-19T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

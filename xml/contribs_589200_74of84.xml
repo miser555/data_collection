@@ -1,0 +1,250 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>1664</items_available>
+  <first_item_position>1460</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2530596878756374</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Vlad Ureche</contributor_name>
+      <primary_language_id>102</primary_language_id>
+      <primary_language_nice_name>Rust</primary_language_nice_name>
+      <comment_ratio>0.387665198237885</comment_ratio>
+      <first_commit_time>2016-02-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-02-14T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878876038</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>kyeongwoon</contributor_name>
+      <primary_language_id>102</primary_language_id>
+      <primary_language_nice_name>Rust</primary_language_nice_name>
+      <comment_ratio>0.0896130346232179</comment_ratio>
+      <first_commit_time>2012-11-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-11-30T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879077913</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Matt McPherrin</contributor_name>
+      <primary_language_id>102</primary_language_id>
+      <primary_language_nice_name>Rust</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-11-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-11-22T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878742312</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Petter Remen</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-01-17T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-01-17T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879070796</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Sergio Benitez</contributor_name>
+      <primary_language_id>102</primary_language_id>
+      <primary_language_nice_name>Rust</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-05-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-05-27T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878797418</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Raphael Nestler</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-02-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-24T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878769224</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>benjaminjackman</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2011-01-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-01-18T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878806938</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Russell Johnston</contributor_name>
+      <primary_language_id>102</primary_language_id>
+      <primary_language_nice_name>Rust</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-05-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-05-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879015357</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Tyler Thrailkill</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-01-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-01-25T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530594731171048</contributor_id>
+      <account_id>367848</account_id>
+      <account_name>Felix Crux</account_name>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Felix Crux</contributor_name>
+      <primary_language_id>102</primary_language_id>
+      <primary_language_nice_name>Rust</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-02-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-02-27T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879182185</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>madmalik</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-01-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-01-31T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879041866</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Willson Mock</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-01-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-01-11T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878415800</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>jrburke</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-11-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-08T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878659712</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Fabiano Beselga</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-10-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-12T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879182193</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>caipre</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-02-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-14T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878915182</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Johannes L&#246;thberg</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-02-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-02-26T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878832939</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Mark C&#244;t&#233;</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2016-06-05T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-05T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596878580379</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Rob Young</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-05-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-05-09T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879182264</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>Andrew Kuchev</contributor_name>
+      <primary_language_id>102</primary_language_id>
+      <primary_language_nice_name>Rust</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-07-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-07-27T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2530596879079087</contributor_id>
+      <analysis_id>29312807</analysis_id>
+      <contributor_name>smenardpw</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-06-29T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-06-29T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

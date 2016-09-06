@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>445</items_available>
+  <first_item_position>160</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2598508901983320</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>spautz-julien</contributor_name>
+      <primary_language_id>74</primary_language_id>
+      <primary_language_nice_name>CMake</primary_language_nice_name>
+      <comment_ratio>0.0</comment_ratio>
+      <first_commit_time>2014-08-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-05T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>10</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901283074</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Julien</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio>0.227070347284061</comment_ratio>
+      <first_commit_time>2012-12-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-03T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>10</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901959625</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>KJ Larence</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-06-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-06-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>10</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901684236</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>&lt;ttos...@gmail.com&gt;</contributor_name>
+      <primary_language_id>74</primary_language_id>
+      <primary_language_nice_name>CMake</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-05-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-06-08T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>10</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901656387</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Sergio Spinatelli &lt;spinatell...@gmail.com</contributor_name>
+      <primary_language_id>74</primary_language_id>
+      <primary_language_nice_name>CMake</primary_language_nice_name>
+      <comment_ratio>0.213315217391304</comment_ratio>
+      <first_commit_time>2011-08-19T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-10-20T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508902142177</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>mushr...@gmail.com</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio>0.0385321100917431</comment_ratio>
+      <first_commit_time>2011-12-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-12-19T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901686887</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Du&#353;an Kazik</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-03-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-06-30T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901968297</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Jonathon Waterhouse</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio>0.0979020979020979</comment_ratio>
+      <first_commit_time>2014-07-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-08-24T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901936237</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Alek900</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-04-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-05-17T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901967224</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Jonathon Watrhouse</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio>0.0972762645914397</comment_ratio>
+      <first_commit_time>2014-07-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-07-13T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901938168</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Daniel Fore &lt;dan...@elementaryos.org</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-01-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-03-12T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508902034576</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Rory J</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio>0.056140350877193</comment_ratio>
+      <first_commit_time>2015-02-05T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-05-08T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901900159</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Christophe Bastin &lt;bastin...@gmail.com</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-11-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-12-09T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901676259</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>ttos...@gmail.com</contributor_name>
+      <primary_language_id>74</primary_language_id>
+      <primary_language_nice_name>CMake</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-05-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-06-03T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901197829</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>William Jon McCann</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-12-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-01-13T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901701837</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Victor Eduardo &lt;victore...@gmail.com</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio>0.125541125541126</comment_ratio>
+      <first_commit_time>2012-07-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-07-26T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901313142</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Daniel Mustieles</contributor_name>
+      <primary_language_id>50</primary_language_id>
+      <primary_language_nice_name>Automake</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-01-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-17T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901701847</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Delsa</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2010-03-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-03-27T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901217341</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Andreas Obergrusberger</contributor_name>
+      <primary_language_id>34</primary_language_id>
+      <primary_language_nice_name>Vala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-04-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-09-26T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2598508901244423</contributor_id>
+      <analysis_id>29372407</analysis_id>
+      <contributor_name>Rafael Ferreira</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-03-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-01-04T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+  </result>
+</response>

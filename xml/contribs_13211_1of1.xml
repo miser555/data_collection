@@ -1,0 +1,34 @@
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>56740812964526</contributor_id>
+      <account_id>17070</account_id>
+      <account_name>Karsten Schmidt</account_name>
+      <analysis_id>25326676</analysis_id>
+      <contributor_name>Karsten Schmidt&lt;k...@postspectacular.com&gt;</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.343446412061731</comment_ratio>
+      <first_commit_time>2007-03-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-09-17T00:00:00Z</last_commit_time>
+      <man_months>62</man_months>
+      <commits>1050</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>56742961248023</contributor_id>
+      <analysis_id>25326676</analysis_id>
+      <contributor_name>Thomas Sanchez Lengeling</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-03-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-03-30T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

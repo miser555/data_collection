@@ -87,8 +87,8 @@ def get_file_path(target, ftype, page=1, pid=None):
             raise ValueError("pid missing for contributors")
         return os.path.join(
             DIR_PATH_FOR_FTYPE[ftype],
-            "contribs_{}_{}of{}".format(
-                pid, page, get_number_of_contrib_pages(pid))
+            "contribs_{}_{}of{}.{}".format(
+                pid, page, get_number_of_contrib_pages(pid), ftype)
         )
 
     raise ValueError("Unknown target: {}".format(target))

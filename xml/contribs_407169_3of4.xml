@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>62</items_available>
+  <first_item_position>40</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>1748779687047150</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Bertin Kiekebosch</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.138461538461538</comment_ratio>
+      <first_commit_time>2013-05-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-06-10T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687240089</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Bakhtyor Ruzimatov</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-09-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-09-04T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687252361</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Daniel Schmid</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-10-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-28T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687145083</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Patrik Suzzi</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-08-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-09-16T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687040375</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Marcel Schneider</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.263414634146341</comment_ratio>
+      <first_commit_time>2013-04-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-05-06T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687013673</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Sandro Schifferle</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-04-23T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779686602370</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Matthias Schneider</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-10-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-21T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687402783</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Michael Schmuki</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-04-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-04-24T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687135288</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Beatrice Meier</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.227777777777778</comment_ratio>
+      <first_commit_time>2013-09-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-09-13T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687185014</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Urs Beeli</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.126196172248804</comment_ratio>
+      <first_commit_time>2014-03-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-03-18T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687242015</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Bakhtiyor Ruzimatov</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-09-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-09-08T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687128793</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Nathan Burgherr</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-09-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-09-04T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687252364</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Matthias Jenni</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-10-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-21T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687040376</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Bruno K&#246;ferli</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-04-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-04-15T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687263659</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Otmar Caduff</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-12-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-12-04T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687252360</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Fabian Laubacher</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-10-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-21T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687110672</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Tobias Schlatter</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-01-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-01-28T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687047151</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Ren&#233; Eigenheer</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.130952380952381</comment_ratio>
+      <first_commit_time>2013-05-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-05-07T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687232324</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Bahtiyor Ruzimatov</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-07-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-07-31T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748779687056960</contributor_id>
+      <analysis_id>29170681</analysis_id>
+      <contributor_name>Lucien Hansen</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-06-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-06-26T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

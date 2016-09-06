@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>2571</items_available>
+  <first_item_position>500</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2560618699697172</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Dale Sedivec</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.204724409448819</comment_ratio>
+      <first_commit_time>2013-04-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-02-20T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700578846</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Kevin Brebanov</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.359307359307359</comment_ratio>
+      <first_commit_time>2015-07-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-03T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700182915</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Aleksey Khudyakov</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-05-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-06-10T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700284816</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Alan Grosskurth</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-07-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-08-05T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700355729</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>sspans</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-11-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-11-04T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700147410</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Robb Wagoner</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-12-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-01-12T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700205538</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>gw0 [http://gw.tnode.com/]</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-04-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-06-10T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700240745</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Yvan Cottyn</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-11-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-11-09T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700342804</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Nico Cesar</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-08-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-08-05T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700191286</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Xabier Larrakoetxea</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.482889733840304</comment_ratio>
+      <first_commit_time>2013-07-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-07-20T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700496033</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Mischa Peters</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.394451145958987</comment_ratio>
+      <first_commit_time>2014-05-29T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-08-10T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700276084</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Juha Litola</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-25T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700310283</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Rik Theys</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-05-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-05-26T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618699758572</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>davixx</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.468864468864469</comment_ratio>
+      <first_commit_time>2012-12-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-02-15T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618699976844</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Stijn Tintel</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-06-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-07-23T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618699828013</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Matthias Vogelgesang</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.487394957983193</comment_ratio>
+      <first_commit_time>2013-11-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-11-15T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700566921</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Sebastian Kornehl</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.496</comment_ratio>
+      <first_commit_time>2015-05-19T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-06-04T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700053765</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Josh Kuhn</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-11-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-11-25T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700059871</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Florian Diebold</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-08-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-08-25T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2560618700281120</contributor_id>
+      <analysis_id>29311182</analysis_id>
+      <contributor_name>Boris Kaul</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.1125</comment_ratio>
+      <first_commit_time>2013-10-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-10T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+  </result>
+</response>

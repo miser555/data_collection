@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>727</items_available>
+  <first_item_position>80</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2569904419509053</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Sylvain Mina</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.0661157024793388</comment_ratio>
+      <first_commit_time>2012-08-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-04-09T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419599955</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Zack Mulgrew</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.0312042905899561</comment_ratio>
+      <first_commit_time>2016-03-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-08-02T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419842117</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Tilde Engineering</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.0854816824966079</comment_ratio>
+      <first_commit_time>2015-02-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-12T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419274617</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Nick Ragaz</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.112474437627812</comment_ratio>
+      <first_commit_time>2013-01-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-17T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419126186</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Brian Cardarella</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.0633484162895928</comment_ratio>
+      <first_commit_time>2013-01-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-06-08T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419595243</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>M&#225;rcio J&#250;nior</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.121621621621622</comment_ratio>
+      <first_commit_time>2013-04-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-12-17T00:00:00Z</last_commit_time>
+      <man_months>7</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419301282</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Edward Tsech</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.283667621776504</comment_ratio>
+      <first_commit_time>2011-12-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-01-06T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419842118</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Tom Dale + Yehuda Katz</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.242424242424242</comment_ratio>
+      <first_commit_time>2015-01-05T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-05-15T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419040825</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>James Herdman</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-02-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-06-24T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419581864</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Jason Kriss</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-03-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-04-22T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419174333</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Javier Aranda</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-06-07T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419484549</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>peterik</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.0310077519379845</comment_ratio>
+      <first_commit_time>2011-12-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-03-03T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419110947</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Ryan</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.386617100371747</comment_ratio>
+      <first_commit_time>2012-12-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-07-11T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419763586</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>cibernox</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.135265700483092</comment_ratio>
+      <first_commit_time>2015-09-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-08-02T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419555732</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Pepe Cano</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.254716981132075</comment_ratio>
+      <first_commit_time>2013-01-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-12-31T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>8</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419844442</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Hika Hibariya</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-05-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-01-16T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419695863</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Adam Nemecek</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.024390243902439</comment_ratio>
+      <first_commit_time>2014-07-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-07-27T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419578798</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Craig Teegarden</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-26T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419320567</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Amiel Martin</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-06-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-05-19T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2569904419300088</contributor_id>
+      <analysis_id>29328420</analysis_id>
+      <contributor_name>Arthur Gunn</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.0524590163934426</comment_ratio>
+      <first_commit_time>2013-09-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-16T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+  </result>
+</response>

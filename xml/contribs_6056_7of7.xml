@@ -1,0 +1,70 @@
+<response>
+  <status>success</status>
+  <items_returned>5</items_returned>
+  <items_available>125</items_available>
+  <first_item_position>120</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>26012469471315</contributor_id>
+      <analysis_id>29306407</analysis_id>
+      <contributor_name>sketchy</contributor_name>
+      <primary_language_id>51</primary_language_id>
+      <primary_language_nice_name>Autoconf</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2001-03-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2001-03-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>26012469495771</contributor_id>
+      <analysis_id>29306407</analysis_id>
+      <contributor_name>notzed</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio>0.335930735930736</comment_ratio>
+      <first_commit_time>2008-03-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2008-03-18T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>26012469730444</contributor_id>
+      <analysis_id>29306407</analysis_id>
+      <contributor_name>midnitoker</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2010-08-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-08-10T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>26012469471307</contributor_id>
+      <analysis_id>29306407</analysis_id>
+      <contributor_name>hannington</contributor_name>
+      <primary_language_id>51</primary_language_id>
+      <primary_language_nice_name>Autoconf</primary_language_nice_name>
+      <comment_ratio>0.0448027221907154</comment_ratio>
+      <first_commit_time>2005-05-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2005-05-18T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>26010321957067</contributor_id>
+      <account_id>12491</account_id>
+      <account_name>jaime</account_name>
+      <analysis_id>0</analysis_id>
+      <contributor_name />
+      <primary_language_id>0</primary_language_id>
+      <primary_language_nice_name />
+      <comment_ratio>0</comment_ratio>
+      <first_commit_time />
+      <last_commit_time />
+      <man_months>0</man_months>
+      <commits>0</commits>
+    </contributor_fact>
+  </result>
+</response>

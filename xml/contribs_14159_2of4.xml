@@ -1,0 +1,254 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>69</items_available>
+  <first_item_position>20</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>60814590154230</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Aurelien Pupier</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-12-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-03-24T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>4</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589773926</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Mariya Yordanova</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0166666666666667</comment_ratio>
+      <first_commit_time>2011-02-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-07-26T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589612632</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Jason van Zyl</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0660940109759007</comment_ratio>
+      <first_commit_time>2010-04-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-04-03T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589942575</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Andreas Sewe</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio>0.026694045174538</comment_ratio>
+      <first_commit_time>2014-01-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-12-03T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60812441962169</contributor_id>
+      <account_id>18105</account_id>
+      <account_name>Mykola Nikishov</account_name>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Mykola Nikishov</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-11-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-06-11T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589874098</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>rkrzewski</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-07-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-07-13T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814590155932</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Kevin Milburn</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-06-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-07-04T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60812441957066</contributor_id>
+      <account_id>13002</account_id>
+      <account_name>Alexander Kurtakov</account_name>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Alexander Kurtakov</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-07-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-06-09T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589740438</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Gunnar Wagenknecht</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.110169491525424</comment_ratio>
+      <first_commit_time>2015-04-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-13T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589773919</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Jan Lohre</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0458515283842795</comment_ratio>
+      <first_commit_time>2010-06-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-07-01T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589773924</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Felix Riegger</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0188679245283019</comment_ratio>
+      <first_commit_time>2010-10-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-11-17T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814590310077</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>S&#233;bastien Arod</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.146480659480025</comment_ratio>
+      <first_commit_time>2015-09-29T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-12-09T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589444693</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>vsiveton</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2008-09-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2008-09-05T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589547550</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Jens Reimann</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.194877505567929</comment_ratio>
+      <first_commit_time>2014-01-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-03-27T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814590277597</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Enrico De Fent</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.188916876574307</comment_ratio>
+      <first_commit_time>2015-02-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-27T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60812442024630</contributor_id>
+      <account_id>80566</account_id>
+      <account_name>Marc-Andre Laperle</account_name>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Marc-Andre Laperle</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.311926605504587</comment_ratio>
+      <first_commit_time>2011-12-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-27T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589747499</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>vladt</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio>0.0</comment_ratio>
+      <first_commit_time>2010-12-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-02-05T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589760343</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Gregory Amerson</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-05-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-05-27T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589773915</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Marcus Holl</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio>0.0290697674418605</comment_ratio>
+      <first_commit_time>2010-05-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-06-01T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>60814589609324</contributor_id>
+      <analysis_id>28999894</analysis_id>
+      <contributor_name>Roland Grunberg</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0962199312714777</comment_ratio>
+      <first_commit_time>2012-05-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-03-20T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+  </result>
+</response>

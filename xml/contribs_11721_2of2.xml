@@ -1,0 +1,58 @@
+<response>
+  <status>success</status>
+  <items_returned>4</items_returned>
+  <items_available>24</items_available>
+  <first_item_position>20</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>50343460018050</contributor_id>
+      <analysis_id>29173379</analysis_id>
+      <contributor_name>Tapani Tarvainen</contributor_name>
+      <primary_language_id>8</primary_language_id>
+      <primary_language_nice_name>Perl</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-08T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50343459858899</contributor_id>
+      <analysis_id>29173379</analysis_id>
+      <contributor_name>Edwin Mons</contributor_name>
+      <primary_language_id>8</primary_language_id>
+      <primary_language_nice_name>Perl</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-09-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-09-18T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50343459298714</contributor_id>
+      <analysis_id>29173379</analysis_id>
+      <contributor_name>Arkadiusz Mi&#347;kiewicz</contributor_name>
+      <primary_language_id>8</primary_language_id>
+      <primary_language_nice_name>Perl</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-03-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50341311681991</contributor_id>
+      <account_id>5575</account_id>
+      <account_name>Nicolas Kaiser</account_name>
+      <analysis_id>0</analysis_id>
+      <contributor_name />
+      <primary_language_id>0</primary_language_id>
+      <primary_language_nice_name />
+      <comment_ratio>0</comment_ratio>
+      <first_commit_time />
+      <last_commit_time />
+      <man_months>0</man_months>
+      <commits>0</commits>
+    </contributor_fact>
+  </result>
+</response>

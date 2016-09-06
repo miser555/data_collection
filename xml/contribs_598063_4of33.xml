@@ -1,0 +1,252 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>642</items_available>
+  <first_item_position>60</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2568663174184594</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Paul Draper</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.0704697986577181</comment_ratio>
+      <first_commit_time>2014-08-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-09-21T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173607617</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Christian Schmitt</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.168674698795181</comment_ratio>
+      <first_commit_time>2016-02-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-15T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568661025956244</contributor_id>
+      <account_id>8596</account_id>
+      <account_name>Havoc Pennington</account_name>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Havoc Pennington</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-12-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-24T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663174064333</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>regisfoucault</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2013-07-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-07-10T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663174191178</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>mikamix</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.0</comment_ratio>
+      <first_commit_time>2014-04-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-04-14T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>7</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173722940</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Mr Speaker</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-11-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-02-10T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173904002</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Nepomuk Seiler</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-05-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-31T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173526304</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Robin Green</contributor_name>
+      <primary_language_id>1</primary_language_id>
+      <primary_language_nice_name>HTML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-06-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-07-21T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663174189480</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Tsuyoshi Yoshizawa</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.15</comment_ratio>
+      <first_commit_time>2014-04-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-03-08T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173786367</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Alex S</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-12-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-06-21T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663174064335</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Marcus Linke</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.0178571428571429</comment_ratio>
+      <first_commit_time>2013-06-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-07-09T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173993977</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Matthew Michihara</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2013-10-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-26T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173775200</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Toshiyuki Takahashi</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-05-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-09-01T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173783523</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Jacques</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.214141414141414</comment_ratio>
+      <first_commit_time>2013-01-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-06-17T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173743218</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Christian Kaps</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-03-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-11T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663174033463</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>garbagetown</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2013-03-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-03-07T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>5</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568661025974164</contributor_id>
+      <account_id>26516</account_id>
+      <account_name>Martin Grotzke</account_name>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Martin Grotzke</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-04-04T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-07-30T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>5</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173934309</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>A&#769;rni Hermann Reynisson</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.273482428115016</comment_ratio>
+      <first_commit_time>2012-03-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-04-12T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>5</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663174019895</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Jim Brikman</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-22T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>5</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2568663173491240</contributor_id>
+      <analysis_id>29311095</analysis_id>
+      <contributor_name>Charles</contributor_name>
+      <primary_language_id>1</primary_language_id>
+      <primary_language_nice_name>HTML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-10-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-30T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>5</commits>
+    </contributor_fact>
+  </result>
+</response>
