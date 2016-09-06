@@ -11,7 +11,7 @@ for k in range(1, 21):
     # for pid in project_df.id:
     for pid in projects_df.id:
         no_pages = get_number_of_contrib_pages(pid)
-        for page in range(no_pages+1):
+        for page in range(1, no_pages+1):
             merged_contribs.append(
                 fetch_df_from_xml("contributors", pid=pid, page=page)
             )
