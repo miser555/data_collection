@@ -15,13 +15,16 @@ for k in range(1, 21):
 
     # for pid in project_df.id:
     for pid in project_df.id:
-        first_xml_file = glob.glob(os.path.join("xml","contribs_{}_1of*.xml".format(pid)))
+        first_xml_file = glob.glob(os.path.join(
+            "xml", "contribs_{}_1of*.xml".format(pid)))
         if len(first_xml_file):
             print("found file  {}".format(first_xml_file[0]))
             f = first_xml_file[0]
         else:
-            url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=45f9e6ab501adaade3fc276d98cfd2f528af71bdb90a1524af2b1c3e9d57e18e&page=0".format(
-                pid)
+            url = "https://www.openhub.net/projects/{}/contributors.xml?"\
+                "api_key=45f9e6ab501adaade3fc276d98cfd2f528af71bdb90a1524af2b"\
+                "1c3e9d57e18e&page=0".format(pid)
+
             print("openning url: {}".format(url))
             f = urllib.request.urlopen(url)
         tree = ET.parse(f)
@@ -63,8 +66,10 @@ for k in range(1, 21):
                     print("{} exists, using it".format(cxml_file))
                     f = cxml_file
                 else:
-                    url = "https://www.openhub.net/projects/{}/contributors.xml?api_key=45f9e6ab501adaade3fc276d98cfd2f528af71bdb90a1524af2b1c3e9d57e18e&page={}".format(
-                        pid, p)
+                    url = "https://www.openhub.net/projects/{}/"\
+                        "contributors.xml?api_key=45f9e6ab501adaade3f"\
+                        "c276d98cfd2f528af71bdb90a1524af2b1c3e9d57e18e"\
+                        "&page={}".format(pid, p)
                     f = urllib.request.urlopen(url)
                     fetched_data_from_url = True
                     tree = ET.parse(f)
@@ -82,7 +87,9 @@ for k in range(1, 21):
                 # this should be up one level
                 # it should work for url and xml files
                 contribs_info = [
-                    project for project in elem.findall('result/contributor_fact')]
+                    project for
+                    project in elem.findall('result/contributor_fact')
+                ]
                 contribs_df = pd.DataFrame(
                     [
                         {x.tag: x.text.strip() for x in proj if x.text}
@@ -115,7 +122,8 @@ for k in range(1, 21):
         # number_ofpages is not set correctly
         # need to read xml for first page to set it for each project
 
-        first_xml_file = glob.glob(os.path.join("xml","contribs_{}_1of*.xml".format(pid)))[0]
+        first_xml_file = glob.glob(os.path.join(
+            "xml", "contribs_{}_1of*.xml".format(pid)))[0]
         print("found {}".format(first_xml_file))
         tree = ET.parse(first_xml_file)
 
@@ -145,12 +153,11 @@ for k in range(1, 21):
             # check if msg file exist so we can merge
             if os.path.exists(msgfile_path):
                 print("{} exists, merging".format(msgfile_name))
-                # merged_projects_df.append(pd.read_msgpack(msgfile_path, encoding="utf-8"))
                 merged_contribs.append(
                     pd.read_msgpack(msgfile_path, encoding="utf-8"))
             else:
                 print(
-                    "{} is missing, check the script and rerun to fetch it".format(msgfile_path))
+                    "{} is missing, check/rerun script".format(msgfile_path))
                 success = False
                 break
 merged_contribs = pd.concat(merged_contribs, axis=0)
