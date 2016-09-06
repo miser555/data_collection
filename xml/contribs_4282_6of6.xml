@@ -1,0 +1,60 @@
+<response>
+  <status>success</status>
+  <items_returned>4</items_returned>
+  <items_available>104</items_available>
+  <first_item_position>100</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>18393197898209</contributor_id>
+      <analysis_id>29239014</analysis_id>
+      <contributor_name>Vera Kurpas</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-06-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-06-02T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>18393197519053</contributor_id>
+      <analysis_id>29239014</analysis_id>
+      <contributor_name>Florent Guillaume</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2004-05-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2004-05-24T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>18391050033230</contributor_id>
+      <account_id>71758</account_id>
+      <account_name>codidex</account_name>
+      <analysis_id>0</analysis_id>
+      <contributor_name />
+      <primary_language_id>0</primary_language_id>
+      <primary_language_nice_name />
+      <comment_ratio>0</comment_ratio>
+      <first_commit_time />
+      <last_commit_time />
+      <man_months>0</man_months>
+      <commits>0</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>18391050034346</contributor_id>
+      <account_id>72874</account_id>
+      <account_name>reiki</account_name>
+      <analysis_id>0</analysis_id>
+      <contributor_name />
+      <primary_language_id>0</primary_language_id>
+      <primary_language_nice_name />
+      <comment_ratio>0</comment_ratio>
+      <first_commit_time />
+      <last_commit_time />
+      <man_months>0</man_months>
+      <commits>0</commits>
+    </contributor_fact>
+  </result>
+</response>

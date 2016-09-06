@@ -1,0 +1,260 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>390</items_available>
+  <first_item_position>20</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>50373524425776</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Yair Zaslavsky</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.180165712423777</comment_ratio>
+      <first_commit_time>2011-11-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-25T00:00:00Z</last_commit_time>
+      <man_months>39</man_months>
+      <commits>518</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524309847</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Tal Nisan</contributor_name>
+      <primary_language_id>30</primary_language_id>
+      <primary_language_nice_name>SQL</primary_language_nice_name>
+      <comment_ratio>0.0263157894736842</comment_ratio>
+      <first_commit_time>2011-11-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-30T00:00:00Z</last_commit_time>
+      <man_months>50</man_months>
+      <commits>514</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524357609</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Ryan Barry</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.15446958754614</comment_ratio>
+      <first_commit_time>2013-02-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-02T00:00:00Z</last_commit_time>
+      <man_months>38</man_months>
+      <commits>507</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524542932</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Martin Perina</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.124247453545511</comment_ratio>
+      <first_commit_time>2013-03-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-31T00:00:00Z</last_commit_time>
+      <man_months>38</man_months>
+      <commits>475</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524516837</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Lior Vernia</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.054671214705325</comment_ratio>
+      <first_commit_time>2013-01-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-12T00:00:00Z</last_commit_time>
+      <man_months>26</man_months>
+      <commits>471</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524017115</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Mike Burns</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.131464894539151</comment_ratio>
+      <first_commit_time>2010-02-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-11-27T00:00:00Z</last_commit_time>
+      <man_months>41</man_months>
+      <commits>471</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50371376985091</contributor_id>
+      <account_id>537603</account_id>
+      <account_name>mikekolesnik</account_name>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Mike Kolesnik</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.111407581953011</comment_ratio>
+      <first_commit_time>2011-11-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-07-06T00:00:00Z</last_commit_time>
+      <man_months>31</man_months>
+      <commits>463</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373523943038</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Adam Litke</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.210853338712931</comment_ratio>
+      <first_commit_time>2010-02-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-25T00:00:00Z</last_commit_time>
+      <man_months>57</man_months>
+      <commits>462</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50371376451079</contributor_id>
+      <account_id>3591</account_id>
+      <account_name>apevec</account_name>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Alan Pevec</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.14550222504768</comment_ratio>
+      <first_commit_time>2008-03-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-11-09T00:00:00Z</last_commit_time>
+      <man_months>36</man_months>
+      <commits>447</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524558772</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Yedidyah Bar David</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.148207441905594</comment_ratio>
+      <first_commit_time>2013-06-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-07T00:00:00Z</last_commit_time>
+      <man_months>36</man_months>
+      <commits>443</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50371376984732</contributor_id>
+      <account_id>537244</account_id>
+      <account_name>dcaro</account_name>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>David Caro</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.240237869697927</comment_ratio>
+      <first_commit_time>2013-06-05T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-07T00:00:00Z</last_commit_time>
+      <man_months>37</man_months>
+      <commits>433</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524214024</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Shahar Havivi</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.103641456582633</comment_ratio>
+      <first_commit_time>2011-11-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-09T00:00:00Z</last_commit_time>
+      <man_months>52</man_months>
+      <commits>429</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50371376967667</contributor_id>
+      <account_id>520179</account_id>
+      <account_name>Saggi Mizrahi</account_name>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Saggi Mizrahi</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.147200466994211</comment_ratio>
+      <first_commit_time>2011-05-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-25T00:00:00Z</last_commit_time>
+      <man_months>42</man_months>
+      <commits>420</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524425770</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Roy Golan</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.0796594898561531</comment_ratio>
+      <first_commit_time>2011-11-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-29T00:00:00Z</last_commit_time>
+      <man_months>53</man_months>
+      <commits>409</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50371376945561</contributor_id>
+      <account_id>498073</account_id>
+      <account_name>Yaniv Bronhaim</account_name>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Yaniv Bronhaim</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.131209182663764</comment_ratio>
+      <first_commit_time>2012-07-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-24T00:00:00Z</last_commit_time>
+      <man_months>45</man_months>
+      <commits>408</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524445737</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Liron Aravot</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0540525401893239</comment_ratio>
+      <first_commit_time>2012-06-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-29T00:00:00Z</last_commit_time>
+      <man_months>39</man_months>
+      <commits>406</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524425772</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Michael Kublin</contributor_name>
+      <primary_language_id>46</primary_language_id>
+      <primary_language_nice_name>MetaFont</primary_language_nice_name>
+      <comment_ratio>0.0380693855932203</comment_ratio>
+      <first_commit_time>2011-11-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-05-06T00:00:00Z</last_commit_time>
+      <man_months>19</man_months>
+      <commits>395</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524472431</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Ravi Nori</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0506908140403286</comment_ratio>
+      <first_commit_time>2012-10-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-20T00:00:00Z</last_commit_time>
+      <man_months>44</man_months>
+      <commits>395</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50371377253179</contributor_id>
+      <account_id>805691</account_id>
+      <account_name>Piotr Kliczewski</account_name>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>pkliczewski</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.113543750463066</comment_ratio>
+      <first_commit_time>2013-10-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-18T00:00:00Z</last_commit_time>
+      <man_months>31</man_months>
+      <commits>379</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>50373524425785</contributor_id>
+      <analysis_id>29075199</analysis_id>
+      <contributor_name>Yaniv Dary</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.0978408268005639</comment_ratio>
+      <first_commit_time>2011-10-17T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-11T00:00:00Z</last_commit_time>
+      <man_months>36</man_months>
+      <commits>368</commits>
+    </contributor_fact>
+  </result>
+</response>

@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>954</items_available>
+  <first_item_position>220</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>57211112211413</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Svein Ove Aas</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.1125</comment_ratio>
+      <first_commit_time>2015-12-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-06T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>21</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112325463</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>&#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088; &#1062;&#1072;&#1084;&#1091;&#1090;&#1072;&#1083;&#1080;</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.0166666666666667</comment_ratio>
+      <first_commit_time>2012-09-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-04-05T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112586504</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Ryan Scheel (Havvy)</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-04-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-13T00:00:00Z</last_commit_time>
+      <man_months>8</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211111924188</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Ragnar Dahl&#233;n</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.0107816711590297</comment_ratio>
+      <first_commit_time>2015-01-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-06T00:00:00Z</last_commit_time>
+      <man_months>10</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112429722</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Allan Espinosa</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-11-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-07T00:00:00Z</last_commit_time>
+      <man_months>8</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112043168</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Simon Hengel</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.0099009900990099</comment_ratio>
+      <first_commit_time>2014-04-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-08-21T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112579986</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Arvin Moezzi</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.00970873786407767</comment_ratio>
+      <first_commit_time>2013-10-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-05-03T00:00:00Z</last_commit_time>
+      <man_months>8</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112162799</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Hoang Xuan Phu</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.0238095238095238</comment_ratio>
+      <first_commit_time>2014-08-13T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-30T00:00:00Z</last_commit_time>
+      <man_months>9</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112562833</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Matthias C. M. Troffaes</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.122093023255814</comment_ratio>
+      <first_commit_time>2014-12-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-03-23T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>20</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112771570</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>michael bishop</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.0165745856353591</comment_ratio>
+      <first_commit_time>2015-09-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-30T00:00:00Z</last_commit_time>
+      <man_months>7</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112771573</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Th&#233;ophane Hufschmitt</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.0</comment_ratio>
+      <first_commit_time>2015-10-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-21T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112679698</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>wyvie</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.030812324929972</comment_ratio>
+      <first_commit_time>2014-09-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-01-31T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112081290</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Jonathan Rudenberg</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.0163934426229508</comment_ratio>
+      <first_commit_time>2014-10-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-04T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112666406</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Val&#233;rian Galliat</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.0358565737051793</comment_ratio>
+      <first_commit_time>2014-10-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-11T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112678976</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>j-keck</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.0155038759689922</comment_ratio>
+      <first_commit_time>2014-11-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-12T00:00:00Z</last_commit_time>
+      <man_months>7</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112573527</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Alexei Robyn</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.0928725701943845</comment_ratio>
+      <first_commit_time>2013-09-29T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-13T00:00:00Z</last_commit_time>
+      <man_months>10</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112157616</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>William Roe</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.0</comment_ratio>
+      <first_commit_time>2014-07-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-09T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>18</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112382568</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Mart Kolthof</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2006-01-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2007-11-12T00:00:00Z</last_commit_time>
+      <man_months>5</man_months>
+      <commits>18</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112052696</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>Benjamin Saunders</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio>0.0403361344537815</comment_ratio>
+      <first_commit_time>2015-01-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-30T00:00:00Z</last_commit_time>
+      <man_months>6</man_months>
+      <commits>18</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>57211112729974</contributor_id>
+      <analysis_id>28887624</analysis_id>
+      <contributor_name>lassulus</contributor_name>
+      <primary_language_id>71</primary_language_id>
+      <primary_language_nice_name>Nix</primary_language_nice_name>
+      <comment_ratio>0.0183150183150183</comment_ratio>
+      <first_commit_time>2015-05-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-13T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>18</commits>
+    </contributor_fact>
+  </result>
+</response>

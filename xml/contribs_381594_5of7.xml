@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>139</items_available>
+  <first_item_position>80</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>1638935898745508</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>eladBenedict</contributor_name>
+      <primary_language_id>2</primary_language_id>
+      <primary_language_nice_name>PHP</primary_language_nice_name>
+      <comment_ratio>0.241269841269841</comment_ratio>
+      <first_commit_time>2015-09-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-03T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898596704</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Kalturia Packager</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-01-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-01-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898729744</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Mark Ratliff</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio>0.106898901529371</comment_ratio>
+      <first_commit_time>2015-04-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-05T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>5</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898735814</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Oded Shafran</contributor_name>
+      <primary_language_id>17</primary_language_id>
+      <primary_language_nice_name>C#</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-08-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-09-21T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>5</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898813634</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Anthony Drimones</contributor_name>
+      <primary_language_id>2</primary_language_id>
+      <primary_language_nice_name>PHP</primary_language_nice_name>
+      <comment_ratio>0.232394366197183</comment_ratio>
+      <first_commit_time>2016-05-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-03T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>4</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898660374</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Amir Chervinsky</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-12-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-01-05T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>4</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898597344</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>vadimtar</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-04-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-02-24T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>4</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898639292</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>ctdeneen</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-07-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-08-21T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>4</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898771348</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>gonenradai</contributor_name>
+      <primary_language_id>17</primary_language_id>
+      <primary_language_nice_name>C#</primary_language_nice_name>
+      <comment_ratio>0.086053412462908</comment_ratio>
+      <first_commit_time>2016-01-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-11T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935897870869</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>yaron</contributor_name>
+      <primary_language_id>1</primary_language_id>
+      <primary_language_nice_name>HTML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2010-10-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-11-03T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898813633</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>david-winder-kaltura</contributor_name>
+      <primary_language_id>2</primary_language_id>
+      <primary_language_nice_name>PHP</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-06-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-06-08T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898245952</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>jess</contributor_name>
+      <primary_language_id>12</primary_language_id>
+      <primary_language_nice_name>Ruby</primary_language_nice_name>
+      <comment_ratio>0.205128205128205</comment_ratio>
+      <first_commit_time>2014-02-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-04-24T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898327358</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Michael Dale</contributor_name>
+      <primary_language_id>1</primary_language_id>
+      <primary_language_nice_name>HTML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-12-05T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-22T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898666949</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>shaktidhar</contributor_name>
+      <primary_language_id>1</primary_language_id>
+      <primary_language_nice_name>HTML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-08-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-10-07T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898735813</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>U-KALTURA\jonathan.kanarek</contributor_name>
+      <primary_language_id>2</primary_language_id>
+      <primary_language_nice_name>PHP</primary_language_nice_name>
+      <comment_ratio>0.273930611676188</comment_ratio>
+      <first_commit_time>2015-08-05T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898166124</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Lior Kesos</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-10-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-25T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898581554</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>mobcdi</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-02-26T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-08-11T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898432393</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>Itay Kinnrot</contributor_name>
+      <primary_language_id>2</primary_language_id>
+      <primary_language_nice_name>PHP</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-03-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-04-22T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898796653</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>gadyaari</contributor_name>
+      <primary_language_id>1</primary_language_id>
+      <primary_language_nice_name>HTML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-04-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-11T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1638935898639293</contributor_id>
+      <analysis_id>29304144</analysis_id>
+      <contributor_name>amitRosenberg</contributor_name>
+      <primary_language_id>2</primary_language_id>
+      <primary_language_nice_name>PHP</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-08-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-08-05T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+  </result>
+</response>

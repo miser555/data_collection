@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>73</items_available>
+  <first_item_position>40</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2069368931153360</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>John Baxter</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-01-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-01-22T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368931053746</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>ngoga</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio>0.292181069958848</comment_ratio>
+      <first_commit_time>2013-12-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-02-25T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930826022</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Elton Carvalho</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-06-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-25T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368931260493</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Semen Yesylevskyy</contributor_name>
+      <primary_language_id>37</primary_language_id>
+      <primary_language_nice_name>TeX/LaTeX</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-04-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-04-01T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930897403</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Manuel Luitz</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-10-02T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-08-27T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930587166</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>gmx</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>1997-11-10T00:00:00Z</first_commit_time>
+      <last_commit_time>1997-11-12T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>2</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930832402</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Robert McGibbon</contributor_name>
+      <primary_language_id>44</primary_language_id>
+      <primary_language_nice_name>C++</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-10-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-14T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930357637</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>pieter</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>1997-11-11T00:00:00Z</first_commit_time>
+      <last_commit_time>1997-11-11T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930402384</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Marcus D. Hanwell</contributor_name>
+      <primary_language_id>74</primary_language_id>
+      <primary_language_nice_name>CMake</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-10-29T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-29T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930351800</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Patrick Welche</contributor_name>
+      <primary_language_id>44</primary_language_id>
+      <primary_language_nice_name>C++</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-05-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-31T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930812836</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Jakub Krajniak</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-02-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-02-25T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368931018210</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Jarvist Moore Frost</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-08-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-08-22T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930638710</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Daniel Landau</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio>0.490654205607477</comment_ratio>
+      <first_commit_time>2014-03-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-03-24T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368931049630</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Nina Fischer</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2014-02-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-02-20T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930992821</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>James Barnett</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-01-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-01-14T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930611870</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>kyleb</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2010-09-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2010-09-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368931216846</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Alfredo Metere</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio>0.0677685950413223</comment_ratio>
+      <first_commit_time>2015-10-07T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-07T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368930903937</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Han Wang</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-01-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-23T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368931209857</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>B&#233;la Vo&#223;</contributor_name>
+      <primary_language_id>44</primary_language_id>
+      <primary_language_nice_name>C++</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-08-27T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-27T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2069368931050201</contributor_id>
+      <analysis_id>29304724</analysis_id>
+      <contributor_name>Jan Henning Peters</contributor_name>
+      <primary_language_id>42</primary_language_id>
+      <primary_language_nice_name>C</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-02-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-02-10T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

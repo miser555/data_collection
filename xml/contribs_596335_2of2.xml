@@ -1,0 +1,80 @@
+<response>
+  <status>success</status>
+  <items_returned>6</items_returned>
+  <items_available>26</items_available>
+  <first_item_position>20</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2561241470810141</contributor_id>
+      <analysis_id>28887228</analysis_id>
+      <contributor_name>tomekr</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.213377926421405</comment_ratio>
+      <first_commit_time>2016-04-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-17T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>19</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2561241469948676</contributor_id>
+      <analysis_id>28887228</analysis_id>
+      <contributor_name>dbrosius</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-07-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-01-01T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>10</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2561241470295276</contributor_id>
+      <analysis_id>28887228</analysis_id>
+      <contributor_name>shashank</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.165254237288136</comment_ratio>
+      <first_commit_time>2015-04-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-02-04T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>9</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2561241469944750</contributor_id>
+      <analysis_id>28887228</analysis_id>
+      <contributor_name>dj</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio>0.282075471698113</comment_ratio>
+      <first_commit_time>2015-08-10T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-03-30T00:00:00Z</last_commit_time>
+      <man_months>4</man_months>
+      <commits>6</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2561241469960753</contributor_id>
+      <analysis_id>28887228</analysis_id>
+      <contributor_name>fmeschbe</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2012-04-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-04-11T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2561241469951167</contributor_id>
+      <analysis_id>28887228</analysis_id>
+      <contributor_name>justin</contributor_name>
+      <primary_language_id>5</primary_language_id>
+      <primary_language_nice_name>Java</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-06-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-06-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

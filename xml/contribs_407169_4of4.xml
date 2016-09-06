@@ -1,0 +1,36 @@
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>62</items_available>
+  <first_item_position>60</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>1748777539074998</contributor_id>
+      <account_id>129974</account_id>
+      <account_name>andibur</account_name>
+      <analysis_id>0</analysis_id>
+      <contributor_name />
+      <primary_language_id>0</primary_language_id>
+      <primary_language_nice_name />
+      <comment_ratio>0</comment_ratio>
+      <first_commit_time />
+      <last_commit_time />
+      <man_months>0</man_months>
+      <commits>0</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1748777539076567</contributor_id>
+      <account_id>131543</account_id>
+      <account_name>hmueller</account_name>
+      <analysis_id>0</analysis_id>
+      <contributor_name />
+      <primary_language_id>0</primary_language_id>
+      <primary_language_nice_name />
+      <comment_ratio>0</comment_ratio>
+      <first_commit_time />
+      <last_commit_time />
+      <man_months>0</man_months>
+      <commits>0</commits>
+    </contributor_fact>
+  </result>
+</response>

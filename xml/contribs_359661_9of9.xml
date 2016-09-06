@@ -1,0 +1,236 @@
+<response>
+  <status>success</status>
+  <items_returned>19</items_returned>
+  <items_available>179</items_available>
+  <first_item_position>160</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>1544734380874273</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>bryan hunt</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2015-11-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-11-24T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380499285</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>null</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-01-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-01-30T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380171054</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Eric</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio>0.227436823104693</comment_ratio>
+      <first_commit_time>2013-01-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-22T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380158158</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>odo</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-06-24T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-06-24T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380499023</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Bryce "BonzoESC" Kerley</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-10-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-22T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380173339</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>John</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-06-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-06-12T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380635176</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Daniil Churikov</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-03-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-03-14T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380712712</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Darach Ennis</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-03-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-03T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380296632</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Tom Lanyon</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-07-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-07-14T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380721530</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Line-Noise</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2013-01-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-01-31T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380588402</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Morten Siebuhr</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2011-08-08T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-08-08T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380601589</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Frederic Dumont</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-12-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-12-11T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380467184</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Andrew Oswald</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-02-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-02-21T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380174584</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Jonathan Matthew</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-03-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-03-16T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380610513</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Sina Samavati</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2013-12-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-12-25T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380469606</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Evax Software</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-04-19T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-04-19T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380238804</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Carlos Brando</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2011-10-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-10-03T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380598541</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>Mathieu D'Amours</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2011-11-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2011-11-15T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>1544734380942562</contributor_id>
+      <analysis_id>29219657</analysis_id>
+      <contributor_name>J4/JD/SC</contributor_name>
+      <primary_language_id>28</primary_language_id>
+      <primary_language_nice_name>Erlang</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-12-23T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-12-23T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

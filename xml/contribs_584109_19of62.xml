@@ -1,0 +1,248 @@
+<response>
+  <status>success</status>
+  <items_returned>20</items_returned>
+  <items_available>1238</items_available>
+  <first_item_position>360</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2508731200648180</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>FlytxtRnD</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio>0.4</comment_ratio>
+      <first_commit_time>2015-02-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-07-15T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200619273</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>carlmartin</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-12-01T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-12-22T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200713172</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Imran Younus</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.372822299651568</comment_ratio>
+      <first_commit_time>2016-01-05T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-02-03T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200754043</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Maciej Brynski</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-05-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-08-02T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200457619</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Pei-Lun Lee</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.19811320754717</comment_ratio>
+      <first_commit_time>2015-03-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-04-28T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200593712</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Larry Xiao</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-09-03T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-09-19T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200766307</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Tom Magrino</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-06-28T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-08-02T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200648173</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>sboeschhuawei</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.399548532731377</comment_ratio>
+      <first_commit_time>2015-01-30T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-04-15T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200542903</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Michelangelo D'Agostino</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-10-21T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-04-08T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200421124</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Alexander Pivovarov</contributor_name>
+      <primary_language_id>3</primary_language_id>
+      <primary_language_nice_name>XML</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-08-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-08-11T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200633528</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Theodore Vasiloudis</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-03-09T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-03-17T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200551311</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Keiji Yoshida</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-08-22T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-08-28T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200651353</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>FavioVazquez</contributor_name>
+      <primary_language_id>11</primary_language_id>
+      <primary_language_nice_name>shell script</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-05-14T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-06-09T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200484237</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>David McCauley</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-09-11T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-02T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200619289</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Judy Nash</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-12-16T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-05-24T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200550739</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Vladimir Vladimirov</contributor_name>
+      <primary_language_id>9</primary_language_id>
+      <primary_language_nice_name>Python</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2015-02-06T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-09T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200487116</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>Erik Selin</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-01-29T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-01-13T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200754034</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>dding3</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-04-29T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-28T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200770227</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>sharkd</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2016-07-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-08-04T00:00:00Z</last_commit_time>
+      <man_months>2</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2508731200648284</contributor_id>
+      <analysis_id>29316465</analysis_id>
+      <contributor_name>leahmcguire</contributor_name>
+      <primary_language_id>55</primary_language_id>
+      <primary_language_nice_name>Scala</primary_language_nice_name>
+      <comment_ratio>0.159159159159159</comment_ratio>
+      <first_commit_time>2015-03-31T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-06-03T00:00:00Z</last_commit_time>
+      <man_months>3</man_months>
+      <commits>3</commits>
+    </contributor_fact>
+  </result>
+</response>

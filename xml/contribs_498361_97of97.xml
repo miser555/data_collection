@@ -1,0 +1,56 @@
+<response>
+  <status>success</status>
+  <items_returned>4</items_returned>
+  <items_available>1924</items_available>
+  <first_item_position>1920</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2140446344601599</contributor_id>
+      <analysis_id>29310892</analysis_id>
+      <contributor_name>Haralan Dobrev</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2012-10-18T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-10-18T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2140446344907980</contributor_id>
+      <analysis_id>29310892</analysis_id>
+      <contributor_name>Guilherme de Souza</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-09-12T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-09-12T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2140446344802574</contributor_id>
+      <analysis_id>29310892</analysis_id>
+      <contributor_name>Patrick Hallisey</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2014-04-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2014-04-15T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2140446344799839</contributor_id>
+      <analysis_id>29310892</analysis_id>
+      <contributor_name>Valentyn Shybanov</contributor_name>
+      <primary_language_id>6</primary_language_id>
+      <primary_language_nice_name>JavaScript</primary_language_nice_name>
+      <comment_ratio />
+      <first_commit_time>2013-10-15T00:00:00Z</first_commit_time>
+      <last_commit_time>2013-10-15T00:00:00Z</last_commit_time>
+      <man_months>1</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>

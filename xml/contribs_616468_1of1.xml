@@ -1,0 +1,48 @@
+<response>
+  <status>success</status>
+  <items_returned>3</items_returned>
+  <items_available>3</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <contributor_fact>
+      <contributor_id>2647709899030865</contributor_id>
+      <account_id>337</account_id>
+      <account_name>Stefan K&#252;ng</account_name>
+      <analysis_id>29127965</analysis_id>
+      <contributor_name>steveking</contributor_name>
+      <primary_language_id>44</primary_language_id>
+      <primary_language_nice_name>C++</primary_language_nice_name>
+      <comment_ratio>0.172225953287068</comment_ratio>
+      <first_commit_time>2012-10-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2016-05-14T00:00:00Z</last_commit_time>
+      <man_months>25</man_months>
+      <commits>241</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2647709899091032</contributor_id>
+      <account_id>60504</account_id>
+      <account_name>XhmikosR</account_name>
+      <analysis_id>29127965</analysis_id>
+      <contributor_name>XhmikosR</contributor_name>
+      <primary_language_id>13</primary_language_id>
+      <primary_language_nice_name>DOS batch script</primary_language_nice_name>
+      <comment_ratio>0.0538461538461538</comment_ratio>
+      <first_commit_time>2012-11-25T00:00:00Z</first_commit_time>
+      <last_commit_time>2015-10-09T00:00:00Z</last_commit_time>
+      <man_months>19</man_months>
+      <commits>53</commits>
+    </contributor_fact>
+    <contributor_fact>
+      <contributor_id>2647712046519645</contributor_id>
+      <analysis_id>29127965</analysis_id>
+      <contributor_name>[anonymous]</contributor_name>
+      <primary_language_id />
+      <primary_language_nice_name />
+      <comment_ratio />
+      <first_commit_time>2012-10-20T00:00:00Z</first_commit_time>
+      <last_commit_time>2012-10-20T00:00:00Z</last_commit_time>
+      <man_months>0</man_months>
+      <commits>1</commits>
+    </contributor_fact>
+  </result>
+</response>
