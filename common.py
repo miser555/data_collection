@@ -15,6 +15,7 @@ DIR_PATH_FOR_FTYPE = {
 XPATH_FOR_TARGET = {
     "projects": 'result/project',
     "contributors": 'result/contributor_fact',
+    "enlistments": 'result/enlistment/repository'
 }
 
 
@@ -68,6 +69,17 @@ def get_url(target, page=1, pid=None):
             OH_API_KEY,
             page,
         )
+
+    if target == "enlistments":
+        if not pid:
+            raise ValueError("pid missing for enlistments")
+        return "{}projects/{}/enlistments.xml?api_key={}&page={}".format(
+            OH_API_ENDPOINT,
+            pid,
+            OH_API_KEY,
+            page,
+        )
+
     raise ValueError("Unknown target: {}".format(target))
 
 
@@ -89,6 +101,16 @@ def get_file_path(target, ftype, page=1, pid=None):
             DIR_PATH_FOR_FTYPE[ftype],
             "contribs_{}_{}of{}.{}".format(
                 pid, page, get_number_of_contrib_pages(pid), ftype)
+        )
+
+    if target == "enlistments":
+        if not pid:
+            raise ValueError("pid missing for enlistments")
+        return os.path.join(
+            DIR_PATH_FOR_FTYPE[ftype],
+            "enlistments_{}.{}".format(
+                pid, ftype
+            )
         )
 
     raise ValueError("Unknown target: {}".format(target))
