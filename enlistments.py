@@ -50,9 +50,11 @@ if __name__ == '__main__':
             # url, see how I changed the indentation level for
             # the try statement
             try:
-                merged_data.append(
-                    fetch_df_from_xml("enlistments", pid=pid)
-                )
+                edf = fetch_df_from_xml("enlistments", pid=pid)
+                if edf:
+                    merged_data.append(
+                        edf
+                    )
             except urllib.error.HTTPError as err:
                 # your function did not return a df
                 # you have to return a df and then append it
