@@ -13,7 +13,7 @@ def fetch_enlistment_from_html(pid):
     # use parameters in function names
     url = "https://www.openhub.net/p/{}/enlistments".format(pid)
     content = urllib.request.urlopen(url).read()
-    soup = BeautifulSoup(content, "lxml") # set the parser as lxml
+    soup = BeautifulSoup(content, "lxml")  # set the parser as lxml
     soup.findAll('table')[0].tbody.findAll('tr')
     for row in soup.findAll('table')[0].tbody.findAll('tr'):
         url = row.findAll('td')[0].text.strip()
@@ -60,7 +60,6 @@ if __name__ == '__main__':
                 merged_data.append(
                     fetch_enlistment_from_html(pid)
                 )
-
 
     merged_data = pd.concat(merged_data, axis=0)
     merged_df_file = os.path.join(MSG_FOLDER, "enlistments.msg")

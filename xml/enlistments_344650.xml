@@ -5,17 +5,17 @@
   <first_item_position>0</first_item_position>
   <result>
 <enlistment>
-  <id>668100</id>
-  <project_id>441</project_id>
-  <repository_id>681246</repository_id>
+  <id>112285</id>
+  <project_id>344650</project_id>
+  <repository_id>110413</repository_id>
   <repository>
-    <id>681246</id>
-    <type>GitRepository</type>
-    <url>git://github.com/kurtmckee/feedparser.git</url>
+    <id>110413</id>
+    <type>SvnSyncRepository</type>
+    <url>http://usbloader-gui.googlecode.com/svn/trunk/</url>
     <username />
     <password />
-    <logged_at>2016-08-30T00:00:00Z</logged_at>
-    <commits>906</commits>
+    <logged_at>2016-05-09T00:00:00Z</logged_at>
+    <commits>1161</commits>
     <ohloh_job_status>success</ohloh_job_status>
   </repository>
 </enlistment>

@@ -1,0 +1,23 @@
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+<enlistment>
+  <id>650698</id>
+  <project_id>149</project_id>
+  <repository_id>665080</repository_id>
+  <repository>
+    <id>665080</id>
+    <type>SvnRepository</type>
+    <url>https://svn.exotica.org.uk:8443/xbmc4xbox/trunk</url>
+    <username />
+    <password />
+    <logged_at>2014-08-19T00:00:00Z</logged_at>
+    <commits>12330</commits>
+    <ohloh_job_status>failed</ohloh_job_status>
+  </repository>
+</enlistment>
+  </result>
+</response>

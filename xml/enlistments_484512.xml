@@ -1,0 +1,23 @@
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+<enlistment>
+  <id>464494</id>
+  <project_id>484512</project_id>
+  <repository_id>461230</repository_id>
+  <repository>
+    <id>461230</id>
+    <type>GitRepository</type>
+    <url>git://github.com/errai/errai.git</url>
+    <username />
+    <password />
+    <logged_at>2016-07-25T00:00:00Z</logged_at>
+    <commits>7396</commits>
+    <ohloh_job_status>success</ohloh_job_status>
+  </repository>
+</enlistment>
+  </result>
+</response>
