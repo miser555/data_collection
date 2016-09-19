@@ -128,6 +128,7 @@ def fetch_xml(target, page=1, pid=None):
         print("openning (fetch_xml): {}".format(url))
         f = urllib.request.urlopen(url)
         store_xml_file = True
+
     tree = ET.parse(f)
     elem = tree.getroot()
 
@@ -144,7 +145,11 @@ def fetch_df_from_xml(target, page=1, pid=None):
     if os.path.exists(msg_file_path):
         df = pd.read_msgpack(msg_file_path, encoding="utf-8")
     else:
-        elem = fetch_xml(target, page=page, pid=pid)
+        try:
+            elem = fetch_xml(target, page=page, pid=pid)
+        except ET.ParseError as pe:
+            print("Project {} might be removed".format(pid))
+            return None
 
         # for contribs
         records = [
