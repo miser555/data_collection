@@ -7,6 +7,7 @@ from settings import MSG_FOLDER
 
 urls = []
 repo_type = []
+projects_more_one_page = []
 
 
 def fetch_enlistment_from_html(pid):
@@ -20,11 +21,14 @@ def fetch_enlistment_from_html(pid):
         repo = row.findAll('td')[1].text.strip()
         urls.append(url)
         repo_type.append(repo)
+    testing_pages = soup.findAll("a", rel="next")
+    if testing_pages:
+        projects_more_one_page.append(testing_pages)
+        print("#### project {} has mulitple enlistments pages".format(pid))
     # we need the ID as well.
     # if should have been passed from the function parameters
     data = {"URL": urls, "repo_type": repo_type, "ID": pid}
     df = pd.DataFrame(data)
-    print("### enlistments DF: ")
     # do not forget to return the df!
     return df
 
@@ -67,3 +71,4 @@ if __name__ == '__main__':
     merged_df_file = os.path.join(MSG_FOLDER, "enlistments.msg")
     merged_data.to_msgpack(merged_df_file, encoding="utf-8")
     print("successfully merged everything into {}".format(merged_df_file))
+    print(projects_more_one_page)
